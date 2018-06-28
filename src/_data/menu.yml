@@ -3,23 +3,15 @@ index:
   icon: fe fe-home
   url: index.html
 
-interface:
-  name: Interface
+players:
+  name: Players
   icon: fe fe-box
-  subpages:
-    cards:
-      name: Cards design
-      icon: fe fe-box
-      url: cards.html
+  url: players.html
 
-    charts:
-      name: Charts
-      icon: fe fe-pie-chart
-      url: charts.html
-
-    pricing-cards:
-      name: Pricing cards
-      url: pricing-cards.html
+matches:
+  name: Matches
+  icon: fe fe-box
+  url: matches.html
 
 components:
   name: Components

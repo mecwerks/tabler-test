@@ -48,13 +48,13 @@ $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
 
-$blue: #467fcf;
+$blue: #6FC2EF;
 $azure: #45aaf2;
 $indigo: #6574cd;
-$purple: #a55eea;
+$purple: #E1A3EE;
 $pink: #f66d9b;
-$red: #cd201f;
-$orange: #fd9644;
+$red: #FB9FB1;
+$orange: #DDB26F;
 $yellow: #f1c40f;
 $lime: #7bd235;
 $green: #5eba00;
@@ -65,7 +65,10 @@ $cyan: #17a2b8;
 $text-muted: #9aa0ac;
 $text-muted-dark: #6e7687;
 
-$white: #fff;
+$body-bg: #F4F3EF;
+$body-color: $gray-700;
+
+$white: #F4F3EF;
 
 $primary: $blue;
 $secondary: $gray-600;
@@ -121,9 +124,6 @@ $social-colors: (
 	"bitbucket": #0052cc,
 );
 
-$body-bg: #f5f7fb;
-$body-color: $gray-700;
-
 // Code
 $code-font-size: 85%;
 $code-color: inherit;
@@ -152,8 +152,8 @@ $input-btn-focus-width: 2px;
 
 $input-disabled-bg: $gray-100;
 
-$input-focus-border-color: #1991eb;
-$custom-select-focus-border-color: #1991eb;
+$input-focus-border-color: #6FC2EF;
+$custom-select-focus-border-color: #6FC2EF;
 
 // Borders
 $border-width: 1px;
@@ -195,7 +195,7 @@ $container-max-widths: (
 );
 
 // Header
-$header-bg: #0667d0;
+$header-bg: #212120;
 $header-color: #fff;
 $header-height: 4.5rem;
 
@@ -241,7 +241,7 @@ $sizes: (
 );
 
 // Footer
-$footer-bg: #fff;
+$footer-bg: #212120;
 
 // Dropdowns
 $dropdown-border-color: $border-color;

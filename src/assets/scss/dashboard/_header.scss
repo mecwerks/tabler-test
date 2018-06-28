@@ -1,7 +1,7 @@
 .header {
 	padding-top: .75rem;
 	padding-bottom: .75rem;
-	background: #fff;
+	background: $header-bg;
 	border-bottom: 1px solid $border-color;
 
 	body.fixed-header & {
