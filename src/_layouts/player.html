@@ -21,7 +21,8 @@ layout: base
 		<div class="container">
 			<div class="row row-cards">
 				<div class="col-lg-4 order-lg-1 mb-4">
-					{% include cards/profile-2.html picture="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b8/b8e18ca25999b3a70815b9a0790d307d9b0b255c_full.jpg" name="Marxy" %}
+					{% assign pic = site.data.playerAvatars[page.UID] %}
+					{% include cards/profile-2.html picture=pic name=page.Name %}
 					{% for group in site.player-menu %}
 					<!-- {{ group.title }} -->
 					<div class="list-group list-group-transparent mb-0">
@@ -47,35 +48,35 @@ layout: base
 					<table>
 						<tr>
 							<td>Kills</td>
-							<td class="text-right"><span class="text-muted">989</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Kills}}</span></td>
 						</tr>
 						<tr>
 							<td>Deaths</td>
-							<td class="text-right"><span class="text-muted">826</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Deaths}}</span></td>
 						</tr>
 						<tr>
 							<td>Headshot %</td>
-							<td class="text-right"><span class="text-muted">36.91%</span></td>
+							<td class="text-right"><span class="text-muted">{{page.HeadshotPercentage}}</span></td>
 						</tr>
 						<tr>
 							<td>K/D</td>
-							<td class="text-right"><span class="text-muted">1.2</span></td>
+							<td class="text-right"><span class="text-muted">{{page.KDDiff}}</span></td>
 						</tr>
 						<tr>
 							<td>Damage</td>
-							<td class="text-right"><span class="text-muted">122489</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Damage}}</span></td>
 						</tr>
 						<tr>
 							<td>Matches</td>
-							<td class="text-right"><span class="text-muted">41</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Matches | size}}</span></td>
 						</tr>
 						<tr>
 							<td>Rounds</td>
-							<td class="text-right"><span class="text-muted">1152</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Rounds}}</span></td>
 						</tr>
 						<tr>
 							<td>Disconnected Matches</td>
-							<td class="text-right"><span class="text-muted">0</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Disconnects}}</span></td>
 						</tr>
 					</table>
 				</div>
@@ -84,35 +85,35 @@ layout: base
 					<table>
 						<tr>
 							<td>Hltv Rating</td>
-							<td class="text-right"><span class="text-muted">1.20</span></td>
+							<td class="text-right"><span class="text-muted">{{page.HltvRating}}</span></td>
 						</tr>
 						<tr>
 							<td>Kills/Round</td>
-							<td class="text-right"><span class="text-muted">0.86</span></td>
+							<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
 						</tr>
 						<tr>
 							<td>Assists/Round</td>
-							<td class="text-right"><span class="text-muted">0.18</span></td>
+							<td class="text-right"><span class="text-muted">{{page.AssistsPerRound}}</span></td>
 						</tr>
 						<tr>
 							<td>Deaths/Round</td>
-							<td class="text-right"><span class="text-muted">0.72</span></td>
+							<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
 						</tr>
 						<tr>
 							<td>Damage/Round</td>
-							<td class="text-right"><span class="text-muted">106.33</span></td>
+							<td class="text-right"><span class="text-muted">{{page.DamagePerRound}}</span></td>
 						</tr>
 						<tr>
 							<td>Trade Kills</td>
-							<td class="text-right"><span class="text-muted">112</span></td>
+							<td class="text-right"><span class="text-muted">{{page.TradeKills}}</span></td>
 						</tr>
 						<tr>
 							<td>Times Traded</td>
-							<td class="text-right"><span class="text-muted">114</span></td>
+							<td class="text-right"><span class="text-muted">{{page.TimesTraded}}</span></td>
 						</tr>
 						<tr>
 							<td>Ringer Matches</td>
-							<td class="text-right"><span class="text-muted">0</span></td>
+							<td class="text-right"><span class="text-muted">{{page.Rings}}</span></td>
 						</tr>
 					</table>
 				</div>

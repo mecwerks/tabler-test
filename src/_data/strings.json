@@ -1,0 +1,60 @@
+{
+	"demoweapons":
+	{
+		"Autos": "Autos",
+		"Other": "Other",
+		"Unknown":"Unknown",
+
+		"P2000":"P2000",
+		"Glock":"Glock-18",
+		"P250":"P250",
+		"Deagle":"Deagle",
+		"FiveSeven":"Five-seveN",
+		"DualBarettas":"Dualies",
+		"Tec9":"Tec-9",
+		"CZ":"CZ-75",
+		"USP":"USP-S",
+		"Revolver":"R8",
+
+		"MP7":"MP7",
+		"MP9":"MP9",
+		"Bizon":"PP-Bizon",
+		"Mac10":"Mac-10",
+		"UMP":"UMP-45",
+		"P90":"P90",
+
+		"SawedOff":"Sawed-Off",
+		"Nova":"Nova",
+		"Swag7":"Mag-7",
+		"XM1014":"XM1014",
+		"M249":"M249",
+		"Negev":"Negev",
+
+		"Gallil":"Galil",
+		"Famas":"Famas",
+		"AK47":"AK-47",
+		"M4A4":"M4A4",
+		"M4A1":"M4A1-S",
+		"Scout":"SSG 08",
+		"SG556":"SG-553",
+		"AUG":"AUG",
+		"AWP":"AWP",
+		"Scar20":"Scar-20",
+		"G3SG1":"G3SG1",
+
+		"Zeus":"Zeus",
+		"Kevlar":"Kevlar",
+		"Helmet":"Helmet",
+		"Bomb":"Bomb",
+		"Knife":"Knife",
+		"DefuseKit":"Defuse Kit",
+		"World":"World",
+
+		"Decoy":"Decoy",
+		"Molotov":"Molotov",
+		"Incendiary":"Incendiary",
+		"Flash":"Flash",
+		"Smoke":"Smoke",
+		"HE":"HE"
+	}
+}

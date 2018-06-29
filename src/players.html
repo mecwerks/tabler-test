@@ -9,21 +9,21 @@ permalink: players
 
 	{% include page-title.html title="Players" %}
 
-    {% assign cutoff = site.data.users | size | divided_by: 4 | ceil %}
+    {% assign cutoff = site.data.players | size | divided_by: 4.0 | ceil %}
 
 	<div class="row row-cards row-deck">
 		<div class="col-sm-6 col-lg-3">
             <ul class="list-unstyled list-separated">
-                {% for user in site.data.users limit: cutoff %}
-                    {% include userli.html user=user %}
+                {% for player in site.data.players limit: cutoff %}
+                    {% include userli.html player=player %}
                 {% endfor %}
             </ul>
 		</div>
 
 		<div class="col-sm-6 col-lg-3">
             <ul class="list-unstyled list-separated">
-                {% for user in site.data.users limit: cutoff offset: cutoff %}
-                    {% include userli.html user=user %}
+                {% for player in site.data.players limit: cutoff offset: cutoff %}
+                    {% include userli.html player=player %}
                 {% endfor %}
             </ul>
 		</div>
@@ -31,8 +31,8 @@ permalink: players
         {% assign cutoff2 = cutoff | times: 2 %}
 		<div class="col-sm-6 col-lg-3">
             <ul class="list-unstyled list-separated">
-                {% for user in site.data.users limit: cutoff offset: cutoff2 %}
-                    {% include userli.html user=user %}
+                {% for player in site.data.players limit: cutoff offset: cutoff2 %}
+                    {% include userli.html player=player %}
                 {% endfor %}
             </ul>
 		</div>
@@ -40,8 +40,8 @@ permalink: players
         {% assign cutoff3 = cutoff | times: 3 %}
 		<div class="col-sm-6 col-lg-3">
             <ul class="list-unstyled list-separated">
-                {% for user in site.data.users offset: cutoff3 %}
-                    {% include userli.html user=user %}
+                {% for player in site.data.players offset: cutoff3 %}
+                    {% include userli.html player=player %}
                 {% endfor %}
             </ul>
 		</div>

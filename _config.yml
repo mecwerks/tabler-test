@@ -9,6 +9,13 @@ plugins:
   - jekyll-toc
   - jekyll-random
 
+page_gen:
+  - data: 'players'
+    template: 'player'
+    name: 'UID'
+    dir: 'players'
+    index_files: true
+
 exclude:
   - regenerate-images.sh
   - .editorconfig
