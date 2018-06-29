@@ -1,3 +1,44 @@
+kills:
+  name: Kills
+  display: true
+  type: pie
+  hide-legend: false
+  series:
+    - name: AK-47
+      color: red
+      data: [359]
+    - name: M4A4
+      color: blue
+      data: [79]
+    - name: M4A1-S
+      color: blue-light
+      data: [33]
+    - name: Deagle
+      color: yellow-light
+      data: [121]
+
+clutcheswon:
+  name: Clutches Won
+  display: true
+  type: pie
+  hide-legend: false
+  series:
+    - name: 1v1
+      color: blue-light
+      data: [10]
+    - name: 1v2
+      color: green-light
+      data: [5]
+    - name: 1v3
+      color: yellow-light
+      data: [2]
+    - name: 1v4
+      color: red-light
+      data: [0]
+    - name: 1v5
+      color: orange-light
+      data: [0]
+
 tasks:
   name: Tasks
   type: line

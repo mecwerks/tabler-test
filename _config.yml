@@ -1,5 +1,5 @@
-title: Tabler
-description: tabler.github.io - a responsive, flat and full featured admin template
+title: Marxynet
+description: marxy.net - private 10man statistics
 
 source: src
 host: 0.0.0.0
@@ -61,17 +61,21 @@ jekyll_tidy:
   ignore_env: development
 
 base_color: '#467fcf'
-github_url: https://github.com/tabler/tabler
+github_url: https://github.com/mecwerks/tabler_test
 
 author:
-   name: codecalm.net
-   url: https://codecalm.net
+   name: Marcus Collins
+   url: https://github.com/mecwerks
+
+player-menu:
+  - title: Statistics
+    pages: [Overview, Matches, Details, Weapons, Clutches]
 
 docs-menu:
   - title: Getting started
     pages: [index]
   - title: Components
-    pages: [alerts, avatars, buttons, colors, cards, charts, form-components, tags, typography]
+    pages: [alerts, avatars, buttons, colors, cards, charts, form-\components, tags, typography]
 
 colors:
   blue:

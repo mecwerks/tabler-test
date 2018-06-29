@@ -1,0 +1,9 @@
+<script>
+require(['jquery'], function ($) {
+    $(document).ready(function() {
+        $(".container").on("click", ".row-clickable", function() {
+            window.location = $(this).data('url');
+        });
+    });
+});
+</script>
