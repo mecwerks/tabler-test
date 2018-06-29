@@ -12,10 +12,12 @@ menu: index
 	<div class="row row-cards">
 
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number=59 title="Players" %}
+			{% assign playerCount = site.data.players | size %}
+			{% include cards/stats-2.html number=playerCount title="Players" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number=45 title="Matches" %}
+			{% assign matchCount = site.data.matches | size %}
+			{% include cards/stats-2.html number=matchCount title="Matches" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
 			{% include cards/stats-2.html number="4.1K" title="Kills" %}
