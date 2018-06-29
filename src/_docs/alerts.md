@@ -48,11 +48,11 @@ Add a dismiss button and the `.alert-dismissible` class, which adds extra paddin
 
 {% example html %}
 <div class="alert alert-avatar alert-primary alert-dismissible">
-  <span class="avatar" style="background-image: url({{ site.base }}/{{ site.data.users[12].photo }})"></span>
+  <span class="avatar" style="background-image: url({{ site.baseurl }}/{{ site.data.users[12].photo }})"></span>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 </div>
 <div class="alert alert-avatar alert-success alert-dismissible">
-  <span class="avatar" style="background-image: url({{ site.base }}/{{ site.data.users[13].photo }})"></span>
+  <span class="avatar" style="background-image: url({{ site.baseurl }}/{{ site.data.users[13].photo }})"></span>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 </div>
 {% endexample %}

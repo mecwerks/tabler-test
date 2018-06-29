@@ -15,6 +15,11 @@ page_gen:
     name: 'UID'
     dir: 'players'
     index_files: true
+  - data: 'matches'
+    template: 'match'
+    name: 'UID'
+    dir: 'matches'
+    index_files: true
 
 exclude:
   - regenerate-images.sh

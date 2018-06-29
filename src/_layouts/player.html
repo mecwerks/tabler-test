@@ -1,126 +1,105 @@
 ---
-layout: base
+layout: default
 ---
 
-{% comment %}
-{% include aside.html %}
-{% endcomment %}
-
-<div class="page-main">
-	{% include header.html %}
-
-	<div class="my-3 my-md-5">
-		{% if page.page-title %}
-		<div class="container">
-			<div class="page-header">
-				<h1 class="page-title">{{ page.page-title }}</h1>
+<div class="container">
+	<div class="row row-cards">
+		<div class="col-lg-4 order-lg-1 mb-4">
+			{% assign pic = site.data.playerAvatars[page.UID] %}
+			{% include cards/profile-2.html picture=pic name=page.Name %}
+			{% for group in site.player-menu %}
+			<!-- {{ group.title }} -->
+			<div class="list-group list-group-transparent mb-0">
+				{% for p in group.pages %}
+				{% assign doctitle = p %}
+				{% assign docurl = p %}
+				{% assign docicon = "fe fe-alert-triangle" %}
+				<a href="{{ page.url }}/{{ docurl }}" class="list-group-item list-group-item-action{% if page.url == docurl %} active{% endif %}"><span class="icon mr-3"><i class="{{ docicon }}"></i></span>{{ doctitle }}</a>
+				{% endfor %}
 			</div>
+			{% endfor %}
 		</div>
-		{% endif %}
 
-		<div class="container">
-			<div class="row row-cards">
-				<div class="col-lg-4 order-lg-1 mb-4">
-					{% assign pic = site.data.playerAvatars[page.UID] %}
-					{% include cards/profile-2.html picture=pic name=page.Name %}
-					{% for group in site.player-menu %}
-					<!-- {{ group.title }} -->
-					<div class="list-group list-group-transparent mb-0">
-						{% for p in group.pages %}
-						{% assign doctitle = p %}
-						{% assign docurl = p %}
-						{% assign docicon = "fe fe-alert-triangle" %}
-						<a href="{{ page.url }}/{{ docurl }}" class="list-group-item list-group-item-action{% if page.url == docurl %} active{% endif %}"><span class="icon mr-3"><i class="{{ docicon }}"></i></span>{{ doctitle }}</a>
-						{% endfor %}
-					</div>
-					{% endfor %}
-				</div>
+		<div class="col-sm-9 col-lg-4">
+			{% include cards/chart.html height=20 title="Kills" id="chart-pie" data="kills" %}
+		</div>
+		
+		<div class="col-sm-9 col-lg-4">
+			{% include cards/chart.html height=20 title="Clutches Won" id="chart-pie2" data="clutcheswon" %}
+		</div>
+		
+		<div class="col-sm-9 col-lg-4 order-lg-2">
+			<table>
+				<tr>
+					<td>Kills</td>
+					<td class="text-right"><span class="text-muted">{{page.Kills}}</span></td>
+				</tr>
+				<tr>
+					<td>Deaths</td>
+					<td class="text-right"><span class="text-muted">{{page.Deaths}}</span></td>
+				</tr>
+				<tr>
+					<td>Headshot %</td>
+					<td class="text-right"><span class="text-muted">{{page.HeadshotPercentage}}</span></td>
+				</tr>
+				<tr>
+					<td>K/D</td>
+					<td class="text-right"><span class="text-muted">{{page.KillDeathDifference}}</span></td>
+				</tr>
+				<tr>
+					<td>Damage</td>
+					<td class="text-right"><span class="text-muted">{{page.Damage}}</span></td>
+				</tr>
+				<tr>
+					<td>Matches</td>
+					<td class="text-right"><span class="text-muted">{{page.Matches | size}}</span></td>
+				</tr>
+				<tr>
+					<td>Rounds</td>
+					<td class="text-right"><span class="text-muted">{{page.Rounds}}</span></td>
+				</tr>
+				<tr>
+					<td>Disconnected Matches</td>
+					<td class="text-right"><span class="text-muted">{{page.Disconnects}}</span></td>
+				</tr>
+			</table>
+		</div>
 
-				<div class="col-sm-9 col-lg-4">
-					{% include cards/chart.html height=20 title="Kills" id="chart-pie" data="kills" %}
-				</div>
-				
-				<div class="col-sm-9 col-lg-4">
-					{% include cards/chart.html height=20 title="Clutches Won" id="chart-pie2" data="clutcheswon" %}
-				</div>
-				
-				<div class="col-sm-9 col-lg-4 order-lg-2">
-					<table>
-						<tr>
-							<td>Kills</td>
-							<td class="text-right"><span class="text-muted">{{page.Kills}}</span></td>
-						</tr>
-						<tr>
-							<td>Deaths</td>
-							<td class="text-right"><span class="text-muted">{{page.Deaths}}</span></td>
-						</tr>
-						<tr>
-							<td>Headshot %</td>
-							<td class="text-right"><span class="text-muted">{{page.HeadshotPercentage}}</span></td>
-						</tr>
-						<tr>
-							<td>K/D</td>
-							<td class="text-right"><span class="text-muted">{{page.KDDiff}}</span></td>
-						</tr>
-						<tr>
-							<td>Damage</td>
-							<td class="text-right"><span class="text-muted">{{page.Damage}}</span></td>
-						</tr>
-						<tr>
-							<td>Matches</td>
-							<td class="text-right"><span class="text-muted">{{page.Matches | size}}</span></td>
-						</tr>
-						<tr>
-							<td>Rounds</td>
-							<td class="text-right"><span class="text-muted">{{page.Rounds}}</span></td>
-						</tr>
-						<tr>
-							<td>Disconnected Matches</td>
-							<td class="text-right"><span class="text-muted">{{page.Disconnects}}</span></td>
-						</tr>
-					</table>
-				</div>
-
-				<div class="col-sm-9 col-lg-4 order-lg-3">
-					<table>
-						<tr>
-							<td>Hltv Rating</td>
-							<td class="text-right"><span class="text-muted">{{page.HltvRating}}</span></td>
-						</tr>
-						<tr>
-							<td>Kills/Round</td>
-							<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
-						</tr>
-						<tr>
-							<td>Assists/Round</td>
-							<td class="text-right"><span class="text-muted">{{page.AssistsPerRound}}</span></td>
-						</tr>
-						<tr>
-							<td>Deaths/Round</td>
-							<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
-						</tr>
-						<tr>
-							<td>Damage/Round</td>
-							<td class="text-right"><span class="text-muted">{{page.DamagePerRound}}</span></td>
-						</tr>
-						<tr>
-							<td>Trade Kills</td>
-							<td class="text-right"><span class="text-muted">{{page.TradeKills}}</span></td>
-						</tr>
-						<tr>
-							<td>Times Traded</td>
-							<td class="text-right"><span class="text-muted">{{page.TimesTraded}}</span></td>
-						</tr>
-						<tr>
-							<td>Ringer Matches</td>
-							<td class="text-right"><span class="text-muted">{{page.Rings}}</span></td>
-						</tr>
-					</table>
-				</div>
-			</div>
+		<div class="col-sm-9 col-lg-4 order-lg-3">
+			<table>
+				<tr>
+					<td>Hltv Rating</td>
+					<td class="text-right"><span class="text-muted">{{page.HltvRating}}</span></td>
+				</tr>
+				<tr>
+					<td>Kills/Round</td>
+					<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
+				</tr>
+				<tr>
+					<td>Assists/Round</td>
+					<td class="text-right"><span class="text-muted">{{page.AssistsPerRound}}</span></td>
+				</tr>
+				<tr>
+					<td>Deaths/Round</td>
+					<td class="text-right"><span class="text-muted">{{page.DeathsPerRound}}</span></td>
+				</tr>
+				<tr>
+					<td>Damage/Round</td>
+					<td class="text-right"><span class="text-muted">{{page.DamagePerRound}}</span></td>
+				</tr>
+				<tr>
+					<td>Trade Kills</td>
+					<td class="text-right"><span class="text-muted">{{page.TradeKills}}</span></td>
+				</tr>
+				<tr>
+					<td>Times Traded</td>
+					<td class="text-right"><span class="text-muted">{{page.TimesTraded}}</span></td>
+				</tr>
+				<tr>
+					<td>Ringer Matches</td>
+					<td class="text-right"><span class="text-muted">{{page.Rings}}</span></td>
+				</tr>
+			</table>
 		</div>
 	</div>
 </div>
-
-{% include footer-sub.html %}
-{% include footer.html %}

@@ -24,7 +24,7 @@ title: Crypto currencies
 			{% for item in site.data.crypto-currencies %}
 			<tr>
 				<td>{{ forloop.index }}</td>
-				<td>{% if item.icon %}<img src="{{ site.base }}/assets/images/crypto-currencies/{{ item.icon }}" alt="{{ item.name }}" class="w-4 h-4">{% endif %}</td>
+				<td>{% if item.icon %}<img src="{{ site.baseurl }}/assets/images/crypto-currencies/{{ item.icon }}" alt="{{ item.name }}" class="w-4 h-4">{% endif %}</td>
 				<td>{{ item.name }}</td>
 				<td>{{ item.price }}</td>
 				<td class="{% if item.p24h > 0 %}text-green{% elsif item.p24h < 0 %}text-red{% endif %}">{{ item.p24h }}%</td>

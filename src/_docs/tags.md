@@ -41,7 +41,7 @@ description: Small tag labels to insert anywhere
 {% example html wrapper=tags %}
 {% for user in site.data.users limit: 8 %}
 <span class="tag">
-  <span class="tag-avatar avatar" style="background-image: url({{ site.base }}/{{ user.photo }})"></span>
+  <span class="tag-avatar avatar" style="background-image: url({{ site.baseurl }}/{{ user.photo }})"></span>
   {{ user.name }}
 </span>
 {% endfor %}

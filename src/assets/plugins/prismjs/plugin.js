@@ -1,6 +1,6 @@
 require.config({
     paths: {
-        'prismjs': 'assets/plugins/prismjs/js/prism.pack',
+        'prismjs': '{{site.baseurl}}/assets/plugins/prismjs/js/prism.pack',
     },
 	shim: {
 		prism: {
