@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="container">
+	<div class="row row-cards">
+		<div class="col-lg-4 order-lg-1">
+			<div class="card">
+				<div class="card-body">
+					<div class="row">
+						<div class="col text-right">
+							<h1>Team A</h1>
+						</div>
+						<div class="col-auto text-center">
+							<h1>-</h1>
+						</div>
+						<div class="col text-left">
+							<h1>Team B</h1>
+						</div>
+					</div>
+					<div class="row mt-0 mb-0">
+						<div class="col text-center">
+							<h1><span class="text-green">16</span> - <span class="text-red">1</span></h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col text-center">
+							21:00 June 12th , 2018
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-body text-center">
+                    <h3 class="card-text">Mirage</h3>
+				</div>
+				<a href="#"><img class="card-img-bottom" src="http://www.marxy.net/assets/images/maps/de_mirage.jpg" alt="test"></a>
+			</div>
+		</div>
+
+		<div class="col-8">
+			<div class="row mb-3">
+					<div class="card col-12">
+						<div class="card-header">
+							<h3 class="card-title">HLTV Ratings</h3>
+						</div>
+						<div class="card-body">
+							<div id="chart-testhltv" style="height: 16rem"></div>
+						</div>
+					</div>
+					{% include js-charts.html id="chart-testhltv" data="testhtlv" %}
+			</div>
+			<div class="row">
+    			<div class="col-5">
+					{% include miniscoreboard.html name="Team A" %}
+				</div>
+				<div class="col-2 text-center align-self-center">
+					<h2>VS.</h2>
+				</div>
+    			<div class="col-5">
+					{% include miniscoreboard.html name="Team B" %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
