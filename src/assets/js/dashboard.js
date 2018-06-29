@@ -11,16 +11,16 @@ require.config({
         'core': ['bootstrap', 'jquery'],
     },
     paths: {
-        'core': '{{site.baseurl}}/assets/js/core',
-        'jquery': '{{site.baseurl}}/assets/js/vendors/jquery-3.2.1.min',
-        'bootstrap': '{{site.baseurl}}/assets/js/vendors/bootstrap.bundle.min',
-        'sparkline': '{{site.baseurl}}/assets/js/vendors/jquery.sparkline.min',
-        'selectize': '{{site.baseurl}}/assets/js/vendors/selectize.min',
-        'tablesorter': '{{site.baseurl}}/assets/js/vendors/jquery.tablesorter.min',
-        'vector-map': '{{site.baseurl}}/assets/js/vendors/jquery-jvectormap-2.0.3.min',
-        'vector-map-de': '{{site.baseurl}}/assets/js/vendors/jquery-jvectormap-de-merc',
-        'vector-map-world': '{{site.baseurl}}/assets/js/vendors/jquery-jvectormap-world-mill',
-        'circle-progress': '{{site.baseurl}}/assets/js/vendors/circle-progress.min',
+        'core': 'assets/js/core',
+        'jquery': 'assets/js/vendors/jquery-3.2.1.min',
+        'bootstrap': 'assets/js/vendors/bootstrap.bundle.min',
+        'sparkline': 'assets/js/vendors/jquery.sparkline.min',
+        'selectize': 'assets/js/vendors/selectize.min',
+        'tablesorter': 'assets/js/vendors/jquery.tablesorter.min',
+        'vector-map': 'assets/js/vendors/jquery-jvectormap-2.0.3.min',
+        'vector-map-de': 'assets/js/vendors/jquery-jvectormap-de-merc',
+        'vector-map-world': 'assets/js/vendors/jquery-jvectormap-world-mill',
+        'circle-progress': 'assets/js/vendors/circle-progress.min',
     }
 });
 
