@@ -11,6 +11,12 @@ permalink: matches
 	{% include page-title.html title="Matches" %}
 
     {% for group in site.data.matchGroups %}
+    <div class="row mb-5">
+        {% assign gtitle = group[0] %}
+        {% assign gmatches = group[1].Matches %}
+        {% include cards/matchlist.html title=gtitle matches=gmatches %}
+
+        {% comment %}
         <div class="row">
             <div class="col-12 text-center">
                 <h3>{{group[0]}}</h3>
@@ -41,6 +47,7 @@ permalink: matches
                 &nbsp;
             </div>
         </div>
-	{% endfor %}
+    {% endcomment %}
 	</div>
+    {% endfor %}
 </div>

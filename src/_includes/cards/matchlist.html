@@ -1,0 +1,26 @@
+	<h2 class="col-12 text-center align-self-center h-7 mb-0">{{include.title}}</h2>
+
+	<ul class="list-unstyled list-separated col-12">
+		{% for match in include.matches %}
+		<li class="">
+					{% include matchscorecolors.html AWins=match.TeamAWins BWins=match.TeamBWins %}
+				<div class="row row-clickable h-7 border" data-url="matches/{{match.UID}}">
+					<div class="col-2 align-self-center">
+						{{match.Time}}
+					</div>
+					<div class="col text-right align-self-center">
+						{{match.TeamAName}}
+					</div>
+					<div class="col-1 text-center align-self-center">
+						<span class="{{aclass}}">{{match.TeamAWins}}</span> - <span class="{{bclass}}">{{match.TeamBWins}}</span>
+					</div>
+					<div class="col text-left align-self-center">
+						{{match.TeamBName}}
+					</div>
+					<div class="col-2 text-right align-self-center">
+						{{match.Map}}
+					</div>
+				</div>
+		</li>
+		{% endfor %}
+	</ul>
