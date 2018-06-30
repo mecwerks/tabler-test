@@ -1,4 +1,4 @@
-title: Marxynet
+title: Marcus Collins
 description: marxy.net - private 10man statistics
 
 source: src
@@ -73,7 +73,7 @@ jekyll_tidy:
   ignore_env: development
 
 base_color: '#467fcf'
-github_url: https://github.com/mecwerks/tabler_test
+github_url: https://github.com/mecwerks/tabler-test
 
 author:
    name: Marcus Collins
