@@ -1,0 +1,1677 @@
+{
+  "hltv_2018-06-12_21_de_mirage_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Flip",
+      "K o z y ツ",
+      "Marxy",
+      "Ant-iwnl-",
+      "lilly",
+      "Devyn",
+      "Cool Cat",
+      "pastel",
+      "LaD3",
+      "SarahKBC"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.585,
+          1.53,
+          1.506,
+          1.211,
+          1.198,
+          0.983,
+          0.595,
+          0.527,
+          0.513,
+          0.496
+        ]
+      }
+    ]
+  },
+  "hltv_2018-06-06_21_de_dust2_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "lilly",
+      "Marxy",
+      "K o z y ツ",
+      "Ant-iwnl-",
+      "Glaci3r",
+      "pastel",
+      "ism",
+      "K",
+      "LaD3",
+      "FENTON",
+      "♕ Luck ღ"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.442,
+          1.376,
+          1.336,
+          1.31,
+          1.041,
+          0.959,
+          0.901,
+          0.818,
+          0.772,
+          0.715,
+          0.46
+        ]
+      }
+    ]
+  },
+  "hltv_2018-06-06_20_de_nuke_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "lilly",
+      "K o z y ツ",
+      "Ant-iwnl-",
+      "ism",
+      "Glaci3r",
+      "pastel",
+      "FENTON",
+      "LaD3",
+      "Marxy",
+      "♕ Luck ღ"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          2.941,
+          1.567,
+          1.506,
+          0.859,
+          0.782,
+          0.781,
+          0.606,
+          0.605,
+          0.449,
+          0.403
+        ]
+      }
+    ]
+  },
+  "hltv_2018-03-14_19_de_dust2_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "peace",
+      "Marxy",
+      "Calf Een",
+      "✪ WAZZI",
+      "Ant-iwnl-",
+      "The Kilogram",
+      "Fenton",
+      "Flip",
+      "Good ol' Spuds",
+      "Kira 🌙"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.591,
+          1.328,
+          1.084,
+          1.077,
+          1.07,
+          0.974,
+          0.792,
+          0.779,
+          0.779,
+          0.614
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-25_14_de_cbble_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Devyn",
+      "Ant-iwnl-",
+      "Kira 🌙",
+      "Skyline",
+      "PartyPetah",
+      "Fenton",
+      "✪ BEST GIRL",
+      "Marxy",
+      "Got Em",
+      "ism"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.429,
+          1.316,
+          1.163,
+          1.083,
+          1.063,
+          0.958,
+          0.857,
+          0.78,
+          0.674,
+          0.508
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-19_20_de_mirage_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Frooty cs.money",
+      "Frost",
+      "Ant-iwnl-",
+      "PabloNoPico cs.money",
+      "Jason The Asian",
+      "Devyn",
+      "ism",
+      "Guwop2k",
+      "Marxy",
+      "Flip"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.5,
+          1.455,
+          1.238,
+          1.162,
+          1.078,
+          0.971,
+          0.917,
+          0.732,
+          0.589,
+          0.355
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-18_19_de_oldnuke_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "imReedy",
+      "Glaci3r",
+      "Marxy",
+      "Fenton",
+      "Flip",
+      "pshesports.com",
+      "Devyn",
+      "✪ WAZZI",
+      "Zaggle"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.541,
+          1.387,
+          1.256,
+          1.183,
+          1.085,
+          1.009,
+          0.913,
+          0.794,
+          0.645,
+          0.566
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-16_22_de_dust2_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Devyn",
+      "Glaci3r",
+      "ZIZIWA�W�",
+      "Flip",
+      "ama",
+      "sssc.osm.roosr",
+      "oool",
+      "  c�L�L�k�c",
+      "JQ."
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          2.081,
+          1.261,
+          1.254,
+          1.16,
+          0.967,
+          0.846,
+          0.823,
+          0.755,
+          0.555,
+          0.513
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-10_00_de_overpass_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Xamba",
+      "Skyline",
+      "Flow",
+      "pshesports.com",
+      "Glaci3r",
+      "Ant-iwnl-",
+      "✪ WAZZI",
+      "PartyPetah",
+      "LC",
+      "Catnip"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.452,
+          1.378,
+          1.288,
+          1.2,
+          1.03,
+          0.923,
+          0.9,
+          0.87,
+          0.513,
+          0.319
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-06_21_de_overpass_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "wormy",
+      "rî§К",
+      "AdamV",
+      "Marxy",
+      "Ant-iwnl-",
+      "imReedy",
+      "PartyPetah",
+      "pshesports.com",
+      "LC",
+      "Catnip"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.316,
+          1.262,
+          1.195,
+          1.126,
+          1.087,
+          0.969,
+          0.944,
+          0.844,
+          0.496,
+          0.492
+        ]
+      }
+    ]
+  },
+  "hltv_2018-02-02_22_de_inferno_old_pug": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "pshesports.com",
+      "Skyline",
+      "Ant-iwnl-",
+      "Zaggle",
+      "✪ WAZZI",
+      "Marxy",
+      "wormy",
+      "Jdbener",
+      "Catnip",
+      "LC"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.659,
+          1.545,
+          1.307,
+          1.101,
+          1.07,
+          0.929,
+          0.912,
+          0.863,
+          0.402,
+          0.279
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2018-01-31_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Glaci3r",
+      "Ant-iwnl-",
+      "elvis depressedly",
+      "Marxy",
+      "AdamV",
+      "PartyPetah",
+      "✪ WAZZI",
+      "LC",
+      "pshesports.com",
+      "Catnip"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.709,
+          1.212,
+          1.209,
+          1.205,
+          1.141,
+          0.969,
+          0.964,
+          0.768,
+          0.532,
+          0.224
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_nuke_2018-01-31_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Skyline",
+      "Marxy",
+      "AdamV",
+      "Catnip",
+      "rî§К",
+      "Flip",
+      "✪ WAZZI",
+      "imReedy",
+      "pshesports.com",
+      "LC"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          2.823,
+          1.293,
+          1.134,
+          0.966,
+          0.923,
+          0.889,
+          0.869,
+          0.827,
+          0.68,
+          0.599,
+          0.402
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2018-01-30_20": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Skyline",
+      "wormy",
+      "✪ WAZZI",
+      "Flip",
+      "Marxy",
+      "imReedy",
+      "LC",
+      "pshesports.com",
+      "Catnip"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.778,
+          1.452,
+          1.32,
+          0.988,
+          0.931,
+          0.866,
+          0.786,
+          0.768,
+          0.567,
+          0.483
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2018-01-29_19": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Cam",
+      "wormy",
+      "Ant-iwnl-",
+      "rî§К",
+      "Skyline",
+      "Marxy",
+      "Flip",
+      "imReedy",
+      "Fenton",
+      "pshesports.com"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.323,
+          1.314,
+          1.163,
+          1.132,
+          1.132,
+          0.962,
+          0.893,
+          0.758,
+          0.713,
+          0.512
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cbble_2018-01-28_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Flip",
+      "imReedy",
+      "nullptr",
+      "✪ WAZZI",
+      "ism",
+      "The Kilogram",
+      "AdamV",
+      "Devyn",
+      "pshesports.com",
+      "inside butthole hairs"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.723,
+          1.623,
+          1.062,
+          1.024,
+          1.0,
+          0.923,
+          0.817,
+          0.787,
+          0.74,
+          0.653,
+          0.524
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2018-01-21_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Devyn",
+      "ism",
+      "Marxy",
+      "宮園 かをり",
+      "BAB",
+      "wormy",
+      "Flip",
+      "Ant-iwnl-",
+      "(2)best girl",
+      "My Grill"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.916,
+          1.229,
+          1.221,
+          1.015,
+          0.839,
+          0.832,
+          0.788,
+          0.759,
+          0.631,
+          0.543
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2018-01-21_20": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Devyn",
+      "Flip",
+      "(3)best girl",
+      "ism",
+      "(6)best girl",
+      "Ant-iwnl-",
+      "(2)Best Girl",
+      "TiltyTiddy",
+      "BOT Bussy"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.94,
+          1.232,
+          1.182,
+          1.112,
+          1.047,
+          0.865,
+          0.835,
+          0.61,
+          0.424,
+          0.356
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_inferno_2018-01-19_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Devyn",
+      "OG Gnu",
+      "AdamV",
+      "Marxy",
+      "Froztbitten",
+      "♕ Solo Q ღ",
+      "Zaggle",
+      "LC",
+      "Screamcry"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.898,
+          1.558,
+          1.489,
+          1.214,
+          1.139,
+          0.837,
+          0.686,
+          0.595,
+          0.481,
+          0.39
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2018-01-19_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Glaci3r",
+      "Ant-iwnl-",
+      "Marxy",
+      "Froztbitten",
+      "Devyn",
+      "Zaggle",
+      "Flip",
+      "Catnip",
+      "rî§К",
+      "LC"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.539,
+          1.4,
+          1.374,
+          1.113,
+          1.068,
+          1.009,
+          0.867,
+          0.733,
+          0.665,
+          0.349
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_oldnuke_2018-01-18_20": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Marxy",
+      "Devyn",
+      "Flip",
+      "Froztbitten",
+      "✪ WAZZI",
+      "imReedy",
+      "Catnip",
+      "Lahey",
+      "LC"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.999,
+          1.35,
+          1.281,
+          1.099,
+          0.95,
+          0.921,
+          0.852,
+          0.703,
+          0.524,
+          0.433
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_inferno_old_2018-01-13_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Glaci3r",
+      "✪ WAZZI",
+      "watching arches",
+      "Froztbitten",
+      "Marxy",
+      "K",
+      "Zaggle",
+      "89iup34reawfdjcx",
+      "SHEA BUTTER"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.606,
+          1.385,
+          1.105,
+          1.097,
+          0.823,
+          0.819,
+          0.779,
+          0.749,
+          0.741,
+          0.43
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_train_2018-01-13_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Glaci3r",
+      "rî§К",
+      "✪ WAZZI",
+      "89iup34reawfdjcx",
+      "Marxy",
+      "SHEA BUTTER",
+      "K",
+      "Zaggle",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.427,
+          1.35,
+          1.294,
+          1.282,
+          1.039,
+          1.027,
+          0.827,
+          0.755,
+          0.634,
+          0.344
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2018-01-12_20": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Glaci3r",
+      "89iup34reawfdjcx",
+      "Ant-iwnl-",
+      "Ch1ral",
+      "flow",
+      "rî§К",
+      "Froztbitten",
+      "OG Gnu",
+      "Marxy",
+      "Zaggle"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.357,
+          1.23,
+          1.163,
+          1.123,
+          1.107,
+          1.07,
+          0.854,
+          0.777,
+          0.592,
+          0.386
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_nuke_2018-01-11_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "imReedy",
+      "Ant-iwnl-",
+      "Marxy",
+      "ism",
+      "Devyn",
+      "Flip",
+      "Fenton",
+      "✪ WAZZI",
+      "Glaci3r",
+      "rî§К"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.49,
+          1.289,
+          1.051,
+          1.021,
+          0.982,
+          0.974,
+          0.971,
+          0.767,
+          0.739,
+          0.719
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_dust2_2018-01-05_20": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Skyline",
+      "flow",
+      "astray",
+      "✪ WAZZI",
+      "Flip",
+      "geist",
+      "Fenton",
+      "Marxy",
+      "Zaggle"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.923,
+          1.522,
+          0.963,
+          0.941,
+          0.929,
+          0.881,
+          0.838,
+          0.77,
+          0.741,
+          0.532
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2018-01-03_19": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Ant-iwnl-",
+      "Fenton",
+      "Devyn",
+      "ism",
+      "flow",
+      "Skyline",
+      "rî§К",
+      "Zaggle",
+      "Evaporate"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.547,
+          1.439,
+          1.359,
+          1.169,
+          1.14,
+          1.091,
+          1.077,
+          1.031,
+          0.38,
+          0.173
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_overpass_2017-12-25_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Flip",
+      "Marxy",
+      "Devyn",
+      "rî§К",
+      "ism",
+      "Froztbitten",
+      "Ken the Doll",
+      "Zaggle",
+      "♕ Luck ღ"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.912,
+          1.52,
+          1.314,
+          0.996,
+          0.932,
+          0.866,
+          0.788,
+          0.673,
+          0.608,
+          0.318
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_dust2_2017-12-23_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Devyn",
+      "Zaggle",
+      "Ant-iwnl-",
+      "im down with browntown",
+      "Flip",
+      "ism",
+      "K",
+      "♕ Luck ღ",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.869,
+          1.479,
+          1.282,
+          1.244,
+          0.9,
+          0.766,
+          0.741,
+          0.711,
+          0.529,
+          0.494
+        ]
+      }
+    ]
+  },
+  "hltv_pug_cs_office_2017-12-23_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Fenton",
+      "Marxy",
+      "K",
+      "♕ Luck ღ",
+      "ism",
+      "Flip",
+      "im down with browntown",
+      "Zaggle",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          2.213,
+          1.395,
+          1.233,
+          1.027,
+          0.929,
+          0.895,
+          0.752,
+          0.715,
+          0.461,
+          0.288
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_train_2017-12-22_00": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "flow",
+      "Ant-iwnl-",
+      "Devyn",
+      "Fenton",
+      "K",
+      "Ch1ral",
+      "Glaci3r",
+      "Marxy",
+      "astray",
+      "ism"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.585,
+          1.39,
+          1.084,
+          1.069,
+          1.005,
+          0.985,
+          0.94,
+          0.92,
+          0.847,
+          0.44
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2017-12-21_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Glaci3r",
+      "Ant-iwnl-",
+      "flow",
+      "nullptr",
+      "K",
+      "Marxy",
+      "Devyn",
+      "Ch1ral",
+      "ism",
+      "Zaggle"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.413,
+          1.353,
+          1.263,
+          1.12,
+          1.027,
+          0.905,
+          0.869,
+          0.858,
+          0.733,
+          0.592
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_overpass_2017-12-21_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Marxy",
+      "nullptr",
+      "flow",
+      "Devyn",
+      "ism",
+      "The Kilogram",
+      "Flip",
+      "imReedy",
+      "mittins"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.628,
+          1.354,
+          1.274,
+          1.201,
+          1.199,
+          0.903,
+          0.903,
+          0.867,
+          0.798,
+          0.411
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2017-12-20_18": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "flow",
+      "ism",
+      "Marxy",
+      "rî§К",
+      "Fenton",
+      "Devyn",
+      "K",
+      "Zaggle",
+      "🖤ENDL3SSL0V3™🖤",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.607,
+          1.318,
+          1.291,
+          1.204,
+          1.126,
+          1.109,
+          0.891,
+          0.704,
+          0.575,
+          0.498,
+          0.413
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2017-12-18_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Ant-iwnl-",
+      "Devyn",
+      "✪ WAZZI",
+      "Flip",
+      "Cam",
+      "ism",
+      "imReedy",
+      "Froztbitten",
+      "K"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.851,
+          1.195,
+          1.105,
+          0.995,
+          0.847,
+          0.815,
+          0.813,
+          0.739,
+          0.695,
+          0.543
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_train_2017-12-18_21": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Ant-iwnl-",
+      "Fenton",
+      "Cam",
+      "K",
+      "Devyn",
+      "ism",
+      "✪ WAZZI",
+      "Flip",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.162,
+          1.134,
+          1.108,
+          1.106,
+          1.049,
+          1.006,
+          0.987,
+          0.817,
+          0.77,
+          0.546
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_inferno_old_2017-12-17_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Devyn",
+      "Marxy",
+      "ism",
+      "LaD3",
+      "Flip",
+      "Ant-iwnl-",
+      "JQ.",
+      "🖤ENDL3SSL0V3™🖤",
+      "K",
+      "Froztbitten"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.451,
+          1.405,
+          1.201,
+          1.193,
+          1.122,
+          1.095,
+          0.985,
+          0.77,
+          0.413,
+          0.413
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_inferno_old_2017-12-16_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Devyn",
+      "Marxy",
+      "Flip",
+      "imReedy",
+      "LaD3",
+      "PartyPetah",
+      "USPS TRACKING",
+      "Froztbitten",
+      "K"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.791,
+          1.48,
+          1.284,
+          1.145,
+          1.097,
+          0.741,
+          0.712,
+          0.673,
+          0.585,
+          0.574
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_season_2017-12-15_00": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Skyline",
+      "Marxy",
+      "OG Gnu",
+      "[IFN] Police Academy [M]",
+      "Fenton",
+      "Devyn",
+      "the innocent hostage",
+      "ism",
+      "Not Your Dad"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.444,
+          1.341,
+          1.247,
+          1.21,
+          1.068,
+          0.854,
+          0.812,
+          0.636,
+          0.634,
+          0.302
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_inferno_2017-12-10_23": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Marxy",
+      "Catnip",
+      "ism",
+      "rî§К",
+      "Devyn",
+      "LC",
+      "JQ.",
+      "the innocent hostage",
+      "Fenton"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.52,
+          1.297,
+          1.091,
+          1.014,
+          1.009,
+          0.967,
+          0.855,
+          0.816,
+          0.709,
+          0.444
+        ]
+      }
+    ]
+  },
+  "hltv_pug_cs_office_2017-12-03_18": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Marxy",
+      "Reihn",
+      "OG Gnu",
+      "Devyn",
+      "Ant-iwnl-",
+      "Catnip",
+      "LC",
+      "Flip",
+      "ism",
+      "PartyPetah",
+      "♕ Luck ღ"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          2.068,
+          1.456,
+          1.153,
+          1.029,
+          0.935,
+          0.873,
+          0.873,
+          0.768,
+          0.704,
+          0.609,
+          0.519
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2017-08-19_00": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Wormy",
+      "prg [C]",
+      "Devyn",
+      "Flip",
+      "Ant-iwnl-",
+      "Marxy",
+      "Invalidism",
+      "ism",
+      "alt-CJ",
+      "K csgoboss.com"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.697,
+          1.292,
+          1.292,
+          1.094,
+          1.014,
+          1.011,
+          0.971,
+          0.804,
+          0.555,
+          0.44
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_overpass_2017-08-08_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "Ant-iwnl-",
+      "Marxy",
+      "Zaggle",
+      "Fenton | powered by depression",
+      "LaD3",
+      "Mike Nolan",
+      "alt-CJ",
+      "Devyn",
+      "Salty Satanic Daddy (͠≖ ͜ʖ",
+      "Not K"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.711,
+          1.617,
+          1.136,
+          1.09,
+          0.936,
+          0.888,
+          0.708,
+          0.605,
+          0.598,
+          0.496
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_cache_2017-08-08_01": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "rî§К",
+      "ism",
+      "Ant-iwnl-",
+      "Dogwithrabiez",
+      "Marxy",
+      "Mike Nolan",
+      "Devyn",
+      "Zaggle",
+      "Mike Nolan Must Die",
+      "alt-CJ"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.668,
+          1.408,
+          1.245,
+          1.197,
+          0.957,
+          0.956,
+          0.858,
+          0.789,
+          0.731,
+          0.3
+        ]
+      }
+    ]
+  },
+  "hltv_pug_de_mirage_2017-08-07_22": {
+    "name": "Hltv Rating",
+    "display": true,
+    "type": "bar",
+    "rotated": true,
+    "hide_legend": true,
+    "categories": [
+      "rî§К",
+      "Marxy",
+      "Fenton | powered by depression",
+      "prg [C]",
+      "Ant-iwnl-",
+      "Blue Cunts with Guns",
+      "ism",
+      "Dad",
+      "Zaggle",
+      "K"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.451,
+          1.349,
+          1.194,
+          1.159,
+          1.094,
+          1.074,
+          1.031,
+          0.947,
+          0.733,
+          0.231
+        ]
+      }
+    ]
+  }
+}

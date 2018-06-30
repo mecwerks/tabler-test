@@ -13,7 +13,7 @@ layout: default
 						<div class="col-12 text-center h-5 mb-1">
 							<h3>{{page.TeamA.Name}}</h3>
 						</div>
-						<div class="col-12 h-5 text-center">
+						<div class="col-12 mt-2 mb-2 text-center">
 							<small>vs.</small>
 						</div>
 						<div class="col-12 text-center h-5 mt-1 mb-3">
@@ -22,14 +22,14 @@ layout: default
 					</div>
 					<div class="row mt-0 mb-0">
 						<div class="col text-center">
-							<h1><span class="{{aclass}}">{{page.TeamA.RoundWins}}</span> - <span class="{{bclass}}">{{page.TeamB.RoundWins}}</span></h1>
+							<h1 class="mb-0"><span class="{{aclass}}">{{page.TeamA.RoundWins}}</span> - <span class="{{bclass}}">{{page.TeamB.RoundWins}}</span></h1>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col text-center">
-							{{page.Month}}/{{page.Day}}/{{page.Year}}</br>
-							{{page.Hour}}:00
-						</div>
+				</div>
+				<div class="card-footer">
+					<div class="text-center">
+						{{page.Month}}/{{page.Day}}/{{page.Year}}</br>
+						{{page.Hour}}:00 EST
 					</div>
 				</div>
 			</div>
@@ -42,18 +42,19 @@ layout: default
 		</div>
 
 		<div class="col-8">
-			<div class="row mb-3">
+			<div class="row mb-1">
+					{% assign chart_key = "hltv_" | append: page.UID %}
 					<div class="card col-12">
 						<div class="card-header">
 							<h3 class="card-title">HLTV Ratings</h3>
 						</div>
-						<div class="card-body">
-							<div id="chart-testhltv" style="height: 16rem"></div>
+						<div class="card-body row no-gutters">
+							<div class="col-12" id="{{chart_key}}" style="height: 20rem"></div>
 						</div>
 					</div>
-					{% include js-charts.html id="chart-testhltv" data="testhtlv" %}
+					{% include js-charts.html id=chart_key data=chart_key %}
 			</div>
-			<div class="row">
+			<div class="row pl-3 pr-3 pt-4 pb-4 border">
     			<div class="col-5">
 					{% include miniscoreboard.html team=page.TeamA players=page.Players %}
 				</div>
