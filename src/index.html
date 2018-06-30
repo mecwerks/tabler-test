@@ -12,24 +12,22 @@ menu: index
 	<div class="row row-cards">
 
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% assign playerCount = site.data.players | size %}
-			{% include cards/stats-2.html number=playerCount title="Players" %}
+			{% include cards/stats-2.html number=site.data.global.Players title="Players" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% assign matchCount = site.data.matches | size %}
-			{% include cards/stats-2.html number=matchCount title="Matches" %}
+			{% include cards/stats-2.html number=site.data.global.Matches title="Matches" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number="4.1K" title="Kills" %}
+			{% include cards/stats-2.html number=site.data.global.Player.Kills title="Kills" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-1.html number=412 title="Headshots" percentage=20 %}
+			{% include cards/stats-1.html number=site.data.global.Player.Headshots title="Headshots" percentage=site.data.global.Player.HeadshotPercentage %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number="14K" title="Damage" %}
+			{% include cards/stats-2.html number=site.data.global.Player.Damage title="Damage" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number=52 title="Team Kills" %}
+			{% include cards/stats-2.html number=site.data.global.Player.TeamKills title="Team Kills" %}
 		</div>
 
 		{% include cards/map-world.html %}

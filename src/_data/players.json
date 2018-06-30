@@ -196,7 +196,7 @@
         "Damage": 5
       }
     },
-    "HeadshotPercentage": 0.65,
+    "HeadshotPercentage": 64.71,
     "KillDeathDifference": 1,
     "Damage": 1951,
     "KillsPerRound": 0.74,
@@ -558,7 +558,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.28,
+    "HeadshotPercentage": 27.85,
     "KillDeathDifference": -88,
     "Damage": 10853,
     "KillsPerRound": 0.36,
@@ -938,7 +938,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.41,
+    "HeadshotPercentage": 40.61,
     "KillDeathDifference": -23,
     "Damage": 44170,
     "KillsPerRound": 0.67,
@@ -1189,7 +1189,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.35,
+    "HeadshotPercentage": 35.48,
     "KillDeathDifference": 1,
     "Damage": 7601,
     "KillsPerRound": 0.72,
@@ -1443,7 +1443,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.47,
+    "HeadshotPercentage": 47.3,
     "KillDeathDifference": 11,
     "Damage": 9041,
     "KillsPerRound": 0.87,
@@ -1725,7 +1725,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.4,
+    "HeadshotPercentage": 39.77,
     "KillDeathDifference": 4,
     "Damage": 10331,
     "KillsPerRound": 0.8,
@@ -2148,7 +2148,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.3,
+    "HeadshotPercentage": 30.49,
     "KillDeathDifference": 449,
     "Damage": 141337,
     "KillsPerRound": 0.97,
@@ -2532,7 +2532,7 @@
         "Damage": 85
       }
     },
-    "HeadshotPercentage": 0.4,
+    "HeadshotPercentage": 40.45,
     "KillDeathDifference": -172,
     "Damage": 52067,
     "KillsPerRound": 0.51,
@@ -2906,7 +2906,7 @@
         "Damage": 25
       }
     },
-    "HeadshotPercentage": 0.32,
+    "HeadshotPercentage": 32.3,
     "KillDeathDifference": -143,
     "Damage": 22637,
     "KillsPerRound": 0.41,
@@ -3150,7 +3150,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.34,
+    "HeadshotPercentage": 33.9,
     "KillDeathDifference": 4,
     "Damage": 7294,
     "KillsPerRound": 0.75,
@@ -3337,7 +3337,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.4,
+    "HeadshotPercentage": 40.0,
     "KillDeathDifference": -9,
     "Damage": 1521,
     "KillsPerRound": 0.37,
@@ -3531,7 +3531,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.44,
+    "HeadshotPercentage": 44.44,
     "KillDeathDifference": 0,
     "Damage": 2158,
     "KillsPerRound": 0.72,
@@ -3950,7 +3950,7 @@
         "Damage": 100
       }
     },
-    "HeadshotPercentage": 0.53,
+    "HeadshotPercentage": 53.48,
     "KillDeathDifference": 69,
     "Damage": 70782,
     "KillsPerRound": 0.8,
@@ -4144,7 +4144,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.33,
     "KillDeathDifference": 4,
     "Damage": 2277,
     "KillsPerRound": 0.75,
@@ -4487,7 +4487,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.37,
+    "HeadshotPercentage": 36.52,
     "KillDeathDifference": -28,
     "Damage": 14688,
     "KillsPerRound": 0.65,
@@ -5026,7 +5026,7 @@
         "Damage": 69
       }
     },
-    "HeadshotPercentage": 0.46,
+    "HeadshotPercentage": 45.57,
     "KillDeathDifference": -37,
     "Damage": 39867,
     "KillsPerRound": 0.69,
@@ -5421,7 +5421,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.37,
+    "HeadshotPercentage": 37.23,
     "KillDeathDifference": -23,
     "Damage": 65349,
     "KillsPerRound": 0.72,
@@ -5608,7 +5608,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.43,
+    "HeadshotPercentage": 43.48,
     "KillDeathDifference": 9,
     "Damage": 2798,
     "KillsPerRound": 0.92,
@@ -5795,7 +5795,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.36,
+    "HeadshotPercentage": 36.36,
     "KillDeathDifference": 8,
     "Damage": 2569,
     "KillsPerRound": 0.88,
@@ -5982,7 +5982,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.45,
+    "HeadshotPercentage": 45.45,
     "KillDeathDifference": -4,
     "Damage": 2625,
     "KillsPerRound": 0.76,
@@ -6301,7 +6301,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.24,
+    "HeadshotPercentage": 23.79,
     "KillDeathDifference": 58,
     "Damage": 35815,
     "KillsPerRound": 0.85,
@@ -6494,7 +6494,7 @@
         "Damage": 4
       }
     },
-    "HeadshotPercentage": 0.42,
+    "HeadshotPercentage": 42.11,
     "KillDeathDifference": -7,
     "Damage": 2499,
     "KillsPerRound": 0.56,
@@ -6688,7 +6688,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.33,
     "KillDeathDifference": -5,
     "Damage": 1551,
     "KillsPerRound": 0.48,
@@ -7004,7 +7004,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.36,
+    "HeadshotPercentage": 36.25,
     "KillDeathDifference": -6,
     "Damage": 32021,
     "KillsPerRound": 0.72,
@@ -7198,7 +7198,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.43,
+    "HeadshotPercentage": 42.86,
     "KillDeathDifference": 1,
     "Damage": 1961,
     "KillsPerRound": 0.58,
@@ -7604,7 +7604,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.36,
+    "HeadshotPercentage": 35.52,
     "KillDeathDifference": -48,
     "Damage": 50343,
     "KillsPerRound": 0.64,
@@ -7798,7 +7798,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.21,
+    "HeadshotPercentage": 21.05,
     "KillDeathDifference": 4,
     "Damage": 2280,
     "KillsPerRound": 0.76,
@@ -7936,7 +7936,7 @@
         "Damage": 29
       }
     },
-    "HeadshotPercentage": 0.17,
+    "HeadshotPercentage": 16.67,
     "KillDeathDifference": -4,
     "Damage": 553,
     "KillsPerRound": 0.3,
@@ -8230,7 +8230,7 @@
         "Damage": 21
       }
     },
-    "HeadshotPercentage": 0.36,
+    "HeadshotPercentage": 36.36,
     "KillDeathDifference": -15,
     "Damage": 7460,
     "KillsPerRound": 0.56,
@@ -8603,7 +8603,7 @@
         "Damage": 52
       }
     },
-    "HeadshotPercentage": 0.26,
+    "HeadshotPercentage": 25.73,
     "KillDeathDifference": -127,
     "Damage": 29436,
     "KillsPerRound": 0.46,
@@ -8859,7 +8859,7 @@
         "Damage": 275
       }
     },
-    "HeadshotPercentage": 0.26,
+    "HeadshotPercentage": 25.56,
     "KillDeathDifference": 33,
     "Damage": 10965,
     "KillsPerRound": 0.97,
@@ -9129,7 +9129,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.41,
+    "HeadshotPercentage": 41.33,
     "KillDeathDifference": -11,
     "Damage": 10880,
     "KillsPerRound": 0.64,
@@ -9418,7 +9418,7 @@
         "Damage": 172
       }
     },
-    "HeadshotPercentage": 0.26,
+    "HeadshotPercentage": 26.36,
     "KillDeathDifference": -37,
     "Damage": 17045,
     "KillsPerRound": 0.6,
@@ -9764,7 +9764,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.41,
+    "HeadshotPercentage": 40.83,
     "KillDeathDifference": -127,
     "Damage": 15578,
     "KillsPerRound": 0.38,
@@ -9987,7 +9987,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.4,
+    "HeadshotPercentage": 39.62,
     "KillDeathDifference": 45,
     "Damage": 11584,
     "KillsPerRound": 1.14,
@@ -10418,7 +10418,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.37,
+    "HeadshotPercentage": 36.91,
     "KillDeathDifference": 163,
     "Damage": 122489,
     "KillsPerRound": 0.86,
@@ -10604,7 +10604,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.18,
+    "HeadshotPercentage": 18.18,
     "KillDeathDifference": -18,
     "Damage": 1544,
     "KillsPerRound": 0.37,
@@ -10781,7 +10781,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.33,
     "KillDeathDifference": -16,
     "Damage": 1049,
     "KillsPerRound": 0.13,
@@ -11017,7 +11017,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.38,
+    "HeadshotPercentage": 38.1,
     "KillDeathDifference": 3,
     "Damage": 7072,
     "KillsPerRound": 0.8,
@@ -11315,7 +11315,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.54,
+    "HeadshotPercentage": 54.08,
     "KillDeathDifference": 8,
     "Damage": 12250,
     "KillsPerRound": 0.92,
@@ -11650,7 +11650,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.45,
+    "HeadshotPercentage": 45.09,
     "KillDeathDifference": 47,
     "Damage": 45590,
     "KillsPerRound": 0.85,
@@ -11837,7 +11837,7 @@
         "Damage": 200
       }
     },
-    "HeadshotPercentage": 0.6,
+    "HeadshotPercentage": 60.0,
     "KillDeathDifference": 3,
     "Damage": 2429,
     "KillsPerRound": 0.8,
@@ -12168,7 +12168,7 @@
         "Damage": 373
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.04,
     "KillDeathDifference": -26,
     "Damage": 15133,
     "KillsPerRound": 0.58,
@@ -12418,7 +12418,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.4,
+    "HeadshotPercentage": 39.66,
     "KillDeathDifference": -14,
     "Damage": 7182,
     "KillsPerRound": 0.62,
@@ -12598,7 +12598,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.21,
+    "HeadshotPercentage": 21.05,
     "KillDeathDifference": 15,
     "Damage": 4533,
     "KillsPerRound": 1.12,
@@ -12845,7 +12845,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.27,
+    "HeadshotPercentage": 26.83,
     "KillDeathDifference": 10,
     "Damage": 4498,
     "KillsPerRound": 0.84,
@@ -13060,7 +13060,7 @@
         "Damage": 100
       }
     },
-    "HeadshotPercentage": 0.44,
+    "HeadshotPercentage": 44.44,
     "KillDeathDifference": 7,
     "Damage": 3169,
     "KillsPerRound": 1.0,
@@ -13420,7 +13420,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.46,
     "KillDeathDifference": 34,
     "Damage": 32662,
     "KillsPerRound": 0.75,
@@ -13627,7 +13627,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.33,
+    "HeadshotPercentage": 33.33,
     "KillDeathDifference": -10,
     "Damage": 1572,
     "KillsPerRound": 0.52,
@@ -13799,7 +13799,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.55,
+    "HeadshotPercentage": 54.55,
     "KillDeathDifference": -13,
     "Damage": 1178,
     "KillsPerRound": 0.41,
@@ -14024,7 +14024,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.09,
+    "HeadshotPercentage": 9.09,
     "KillDeathDifference": -19,
     "Damage": 2530,
     "KillsPerRound": 0.39,
@@ -14313,7 +14313,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.29,
+    "HeadshotPercentage": 28.64,
     "KillDeathDifference": 75,
     "Damage": 23517,
     "KillsPerRound": 0.85,
@@ -14538,7 +14538,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.45,
+    "HeadshotPercentage": 45.45,
     "KillDeathDifference": -11,
     "Damage": 3135,
     "KillsPerRound": 0.42,
@@ -14787,7 +14787,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.26,
+    "HeadshotPercentage": 26.42,
     "KillDeathDifference": -10,
     "Damage": 7018,
     "KillsPerRound": 0.6,
@@ -15037,7 +15037,7 @@
         "Damage": 22
       }
     },
-    "HeadshotPercentage": 0.36,
+    "HeadshotPercentage": 35.71,
     "KillDeathDifference": -16,
     "Damage": 4716,
     "KillsPerRound": 0.47,
@@ -15224,7 +15224,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.42,
+    "HeadshotPercentage": 41.67,
     "KillDeathDifference": 9,
     "Damage": 2650,
     "KillsPerRound": 0.92,
@@ -15614,7 +15614,7 @@
         "Damage": 171
       }
     },
-    "HeadshotPercentage": 0.32,
+    "HeadshotPercentage": 31.6,
     "KillDeathDifference": -113,
     "Damage": 26624,
     "KillsPerRound": 0.48,
@@ -15853,7 +15853,7 @@
         "Damage": 0
       }
     },
-    "HeadshotPercentage": 0.29,
+    "HeadshotPercentage": 28.57,
     "KillDeathDifference": -17,
     "Damage": 2883,
     "KillsPerRound": 0.3,

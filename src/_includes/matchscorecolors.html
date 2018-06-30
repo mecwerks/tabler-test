@@ -1,0 +1,12 @@
+{% assign awins = include.AWins | times: 1 %}
+{% assign bwins = include.BWins | times: 1 %}
+{% if awins > bwins %} 
+    {% assign aclass = "text-green"%} 
+    {% assign bclass = "text-red" %} 
+{% elsif awins < bwins %} 
+    {% assign aclass="text-red" %} 
+    {% assign bclass="text-green" %} 
+{% else %} 
+    {% assign aclass="text-blue" %} 
+    {% assign bclass="text-blue" %} 
+{% endif %} 

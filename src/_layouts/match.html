@@ -2,39 +2,42 @@
 layout: default
 ---
 
+{% include matchscorecolors.html AWins=page.TeamA.RoundWins BWins=page.TeamB.RoundWins %}
+
 <div class="container">
 	<div class="row row-cards">
 		<div class="col-lg-4 order-lg-1">
 			<div class="card">
 				<div class="card-body">
 					<div class="row">
-						<div class="col text-right">
-							<h1>Team A</h1>
+						<div class="col-12 text-center h-5 mb-1">
+							<h3>{{page.TeamA.Name}}</h3>
 						</div>
-						<div class="col-auto text-center">
-							<h1>-</h1>
+						<div class="col-12 h-5 text-center">
+							<small>vs.</small>
 						</div>
-						<div class="col text-left">
-							<h1>Team B</h1>
+						<div class="col-12 text-center h-5 mt-1 mb-3">
+							<h3>{{page.TeamB.Name}}</h3>
 						</div>
 					</div>
 					<div class="row mt-0 mb-0">
 						<div class="col text-center">
-							<h1><span class="text-green">16</span> - <span class="text-red">1</span></h1>
+							<h1><span class="{{aclass}}">{{page.TeamA.RoundWins}}</span> - <span class="{{bclass}}">{{page.TeamB.RoundWins}}</span></h1>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col text-center">
-							21:00 June 12th , 2018
+							{{page.Month}}/{{page.Day}}/{{page.Year}}</br>
+							{{page.Hour}}:00
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-body text-center">
-                    <h3 class="card-text">Mirage</h3>
+                    <h3 class="card-text">{{page.Map}}</h3>
 				</div>
-				<a href="#"><img class="card-img-bottom" src="http://www.marxy.net/assets/images/maps/de_mirage.jpg" alt="test"></a>
+				<a href="#"><img class="card-img-bottom" src="http://www.marxy.net/assets/images/maps/{{page.Map}}.jpg" alt="test"></a>
 			</div>
 		</div>
 
@@ -52,13 +55,13 @@ layout: default
 			</div>
 			<div class="row">
     			<div class="col-5">
-					{% include miniscoreboard.html name="Team A" %}
+					{% include miniscoreboard.html team=page.TeamA players=page.Players %}
 				</div>
 				<div class="col-2 text-center align-self-center">
 					<h2>VS.</h2>
 				</div>
     			<div class="col-5">
-					{% include miniscoreboard.html name="Team B" %}
+					{% include miniscoreboard.html team=page.TeamB players=page.Players %}
 				</div>
 			</div>
 		</div>

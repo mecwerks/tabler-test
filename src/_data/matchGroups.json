@@ -1,0 +1,437 @@
+{
+  "June, 2018": {
+    "Date": "June, 2018",
+    "Matches": [
+      {
+        "UID": "2018-06-12_21_de_mirage_pug",
+        "Time": "12th @ 21:00",
+        "TeamAName": "Team Cool Cat",
+        "TeamBName": "Team pastel",
+        "TeamAWins": "16",
+        "TeamBWins": "11",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "2018-06-06_21_de_dust2_pug",
+        "Time": "6th @ 21:00",
+        "TeamAName": "Team FENTON",
+        "TeamBName": "Team K o z y ãƒ„",
+        "TeamAWins": "23",
+        "TeamBWins": "25",
+        "Map": "de_dust2"
+      },
+      {
+        "UID": "2018-06-06_20_de_nuke_pug",
+        "Time": "6th @ 20:00",
+        "TeamAName": "Team Mio",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "2",
+        "TeamBWins": "16",
+        "Map": "de_nuke"
+      }
+    ]
+  },
+  "March, 2018": {
+    "Date": "March, 2018",
+    "Matches": [
+      {
+        "UID": "2018-03-14_19_de_dust2_pug",
+        "Time": "14th @ 19:00",
+        "TeamAName": "Team The Kilogram",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "19",
+        "TeamBWins": "15",
+        "Map": "de_dust2"
+      }
+    ]
+  },
+  "February, 2018": {
+    "Date": "February, 2018",
+    "Matches": [
+      {
+        "UID": "2018-02-25_14_de_cbble_pug",
+        "Time": "25th @ 14:00",
+        "TeamAName": "Team ism",
+        "TeamBName": "Team Mio",
+        "TeamAWins": "15",
+        "TeamBWins": "15",
+        "Map": "de_cbble"
+      },
+      {
+        "UID": "2018-02-19_20_de_mirage_pug",
+        "Time": "19th @ 20:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "Team Frost",
+        "TeamAWins": "9",
+        "TeamBWins": "16",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "2018-02-18_19_de_oldnuke_pug",
+        "Time": "18th @ 19:00",
+        "TeamAName": "Team imReedy",
+        "TeamBName": "Team Glaci3r",
+        "TeamAWins": "16",
+        "TeamBWins": "12",
+        "Map": "de_oldnuke"
+      },
+      {
+        "UID": "2018-02-16_22_de_dust2_pug",
+        "Time": "16th @ 22:00",
+        "TeamAName": "Team unnamed",
+        "TeamBName": "Team JQ.",
+        "TeamAWins": "11",
+        "TeamBWins": "16",
+        "Map": "de_dust2"
+      },
+      {
+        "UID": "2018-02-10_00_de_overpass_pug",
+        "Time": "10th @ 0:00",
+        "TeamAName": "Team pshesports.com",
+        "TeamBName": "Team âœª WAZZI",
+        "TeamAWins": "16",
+        "TeamBWins": "10",
+        "Map": "de_overpass"
+      },
+      {
+        "UID": "2018-02-06_21_de_overpass_pug",
+        "Time": "6th @ 21:00",
+        "TeamAName": "Team AdamV",
+        "TeamBName": "Team PartyPetah",
+        "TeamAWins": "9",
+        "TeamBWins": "16",
+        "Map": "de_overpass"
+      },
+      {
+        "UID": "2018-02-02_22_de_inferno_old_pug",
+        "Time": "2nd @ 22:00",
+        "TeamAName": "Team Mio",
+        "TeamBName": "Team Skyline",
+        "TeamAWins": "4",
+        "TeamBWins": "16",
+        "Map": "de_inferno_old"
+      }
+    ]
+  },
+  "January, 2018": {
+    "Date": "January, 2018",
+    "Matches": [
+      {
+        "UID": "pug_de_mirage_2018-01-31_22",
+        "Time": "31st @ 22:00",
+        "TeamAName": "Team âœª WAZZI",
+        "TeamBName": "Team Catnip",
+        "TeamAWins": "16",
+        "TeamBWins": "10",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_nuke_2018-01-31_21",
+        "Time": "31st @ 21:00",
+        "TeamAName": "Team pshesports.com",
+        "TeamBName": "Team rÃ®Â§Ðš",
+        "TeamAWins": "9",
+        "TeamBWins": "16",
+        "Map": "de_nuke"
+      },
+      {
+        "UID": "pug_de_cache_2018-01-30_20",
+        "Time": "30th @ 20:00",
+        "TeamAName": "Team Catnip",
+        "TeamBName": "Team china number one",
+        "TeamAWins": "16",
+        "TeamBWins": "12",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_mirage_2018-01-29_19",
+        "Time": "29th @ 19:00",
+        "TeamAName": "Team wormy",
+        "TeamBName": "Team Fenton",
+        "TeamAWins": "16",
+        "TeamBWins": "13",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_cbble_2018-01-28_21",
+        "Time": "28th @ 21:00",
+        "TeamAName": "Team pshesports.com",
+        "TeamBName": "Team searching for e-wife",
+        "TeamAWins": "8",
+        "TeamBWins": "16",
+        "Map": "de_cbble"
+      },
+      {
+        "UID": "pug_de_cache_2018-01-21_22",
+        "Time": "21st @ 22:00",
+        "TeamAName": "Team wormy",
+        "TeamBName": "Team Best girl",
+        "TeamAWins": "16",
+        "TeamBWins": "6",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_mirage_2018-01-21_20",
+        "Time": "21st @ 20:00",
+        "TeamAName": "Team TiltyTiddy",
+        "TeamBName": "Team Mio",
+        "TeamAWins": "5",
+        "TeamBWins": "16",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_inferno_2018-01-19_23",
+        "Time": "19th @ 23:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "11",
+        "TeamBWins": "16",
+        "Map": "de_inferno"
+      },
+      {
+        "UID": "pug_de_cache_2018-01-19_21",
+        "Time": "19th @ 21:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "Team B",
+        "TeamAWins": "14",
+        "TeamBWins": "16",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_oldnuke_2018-01-18_20",
+        "Time": "18th @ 20:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "19",
+        "TeamBWins": "15",
+        "Map": "de_oldnuke"
+      },
+      {
+        "UID": "pug_de_inferno_old_2018-01-13_23",
+        "Time": "13th @ 23:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "11",
+        "TeamBWins": "16",
+        "Map": "de_inferno_old"
+      },
+      {
+        "UID": "pug_de_train_2018-01-13_22",
+        "Time": "13th @ 22:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "16",
+        "TeamBWins": "13",
+        "Map": "de_train"
+      },
+      {
+        "UID": "pug_de_mirage_2018-01-12_20",
+        "Time": "12th @ 20:00",
+        "TeamAName": "Team A",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "16",
+        "TeamBWins": "14",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_nuke_2018-01-11_21",
+        "Time": "11th @ 21:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "13",
+        "Map": "de_nuke"
+      },
+      {
+        "UID": "pug_de_dust2_2018-01-05_20",
+        "Time": "5th @ 20:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "16",
+        "TeamBWins": "13",
+        "Map": "de_dust2"
+      },
+      {
+        "UID": "pug_de_cache_2018-01-03_19",
+        "Time": "3rd @ 19:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "16",
+        "TeamBWins": "8",
+        "Map": "de_cache"
+      }
+    ]
+  },
+  "December, 2017": {
+    "Date": "December, 2017",
+    "Matches": [
+      {
+        "UID": "pug_de_overpass_2017-12-25_22",
+        "Time": "25th @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "16",
+        "TeamBWins": "10",
+        "Map": "de_overpass"
+      },
+      {
+        "UID": "pug_de_dust2_2017-12-23_23",
+        "Time": "23rd @ 23:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "7",
+        "Map": "de_dust2"
+      },
+      {
+        "UID": "pug_cs_office_2017-12-23_22",
+        "Time": "23rd @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "7",
+        "TeamBWins": "16",
+        "Map": "cs_office"
+      },
+      {
+        "UID": "pug_de_train_2017-12-22_00",
+        "Time": "22nd @ 0:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "8",
+        "TeamBWins": "16",
+        "Map": "de_train"
+      },
+      {
+        "UID": "pug_de_mirage_2017-12-21_23",
+        "Time": "21st @ 23:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "9",
+        "TeamBWins": "16",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_overpass_2017-12-21_21",
+        "Time": "21st @ 21:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "14",
+        "TeamBWins": "16",
+        "Map": "de_overpass"
+      },
+      {
+        "UID": "pug_de_mirage_2017-12-20_18",
+        "Time": "20th @ 18:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "12",
+        "TeamBWins": "16",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "pug_de_cache_2017-12-18_22",
+        "Time": "18th @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "No, this is Patrick",
+        "TeamAWins": "8",
+        "TeamBWins": "16",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_train_2017-12-18_21",
+        "Time": "18th @ 21:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "15",
+        "TeamBWins": "15",
+        "Map": "de_train"
+      },
+      {
+        "UID": "pug_de_inferno_old_2017-12-17_22",
+        "Time": "17th @ 22:00",
+        "TeamAName": "No, this is Patrick",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "22",
+        "TeamBWins": "19",
+        "Map": "de_inferno_old"
+      },
+      {
+        "UID": "pug_de_inferno_old_2017-12-16_23",
+        "Time": "16th @ 23:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "31",
+        "TeamBWins": "28",
+        "Map": "de_inferno_old"
+      },
+      {
+        "UID": "pug_de_season_2017-12-15_00",
+        "Time": "15th @ 0:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "7",
+        "Map": "de_season"
+      },
+      {
+        "UID": "pug_de_inferno_2017-12-10_23",
+        "Time": "10th @ 23:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "14",
+        "TeamBWins": "16",
+        "Map": "de_inferno"
+      },
+      {
+        "UID": "pug_cs_office_2017-12-03_18",
+        "Time": "3rd @ 18:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "11",
+        "TeamBWins": "16",
+        "Map": "cs_office"
+      }
+    ]
+  },
+  "August, 2017": {
+    "Date": "August, 2017",
+    "Matches": [
+      {
+        "UID": "pug_de_cache_2017-08-19_00",
+        "Time": "19th @ 0:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "8",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_overpass_2017-08-08_22",
+        "Time": "8th @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "7",
+        "TeamBWins": "16",
+        "Map": "de_overpass"
+      },
+      {
+        "UID": "pug_de_cache_2017-08-08_01",
+        "Time": "8th @ 1:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "8",
+        "Map": "de_cache"
+      },
+      {
+        "UID": "pug_de_mirage_2017-08-07_22",
+        "Time": "7th @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "9",
+        "TeamBWins": "16",
+        "Map": "de_mirage"
+      }
+    ]
+  }
+}

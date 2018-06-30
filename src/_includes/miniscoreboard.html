@@ -1,6 +1,6 @@
 <div class="row border">
     <div class="col-4">
-        {{ include.name }}
+        <small>{{ include.team.Name }}</small>
     </div>
     <div class="col-2 text-center">
         K
@@ -15,105 +15,41 @@
         HLTV
     </div>
 </div>
-<div class="row border">
-    <div class="col-4">
-        Player 1
+{% for id in include.team.SteamIDs %}
+    {% assign sID = id | downcase %}
+    {% assign player = include.players[sID] %}
+    <div class="row border">
+        <div class="col-4">
+            <a href="/players/{{player.UID}}">{{player.Name}}</a>
+        </div>
+        <div class="col-2 text-center">
+            {{player.Kills}}
+        </div>
+        <div class="col-2 text-center">
+            {{player.Assists}}
+        </div>
+        <div class="col-2 text-center">
+            {{player.Deaths}}
+        </div>
+        <div class="col-2 text-center">
+            {{player.HltvRating}}
+        </div>
     </div>
-    <div class="col-2 text-center">
-        27
-    </div>
-    <div class="col-2 text-center">
-        2
-    </div>
-    <div class="col-2 text-center">
-        13
-    </div>
-    <div class="col-2 text-center">
-        1.55
-    </div>
-</div>
-<div class="row border">
-    <div class="col-4">
-        Player 1
-    </div>
-    <div class="col-2 text-center">
-        27
-    </div>
-    <div class="col-2 text-center">
-        2
-    </div>
-    <div class="col-2 text-center">
-        13
-    </div>
-    <div class="col-2 text-center">
-        1.55
-    </div>
-</div>
-<div class="row border">
-    <div class="col-4">
-        Player 1
-    </div>
-    <div class="col-2 text-center">
-        27
-    </div>
-    <div class="col-2 text-center">
-        2
-    </div>
-    <div class="col-2 text-center">
-        13
-    </div>
-    <div class="col-2 text-center">
-        1.55
-    </div>
-</div>
-<div class="row border">
-    <div class="col-4">
-        Player 1
-    </div>
-    <div class="col-2 text-center">
-        27
-    </div>
-    <div class="col-2 text-center">
-        2
-    </div>
-    <div class="col-2 text-center">
-        13
-    </div>
-    <div class="col-2 text-center">
-        1.55
-    </div>
-</div>
-<div class="row border">
-    <div class="col-4">
-        Player 1
-    </div>
-    <div class="col-2 text-center">
-        27
-    </div>
-    <div class="col-2 text-center">
-        2
-    </div>
-    <div class="col-2 text-center">
-        13
-    </div>
-    <div class="col-2 text-center">
-        1.55
-    </div>
-</div>
+{% endfor %}
 <div class="row border">
     <div class="col-4">
         Total
     </div>
     <div class="col-2 text-center">
-        27
+        {{ include.team.Kills }}
     </div>
     <div class="col-2 text-center">
-        2
+        {{ include.team.Assists }}
     </div>
     <div class="col-2 text-center">
-        13
+        {{ include.team.Deaths }}
     </div>
     <div class="col-2 text-center">
-        1.55
+        {{ include.team.HltvRating }}
     </div>
 </div>
