@@ -10,6 +10,7 @@
 				<div class="nav-item d-none d-md-flex">
 					<a href="{{ site.github_url }}" class="btn btn-sm btn-outline-primary" target="_blank">Source code</a>
 				</div>
+				{% comment %}
 				<div class="dropdown d-none d-md-flex">
 					<a class="nav-link icon" data-toggle="dropdown">
 						<i class="fe fe-bell"></i>
@@ -72,6 +73,7 @@
 						</a>
 					</div>
 				</div>
+				{% endcomment %}
 			</div>
 
 			<a href="#" class="header-toggler d-lg-none ml-3 ml-lg-0" data-toggle="collapse" data-target="#headerMenuCollapse">
@@ -84,6 +86,7 @@
 <div class="header collapse d-lg-flex p-0" id="headerMenuCollapse">
 	<div class="container">
 		<div class="row align-items-center">
+			{% comment %}
 			<div class="col-lg-3 ml-auto">
 				<form class="input-icon my-3 my-lg-0">
 					<input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1">
@@ -92,6 +95,7 @@
 					</div>
 				</form>
 			</div>
+			{% endcomment %}
 			<div class="col-lg order-lg-first">
 				{% include menu.html %}
 			</div>
