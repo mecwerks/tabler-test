@@ -30,6 +30,8 @@ menu: index
 			{% include cards/stats-2.html number=site.data.global.Player.TeamKills title="Team Kills" %}
 		</div>
 
-		{% include cards/map-world.html %}
+		<div class="col-12">
+			{% include cards/chart.html height=20 title="Global Kill Distribution" id="kills_global" data="kills_global" %}
+		</div>
 	</div>
 </div>

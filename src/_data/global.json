@@ -465,6 +465,9 @@
     "AssistsPerRound": 0.15,
     "DeathsPerRound": 0.71,
     "DamagePerRound": 87.47,
+    "Shots": 0,
+    "Hits": 0,
+    "Accuracy": "NaN",
     "FlashAssists": 0,
     "TotalClutchesEntered": 1426,
     "TotalClutchesWon": 224

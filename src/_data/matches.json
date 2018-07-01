@@ -1,7 +1,7 @@
 [
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-06-12_21_de_mirage_pug",
     "Hour": 21,
     "Day": 12,
@@ -500,6 +500,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 400,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 12,
         "TotalClutchesWon": 2
@@ -673,6 +676,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 452,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -874,6 +880,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 370,
+        "Hits": 92,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -1075,6 +1084,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 558,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -1283,6 +1295,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 616,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -1463,6 +1478,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 229,
+        "Hits": 66,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -1635,6 +1653,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 278,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -1829,6 +1850,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 228,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -2016,6 +2040,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 340,
+        "Hits": 43,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -2203,6 +2230,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 420,
+        "Hits": 96,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -2211,7 +2241,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-06-06_21_de_dust2_pug",
     "Hour": 21,
     "Day": 6,
@@ -2793,6 +2823,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 747,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 9,
         "TotalClutchesWon": 1
@@ -2966,6 +2999,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 545,
+        "Hits": 107,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -3146,6 +3182,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 777,
+        "Hits": 162,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -3354,6 +3393,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 868,
+        "Hits": 171,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 11,
         "TotalClutchesWon": 0
@@ -3590,6 +3632,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 730,
+        "Hits": 176,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 1
@@ -3812,6 +3857,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 769,
+        "Hits": 123,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -4020,6 +4068,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 535,
+        "Hits": 132,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -4207,6 +4258,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 370,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -4429,6 +4483,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 589,
+        "Hits": 87,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -4637,6 +4694,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 575,
+        "Hits": 115,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -4698,6 +4758,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 0,
+        "Hits": 0,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -4706,7 +4769,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-06-06_20_de_nuke_pug",
     "Hour": 20,
     "Day": 6,
@@ -5111,6 +5174,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 381,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -5277,6 +5343,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 212,
+        "Hits": 37,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -5436,6 +5505,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 368,
+        "Hits": 95,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -5609,6 +5681,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 345,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -5788,6 +5863,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 137,
+        "Hits": 29,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -5982,6 +6060,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 388,
+        "Hits": 87,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 2
@@ -6176,6 +6257,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 263,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -6362,6 +6446,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 139,
+        "Hits": 38,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -6542,6 +6629,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 120,
+        "Hits": 32,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -6714,6 +6804,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 152,
+        "Hits": 22,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -6722,7 +6815,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-03-14_19_de_dust2_pug",
     "Hour": 19,
     "Day": 14,
@@ -7223,6 +7316,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 474,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -7445,6 +7541,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 993,
+        "Hits": 127,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -7632,6 +7731,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 471,
+        "Hits": 102,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -7812,6 +7914,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 381,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -8020,6 +8125,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 442,
+        "Hits": 83,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -8200,6 +8308,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 355,
+        "Hits": 105,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 1
@@ -8422,6 +8533,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 718,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -8644,6 +8758,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 670,
+        "Hits": 107,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -8837,6 +8954,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 418,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -9031,6 +9151,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 384,
+        "Hits": 88,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -9039,7 +9162,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-25_14_de_cbble_pug",
     "Hour": 14,
     "Day": 25,
@@ -9525,6 +9648,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 341,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -9712,6 +9838,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 432,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -9899,6 +10028,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 554,
+        "Hits": 130,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -10114,6 +10246,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 652,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -10322,6 +10457,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 596,
+        "Hits": 99,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -10530,6 +10668,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 600,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -10724,6 +10865,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 601,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 2
@@ -10918,6 +11062,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 567,
+        "Hits": 93,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -11133,6 +11280,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 342,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -11327,6 +11477,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 790,
+        "Hits": 99,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -11335,7 +11488,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-19_20_de_mirage_pug",
     "Hour": 20,
     "Day": 19,
@@ -11796,6 +11949,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 530,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -11962,6 +12118,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 411,
+        "Hits": 62,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -12149,6 +12308,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 490,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -12343,6 +12505,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 498,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -12515,6 +12680,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 245,
+        "Hits": 47,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -12702,6 +12870,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 445,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -12889,6 +13060,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 226,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -13075,6 +13249,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 419,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -13269,6 +13446,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 422,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -13463,6 +13643,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 312,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -13471,7 +13654,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-18_19_de_oldnuke_pug",
     "Hour": 19,
     "Day": 18,
@@ -13954,6 +14137,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 452,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -14162,6 +14348,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 524,
+        "Hits": 83,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -14349,6 +14538,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 522,
+        "Hits": 108,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -14564,6 +14756,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 347,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -14751,6 +14946,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 548,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -14945,6 +15143,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 367,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -15139,6 +15340,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 270,
+        "Hits": 53,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -15312,6 +15516,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 355,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -15513,6 +15720,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 349,
+        "Hits": 107,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -15700,6 +15910,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 582,
+        "Hits": 121,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -15708,7 +15921,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-16_22_de_dust2_pug",
     "Hour": 22,
     "Day": 16,
@@ -16186,6 +16399,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 457,
+        "Hits": 105,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 3
@@ -16387,6 +16603,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 421,
+        "Hits": 73,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -16588,6 +16807,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 327,
+        "Hits": 62,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -16775,6 +16997,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 324,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -16976,6 +17201,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 316,
+        "Hits": 64,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -17162,6 +17390,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 321,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -17349,6 +17580,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 498,
+        "Hits": 87,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -17571,6 +17805,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 371,
+        "Hits": 87,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -17792,6 +18029,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 493,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -17979,6 +18219,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 231,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -17987,7 +18230,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-10_00_de_overpass_pug",
     "Hour": 0,
     "Day": 10,
@@ -18462,6 +18705,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 663,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -18649,6 +18895,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 331,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -18829,6 +19078,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 422,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -19023,6 +19275,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 545,
+        "Hits": 104,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -19237,6 +19492,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 460,
+        "Hits": 29,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -19409,6 +19667,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 250,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -19581,6 +19842,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 272,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 12,
         "TotalClutchesWon": 1
@@ -19782,6 +20046,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 503,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -19962,6 +20229,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 425,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -20176,6 +20446,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 260,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -20184,7 +20457,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-06_21_de_overpass_pug",
     "Hour": 21,
     "Day": 6,
@@ -20652,6 +20925,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 520,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -20839,6 +21115,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 620,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -21040,6 +21319,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 470,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -21234,6 +21516,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 461,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -21442,6 +21727,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 607,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -21636,6 +21924,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 409,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -21800,6 +22091,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 263,
+        "Hits": 25,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -22008,6 +22302,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 420,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -22195,6 +22492,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 332,
+        "Hits": 56,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -22389,6 +22689,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 500,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -22397,7 +22700,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "2018-02-02_22_de_inferno_old_pug",
     "Hour": 22,
     "Day": 2,
@@ -22818,6 +23121,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 179,
+        "Hits": 32,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -22976,6 +23282,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 469,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 2
@@ -23191,6 +23500,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 428,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -23356,6 +23668,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 329,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -23564,6 +23879,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 420,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -23765,6 +24083,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 487,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -23903,6 +24224,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 122,
+        "Hits": 17,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -24096,6 +24420,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 421,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -24282,6 +24609,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 255,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -24511,6 +24841,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 397,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -24519,7 +24852,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2018-01-31_22",
     "Hour": 22,
     "Day": 31,
@@ -24985,6 +25318,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 445,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -25179,6 +25515,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 509,
+        "Hits": 95,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -25366,6 +25705,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 554,
+        "Hits": 72,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -25567,6 +25909,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 464,
+        "Hits": 83,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -25761,6 +26106,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 788,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -25962,6 +26310,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 354,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -26163,6 +26514,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 276,
+        "Hits": 93,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -26377,6 +26731,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 471,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -26556,6 +26913,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 292,
+        "Hits": 36,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -26708,6 +27068,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 313,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -26716,7 +27079,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_nuke_2018-01-31_21",
     "Hour": 21,
     "Day": 31,
@@ -27190,6 +27553,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 351,
+        "Hits": 72,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -27370,6 +27736,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 504,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -27550,6 +27919,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 785,
+        "Hits": 153,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -27764,6 +28136,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 285,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -27986,6 +28361,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 427,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -28215,6 +28593,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 358,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -28409,6 +28790,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 326,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -28631,6 +29015,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 444,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -28797,6 +29184,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 321,
+        "Hits": 62,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -28983,6 +29373,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 193,
+        "Hits": 44,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -29070,6 +29463,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 26,
+        "Hits": 3,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -29078,7 +29474,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2018-01-30_20",
     "Hour": 20,
     "Day": 30,
@@ -29547,6 +29943,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 489,
+        "Hits": 100,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 1
@@ -29740,6 +30139,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 359,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -29962,6 +30364,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 502,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -30156,6 +30561,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 658,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -30350,6 +30758,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 399,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -30565,6 +30976,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 468,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -30787,6 +31201,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 465,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -30981,6 +31398,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 749,
+        "Hits": 133,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -31154,6 +31574,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 356,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -31369,6 +31792,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 671,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -31377,7 +31803,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2018-01-29_19",
     "Hour": 19,
     "Day": 29,
@@ -31851,6 +32277,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 486,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -32052,6 +32481,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 676,
+        "Hits": 93,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -32246,6 +32678,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 322,
+        "Hits": 64,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -32440,6 +32875,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 456,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -32641,6 +33079,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 260,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -32827,6 +33268,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 242,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -33021,6 +33465,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 505,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -33208,6 +33655,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 762,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -33381,6 +33831,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 279,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -33596,6 +34049,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 494,
+        "Hits": 89,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -33604,7 +34060,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cbble_2018-01-28_21",
     "Hour": 21,
     "Day": 28,
@@ -34094,6 +34550,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 408,
+        "Hits": 72,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -34266,6 +34725,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 253,
+        "Hits": 43,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -34475,6 +34937,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 368,
+        "Hits": 60,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -34662,6 +35127,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 688,
+        "Hits": 102,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 3
@@ -34857,6 +35325,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 502,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -35043,6 +35514,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 365,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -35230,6 +35704,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 315,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -35396,6 +35873,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 428,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -35575,6 +36055,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 887,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -35776,6 +36259,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 359,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -35938,6 +36424,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 125,
+        "Hits": 16,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -35946,7 +36435,7 @@
   },
   {
     "Valid": false,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2018-01-21_22",
     "Hour": 22,
     "Day": 21,
@@ -36415,6 +36904,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 631,
+        "Hits": 68,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -36658,6 +37150,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 385,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -36859,6 +37354,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 361,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 9,
         "TotalClutchesWon": 1
@@ -37095,6 +37593,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 676,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -37324,6 +37825,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 333,
+        "Hits": 66,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -37518,6 +38022,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 386,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -37683,6 +38190,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 169,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -37940,6 +38450,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 333,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 2
@@ -38155,6 +38668,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 367,
+        "Hits": 64,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -38377,6 +38893,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 469,
+        "Hits": 75,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -38385,7 +38904,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2018-01-21_20",
     "Hour": 20,
     "Day": 21,
@@ -38833,6 +39352,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 355,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -39048,6 +39570,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 510,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -39255,6 +39780,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 481,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -39469,6 +39997,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 354,
+        "Hits": 52,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -39635,6 +40166,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 334,
+        "Hits": 68,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -39857,6 +40391,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 341,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -40051,6 +40588,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 420,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -40223,6 +40763,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 196,
+        "Hits": 27,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -40438,6 +40981,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 214,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -40653,6 +41199,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 403,
+        "Hits": 53,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -40661,7 +41210,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_inferno_2018-01-19_23",
     "Hour": 23,
     "Day": 19,
@@ -41147,6 +41696,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 220,
+        "Hits": 50,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -41312,6 +41864,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 319,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -41527,6 +42082,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 455,
+        "Hits": 83,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -41728,6 +42286,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 414,
+        "Hits": 102,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -41922,6 +42483,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 445,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -42144,6 +42708,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 232,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -42345,6 +42912,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 375,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -42567,6 +43137,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 635,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -42768,6 +43341,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 420,
+        "Hits": 64,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -42969,6 +43545,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 686,
+        "Hits": 145,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -42977,7 +43556,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2018-01-19_21",
     "Hour": 21,
     "Day": 19,
@@ -43477,6 +44056,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 582,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -43685,6 +44267,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 435,
+        "Hits": 86,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -43900,6 +44485,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 835,
+        "Hits": 124,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -44108,6 +44696,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 248,
+        "Hits": 72,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -44358,6 +44949,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 678,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -44601,6 +45195,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 392,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -44788,6 +45385,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 416,
+        "Hits": 108,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -44973,6 +45573,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 207,
+        "Hits": 34,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -45195,6 +45798,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 446,
+        "Hits": 114,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -45431,6 +46037,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 325,
+        "Hits": 86,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -45439,7 +46048,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_oldnuke_2018-01-18_20",
     "Hour": 20,
     "Day": 18,
@@ -45959,6 +46568,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 657,
+        "Hits": 104,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -46181,6 +46793,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 813,
+        "Hits": 147,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 3
@@ -46403,6 +47018,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 548,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -46639,6 +47257,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 719,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -46840,6 +47461,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 449,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -47034,6 +47658,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 379,
+        "Hits": 44,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -47263,6 +47890,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 310,
+        "Hits": 66,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -47506,6 +48136,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 651,
+        "Hits": 92,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -47721,6 +48354,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 589,
+        "Hits": 117,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -47929,6 +48565,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 527,
+        "Hits": 99,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -47937,7 +48576,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_inferno_old_2018-01-13_23",
     "Hour": 23,
     "Day": 13,
@@ -48422,6 +49061,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 268,
+        "Hits": 42,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -48644,6 +49286,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 599,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -48837,6 +49482,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 333,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -49030,6 +49678,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 395,
+        "Hits": 85,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -49223,6 +49874,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 117,
+        "Hits": 25,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -49410,6 +50064,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 296,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -49597,6 +50254,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 351,
+        "Hits": 89,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -49777,6 +50437,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 525,
+        "Hits": 106,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -49978,6 +50641,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 427,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -50151,6 +50817,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 660,
+        "Hits": 138,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -50159,7 +50828,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_train_2018-01-13_22",
     "Hour": 22,
     "Day": 13,
@@ -50674,6 +51343,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 233,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -50917,6 +51589,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 728,
+        "Hits": 121,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -51118,6 +51793,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 461,
+        "Hits": 122,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 3
@@ -51326,6 +52004,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 231,
+        "Hits": 73,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -51506,6 +52187,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 250,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -51700,6 +52384,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 283,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -51880,6 +52567,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 274,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -52123,6 +52813,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 468,
+        "Hits": 113,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -52331,6 +53024,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 209,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -52546,6 +53242,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 637,
+        "Hits": 109,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -52554,7 +53253,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2018-01-12_20",
     "Hour": 20,
     "Day": 12,
@@ -53054,6 +53753,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 329,
+        "Hits": 49,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -53240,6 +53942,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 269,
+        "Hits": 37,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -53441,6 +54146,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 470,
+        "Hits": 95,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -53635,6 +54343,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 372,
+        "Hits": 111,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -53850,6 +54561,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 494,
+        "Hits": 96,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -54058,6 +54772,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 463,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -54259,6 +54976,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 459,
+        "Hits": 99,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -54446,6 +55166,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 373,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -54640,6 +55363,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 311,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -54834,6 +55560,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 602,
+        "Hits": 111,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -54842,7 +55571,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_nuke_2018-01-11_21",
     "Hour": 21,
     "Day": 11,
@@ -55358,6 +56087,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 400,
+        "Hits": 92,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -55545,6 +56277,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 501,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -55738,6 +56473,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 284,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -55939,6 +56677,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 605,
+        "Hits": 133,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -56140,6 +56881,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 411,
+        "Hits": 73,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -56362,6 +57106,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 444,
+        "Hits": 85,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -56591,6 +57338,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 528,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -56806,6 +57556,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 524,
+        "Hits": 86,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -57007,6 +57760,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 522,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -57194,6 +57950,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 297,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -57202,7 +57961,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_dust2_2018-01-05_20",
     "Hour": 20,
     "Day": 5,
@@ -57704,6 +58463,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 412,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -57891,6 +58653,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 442,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -58085,6 +58850,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 608,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -58258,6 +59026,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 544,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -58445,6 +59216,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 342,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -58653,6 +59427,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 782,
+        "Hits": 85,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 10,
         "TotalClutchesWon": 1
@@ -58833,6 +59610,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 368,
+        "Hits": 83,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -59034,6 +59814,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 369,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -59233,6 +60016,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 245,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -59455,6 +60241,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 462,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -59463,7 +60252,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2018-01-03_19",
     "Hour": 19,
     "Day": 3,
@@ -59898,6 +60687,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 553,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -60106,6 +60898,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 629,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 2
@@ -60292,6 +61087,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 172,
+        "Hits": 37,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -60493,6 +61291,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 280,
+        "Hits": 49,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -60673,6 +61474,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 333,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -60867,6 +61671,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 422,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -61045,6 +61852,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 131,
+        "Hits": 33,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -61253,6 +62063,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 561,
+        "Hits": 105,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -61447,6 +62260,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 513,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -61655,6 +62471,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 225,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -61663,7 +62482,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_overpass_2017-12-25_22",
     "Hour": 22,
     "Day": 25,
@@ -62157,6 +62976,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 813,
+        "Hits": 119,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -62344,6 +63166,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 304,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -62524,6 +63349,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 383,
+        "Hits": 49,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -62732,6 +63560,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 493,
+        "Hits": 125,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -62947,6 +63778,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 450,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -63162,6 +63996,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 476,
+        "Hits": 100,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -63382,6 +64219,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 218,
+        "Hits": 42,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -63611,6 +64451,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 402,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -63826,6 +64669,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 779,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -64046,6 +64892,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 171,
+        "Hits": 23,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -64054,7 +64903,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_dust2_2017-12-23_23",
     "Hour": 23,
     "Day": 23,
@@ -64526,6 +65375,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 430,
+        "Hits": 62,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -64713,6 +65565,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 350,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -64907,6 +65762,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 199,
+        "Hits": 37,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -65108,6 +65966,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 511,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -65330,6 +66191,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 419,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 0
@@ -65510,6 +66374,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 320,
+        "Hits": 55,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -65724,6 +66591,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 141,
+        "Hits": 20,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -65932,6 +66802,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 304,
+        "Hits": 68,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -66140,6 +67013,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 253,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -66340,6 +67216,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 289,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -66348,7 +67227,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_cs_office_2017-12-23_22",
     "Hour": 22,
     "Day": 23,
@@ -66813,6 +67692,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 563,
+        "Hits": 134,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -67035,6 +67917,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 778,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -67271,6 +68156,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 113,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -67493,6 +68381,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 312,
+        "Hits": 52,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -67694,6 +68585,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 445,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -67888,6 +68782,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 299,
+        "Hits": 56,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -68103,6 +69000,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 155,
+        "Hits": 36,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -68304,6 +69204,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 408,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -68510,6 +69413,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 237,
+        "Hits": 49,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -68746,6 +69652,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 465,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -68754,7 +69663,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_train_2017-12-22_00",
     "Hour": 0,
     "Day": 22,
@@ -69219,6 +70128,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 356,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -69406,6 +70318,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 360,
+        "Hits": 60,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -69586,6 +70501,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 362,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -69773,6 +70691,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 399,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -69967,6 +70888,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 463,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -70161,6 +71085,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 232,
+        "Hits": 68,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -70362,6 +71289,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 317,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -70569,6 +71499,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 346,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -70777,6 +71710,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 285,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -70956,6 +71892,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 184,
+        "Hits": 32,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -70964,7 +71903,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2017-12-21_23",
     "Hour": 23,
     "Day": 21,
@@ -71425,6 +72364,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 440,
+        "Hits": 46,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -71626,6 +72568,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 287,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -71834,6 +72779,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 444,
+        "Hits": 48,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -72028,6 +72976,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 363,
+        "Hits": 41,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 2
@@ -72208,6 +73159,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 474,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -72402,6 +73356,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 334,
+        "Hits": 73,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -72609,6 +73566,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 330,
+        "Hits": 52,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -72796,6 +73756,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 583,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -72962,6 +73925,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 326,
+        "Hits": 53,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -73149,6 +74115,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 216,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -73157,7 +74126,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_overpass_2017-12-21_21",
     "Hour": 21,
     "Day": 21,
@@ -73678,6 +74647,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 828,
+        "Hits": 115,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -73879,6 +74851,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 486,
+        "Hits": 104,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -74066,6 +75041,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 444,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -74274,6 +75252,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 537,
+        "Hits": 72,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 2
@@ -74482,6 +75463,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 512,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -74711,6 +75695,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 405,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -74897,6 +75884,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 404,
+        "Hits": 52,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -75112,6 +76102,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 475,
+        "Hits": 78,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -75313,6 +76306,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 446,
+        "Hits": 104,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -75507,6 +76503,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 582,
+        "Hits": 109,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 3
@@ -75515,7 +76514,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2017-12-20_18",
     "Hour": 18,
     "Day": 20,
@@ -76011,6 +77010,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 679,
+        "Hits": 132,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 2
@@ -76212,6 +77214,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 325,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -76383,6 +77388,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 229,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -76570,6 +77578,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 373,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 1
@@ -76778,6 +77789,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 884,
+        "Hits": 95,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -76966,6 +77980,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 876,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -77160,6 +78177,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 542,
+        "Hits": 125,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -77344,6 +78364,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 172,
+        "Hits": 20,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -77532,6 +78555,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 245,
+        "Hits": 59,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -77741,6 +78767,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 517,
+        "Hits": 50,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -77862,6 +78891,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 88,
+        "Hits": 13,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -77870,7 +78902,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2017-12-18_22",
     "Hour": 22,
     "Day": 18,
@@ -78333,6 +79365,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 316,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -78541,6 +79576,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 424,
+        "Hits": 65,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -78728,6 +79766,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 647,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -78915,6 +79956,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 391,
+        "Hits": 51,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -79074,6 +80118,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 282,
+        "Hits": 46,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 9,
         "TotalClutchesWon": 0
@@ -79275,6 +80322,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 309,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -79454,6 +80504,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 329,
+        "Hits": 56,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -79634,6 +80687,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 183,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -79821,6 +80877,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 362,
+        "Hits": 62,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -80015,6 +81074,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 708,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -80023,7 +81085,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_train_2017-12-18_21",
     "Hour": 21,
     "Day": 18,
@@ -80516,6 +81578,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 329,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -80731,6 +81796,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 325,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -80946,6 +82014,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 665,
+        "Hits": 100,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -81168,6 +82239,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 556,
+        "Hits": 115,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -81348,6 +82422,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 309,
+        "Hits": 57,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -81563,6 +82640,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 561,
+        "Hits": 106,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -81771,6 +82851,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 749,
+        "Hits": 100,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 2
@@ -81979,6 +83062,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 261,
+        "Hits": 88,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -82194,6 +83280,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 374,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -82395,6 +83484,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 529,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -82403,7 +83495,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_inferno_old_2017-12-17_22",
     "Hour": 22,
     "Day": 17,
@@ -82958,6 +84050,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 583,
+        "Hits": 134,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -83180,6 +84275,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 1141,
+        "Hits": 142,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 2
@@ -83395,6 +84493,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 646,
+        "Hits": 110,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -83589,6 +84690,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 513,
+        "Hits": 129,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -83804,6 +84908,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 1000,
+        "Hits": 134,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -84040,6 +85147,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 455,
+        "Hits": 112,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -84269,6 +85379,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 631,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -84477,6 +85590,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 521,
+        "Hits": 113,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -84678,6 +85794,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 707,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 1
@@ -84893,6 +86012,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 472,
+        "Hits": 107,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 8,
         "TotalClutchesWon": 0
@@ -84901,7 +86023,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_inferno_old_2017-12-16_23",
     "Hour": 23,
     "Day": 16,
@@ -85574,6 +86696,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 1551,
+        "Hits": 321,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 9,
         "TotalClutchesWon": 2
@@ -85775,6 +86900,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 891,
+        "Hits": 198,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 15,
         "TotalClutchesWon": 5
@@ -85990,6 +87118,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 720,
+        "Hits": 162,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 1
@@ -86184,6 +87315,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 910,
+        "Hits": 222,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -86399,6 +87533,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 614,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 2
@@ -86663,6 +87800,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 792,
+        "Hits": 100,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -86892,6 +88032,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 1200,
+        "Hits": 174,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -87121,6 +88264,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 724,
+        "Hits": 165,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -87350,6 +88496,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 830,
+        "Hits": 201,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -87600,6 +88749,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 1244,
+        "Hits": 211,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 9,
         "TotalClutchesWon": 0
@@ -87608,7 +88760,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_season_2017-12-15_00",
     "Hour": 0,
     "Day": 15,
@@ -88082,6 +89234,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 320,
+        "Hits": 74,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -88262,6 +89417,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 186,
+        "Hits": 28,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -88463,6 +89621,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 246,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 10,
         "TotalClutchesWon": 2
@@ -88671,6 +89832,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 364,
+        "Hits": 41,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -88858,6 +90022,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 422,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -89024,6 +90191,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 274,
+        "Hits": 70,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -89201,6 +90371,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 248,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -89395,6 +90568,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 388,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -89603,6 +90779,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 237,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -89811,6 +90990,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 205,
+        "Hits": 33,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -89819,7 +91001,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_inferno_2017-12-10_23",
     "Hour": 23,
     "Day": 10,
@@ -90342,6 +91524,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 580,
+        "Hits": 122,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -90529,6 +91714,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 310,
+        "Hits": 60,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 1
@@ -90751,6 +91939,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 512,
+        "Hits": 111,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -90987,6 +92178,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 533,
+        "Hits": 106,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 2
@@ -91230,6 +92424,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 510,
+        "Hits": 90,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -91431,6 +92628,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 374,
+        "Hits": 76,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -91659,6 +92859,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 413,
+        "Hits": 42,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -91888,6 +93091,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 250,
+        "Hits": 66,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -92088,6 +93294,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 458,
+        "Hits": 79,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -92282,6 +93491,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 572,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 3
@@ -92290,7 +93502,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_cs_office_2017-12-03_18",
     "Hour": 18,
     "Day": 3,
@@ -92858,6 +94070,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 252,
+        "Hits": 77,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -93052,6 +94267,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 562,
+        "Hits": 63,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -93282,6 +94500,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 574,
+        "Hits": 143,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -93552,6 +94773,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 531,
+        "Hits": 88,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -93766,6 +94990,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 157,
+        "Hits": 42,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -94030,6 +95257,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 408,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -94273,6 +95503,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 350,
+        "Hits": 98,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -94488,6 +95721,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 437,
+        "Hits": 133,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 4
@@ -94675,6 +95911,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 251,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 0
@@ -94912,6 +96151,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 614,
+        "Hits": 96,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -95078,6 +96320,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 193,
+        "Hits": 40,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -95086,7 +96331,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2017-08-19_00",
     "Hour": 0,
     "Day": 19,
@@ -95570,6 +96815,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 447,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -95798,6 +97046,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 211,
+        "Hits": 35,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -96034,6 +97285,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 459,
+        "Hits": 80,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -96242,6 +97496,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 322,
+        "Hits": 71,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -96443,6 +97700,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 451,
+        "Hits": 61,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -96637,6 +97897,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 563,
+        "Hits": 94,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 7,
         "TotalClutchesWon": 0
@@ -96831,6 +98094,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 340,
+        "Hits": 56,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 2
@@ -97018,6 +98284,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 318,
+        "Hits": 58,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -97254,6 +98523,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 634,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -97448,6 +98720,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 393,
+        "Hits": 93,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -97456,7 +98731,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_overpass_2017-08-08_22",
     "Hour": 22,
     "Day": 8,
@@ -97888,6 +99163,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 346,
+        "Hits": 82,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -98110,6 +99388,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 544,
+        "Hits": 113,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 4,
         "TotalClutchesWon": 1
@@ -98325,6 +99606,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 351,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -98526,6 +99810,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 353,
+        "Hits": 41,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -98740,6 +100027,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 266,
+        "Hits": 38,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 2
@@ -98947,6 +100237,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 305,
+        "Hits": 56,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -99148,6 +100441,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 225,
+        "Hits": 69,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -99349,6 +100645,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 430,
+        "Hits": 43,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 2
@@ -99556,6 +100855,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 395,
+        "Hits": 54,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -99771,6 +101073,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 389,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -99779,7 +101084,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_cache_2017-08-08_01",
     "Hour": 1,
     "Day": 8,
@@ -100237,6 +101542,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 581,
+        "Hits": 97,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 0,
         "TotalClutchesWon": 0
@@ -100445,6 +101753,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 499,
+        "Hits": 66,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -100632,6 +101943,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 307,
+        "Hits": 84,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -100833,6 +102147,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 658,
+        "Hits": 91,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -101020,6 +102337,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 624,
+        "Hits": 112,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -101214,6 +102534,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 403,
+        "Hits": 34,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -101408,6 +102731,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 599,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 1
@@ -101609,6 +102935,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 546,
+        "Hits": 68,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 0
@@ -101794,6 +103123,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 238,
+        "Hits": 36,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -101974,6 +103306,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 347,
+        "Hits": 45,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 1
@@ -101982,7 +103317,7 @@
   },
   {
     "Valid": true,
-    "Version": 5,
+    "Version": 6,
     "UID": "pug_de_mirage_2017-08-07_22",
     "Hour": 22,
     "Day": 7,
@@ -102457,6 +103792,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 435,
+        "Hits": 73,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 1
@@ -102658,6 +103996,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 692,
+        "Hits": 158,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 2
@@ -102852,6 +104193,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 318,
+        "Hits": 67,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -103081,6 +104425,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 507,
+        "Hits": 88,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0
@@ -103289,6 +104636,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 378,
+        "Hits": 81,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 0
@@ -103490,6 +104840,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 530,
+        "Hits": 85,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 1,
         "TotalClutchesWon": 0
@@ -103684,6 +105037,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 476,
+        "Hits": 53,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 5,
         "TotalClutchesWon": 1
@@ -103871,6 +105227,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 367,
+        "Hits": 88,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 3,
         "TotalClutchesWon": 0
@@ -104072,6 +105431,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 272,
+        "Hits": 39,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 6,
         "TotalClutchesWon": 1
@@ -104285,6 +105647,9 @@
         "AssistsPerRound": 0.0,
         "DeathsPerRound": 0.0,
         "DamagePerRound": 0.0,
+        "Shots": 314,
+        "Hits": 35,
+        "Accuracy": 0.0,
         "FlashAssists": 0,
         "TotalClutchesEntered": 2,
         "TotalClutchesWon": 0

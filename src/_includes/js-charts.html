@@ -38,6 +38,12 @@ require(['c3', 'jquery'], function(c3, $) {
 				],
 				{% endif %}
 
+				{% if data.secondy_name %}
+				axes: {
+					{{ data.secondy_name }}: 'y2'
+				},
+				{% endif %}
+
 				colors: { {% for serie in data.series %}
 					'data{{ forloop.index }}': tabler.colors["{{ serie.color | default: 'blue' }}"]{% unless forloop.last %},{% endunless %}{% endfor %}
 				},
@@ -52,6 +58,11 @@ require(['c3', 'jquery'], function(c3, $) {
         	{% if data.remove-padding %}
 			axis: {
 				y: {
+				{% if data.cap_decimal %}
+					tick: {
+						format: d3.format('.2f')
+					},
+				{% endif %}
 					padding: {
 						bottom: 0,
 					},
@@ -66,22 +77,40 @@ require(['c3', 'jquery'], function(c3, $) {
 						right: 0
 					},
 					show: false
+				},
+				{% if data.secondy_name %}
+				y2: {
+					show: true,
+					min: 0,
+					max: 100
 				}
+				{% endif %}
 			},
 			{% else %}
 			axis: {
 				{% if data.type != 'pie' and data.type != 'donut' %}
 				x: {
+					tick: {
+						rotate: 75,
+						multiline: false
+					},
 					type: 'category',
 					// name of each category
 					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
 				},
 				{% endif %}
+				{% if data.cap_decimal %}
 				y: {
 					tick: {
 						format: d3.format('.2f')
 					}
 				},
+				{% endif %}
+				{% if data.secondy_name %}
+				y2: {
+					show: true
+				}
+				{% endif %}
 				{% if data.rotated %}
 				rotated: true,
 				{% endif %}
@@ -91,7 +120,7 @@ require(['c3', 'jquery'], function(c3, $) {
 
 			{% if data.type == 'bar' %}
 			bar: {
-				width: 18
+				width: 24
 			},{% endif %}
 
 
