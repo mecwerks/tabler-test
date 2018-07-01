@@ -79,11 +79,10 @@ require(['c3', 'jquery'], function(c3, $) {
 					},
 					show: false
 				},
-				{% if data.secondy_name %}
+				{% if data.secondy_name == "" %}
+				{% else %}
 				y2: {
-					show: true,
-					min: 0,
-					max: 100
+					show: true
 				}
 				{% endif %}
 			},
@@ -107,7 +106,8 @@ require(['c3', 'jquery'], function(c3, $) {
 					}
 				},
 				{% endif %}
-				{% if data.secondy_name %}
+				{% if data.secondy_name == "" %}
+				{% else %}
 				y2: {
 					show: true
 				},
