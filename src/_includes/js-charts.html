@@ -38,7 +38,8 @@ require(['c3', 'jquery'], function(c3, $) {
 				],
 				{% endif %}
 
-				{% if data.secondy_name %}
+				{% if data.secondy_name | empty %}
+				{% else %}
 				axes: {
 					{{ data.secondy_name }}: 'y2'
 				},
