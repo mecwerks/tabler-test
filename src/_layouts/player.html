@@ -1,5 +1,6 @@
 ---
 layout: default
+type: Player
 ---
 
 <div class="container">
@@ -21,11 +22,13 @@ layout: default
 		</div>
 
 		<div class="col-sm-9 col-lg-4">
-			{% include cards/chart.html height=20 title="Kills" id="chart-pie" data="kills" %}
+			{% assign chart_key = "kills_" | append: page.UID %}
+			{% include cards/chart.html height=20 title="Weapon Overview (Top 5)" id=chart_key data=chart_key %}
 		</div>
 		
 		<div class="col-sm-9 col-lg-4">
-			{% include cards/chart.html height=20 title="Clutches Won" id="chart-pie2" data="clutcheswon" %}
+			{% assign chart_key = "hltv_" | append: page.UID %}
+			{% include cards/chart.html height=20 title="Hltv Rating (Past 5 Matches)" id=chart_key data=chart_key %}
 		</div>
 		
 		<div class="col-sm-9 col-lg-4 order-lg-2">

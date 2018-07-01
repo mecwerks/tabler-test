@@ -77,6 +77,11 @@ require(['c3', 'jquery'], function(c3, $) {
 					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
 				},
 				{% endif %}
+				y: {
+					tick: {
+						format: d3.format('.2f')
+					}
+				},
 				{% if data.rotated %}
 				rotated: true,
 				{% endif %}
@@ -91,7 +96,7 @@ require(['c3', 'jquery'], function(c3, $) {
 
 
 			legend: {
-                {% if data.hide-legend %}show: false, //hide legend
+                {% if data.hide_legend %}show: false, //hide legend
                 {% else %}
 				{% if data.legend-position == 'top' %}
 				position: 'inset',
@@ -116,6 +121,14 @@ require(['c3', 'jquery'], function(c3, $) {
 					}
 				}
 			},
+			{% else %}
+			tooltip: {
+				format: {
+					value: function (value, ratio, id, index) { 
+						return value;
+					}
+				}
+			},
         	{% endif %}
 
         	{% if data.remove-padding %}
@@ -134,7 +147,7 @@ require(['c3', 'jquery'], function(c3, $) {
 			{% if data.hide-points %}
 			point: {
 				show: false
-			}
+			},
 			{% endif %}
 		});
 	});

@@ -1,5 +1,6 @@
 ---
 layout: default
+type: Match
 ---
 
 {% include matchscorecolors.html AWins=page.TeamA.RoundWins BWins=page.TeamB.RoundWins %}
@@ -37,7 +38,7 @@ layout: default
 				<div class="card-body text-center">
                     <h3 class="card-text">{{page.Map}}</h3>
 				</div>
-				<a href="#"><img class="card-img-bottom" src="http://www.marxy.net/assets/images/maps/{{page.Map}}.jpg" alt="test"></a>
+				<img class="card-img-bottom" src="http://www.marxy.net/assets/images/maps/{{page.Map}}.jpg" alt="{{page.Map}}">
 			</div>
 		</div>
 

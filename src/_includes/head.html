@@ -17,7 +17,17 @@
 
 <!-- Generated: {{ site.time }} -->
 
-<title>{% if page.title %}{{ page.title }} - {% endif %}{% if layout.title %}{{ layout.title }} - {% endif %}{{ site.description }}</title>
+{% if page.type == "Match" %}
+  {% capture Title %}
+    {{page.TeamA.Name}} vs. {{page.TeamB.Name}} ({{page.TeamA.RoundWins}}-{{page.TeamB.RoundWins}}) on {{page.Map}}
+  {% endcapture %}
+{% elsif page.type == "Player" %}
+  {% assign Title = page.Name %}
+{% else %}
+  {% assign Title = page.title %}
+{% endif %}
+
+<title>{% if Title %}{{ Title }} - {% endif %}{% if layout.title %}{{ layout.title }} - {% endif %}{{ site.description }}</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
