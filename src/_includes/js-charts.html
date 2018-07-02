@@ -196,15 +196,6 @@ require(['c3', 'jquery'], function(c3, $) {
 							else
 								return Math.pow(10,d).toFixed(2);
 						}
-					{% else %}
-						value: function (value, ratio, id, index) { 
-							{% if data.cap_decimal %}
-								if (value % 1 != 0) value.toFixed(2);
-								else return value;
-							{% else %}
-								return value; 
-							{% endif %}
-						}
 					{% endif %}
 				}
 			},
