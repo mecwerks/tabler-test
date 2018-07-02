@@ -7,6 +7,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Flip",
@@ -47,6 +48,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "lilly",
@@ -89,6 +91,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "lilly",
@@ -129,6 +132,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "peace",
@@ -169,6 +173,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Devyn",
@@ -209,6 +214,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Frooty cs.money",
@@ -249,6 +255,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -289,6 +296,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -329,6 +337,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Xamba",
@@ -369,6 +378,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "wormy",
@@ -409,6 +419,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "pshesports.com",
@@ -449,6 +460,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Glaci3r",
@@ -489,6 +501,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -531,6 +544,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -571,6 +585,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Cam",
@@ -611,6 +626,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -653,6 +669,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Devyn",
@@ -693,6 +710,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -733,6 +751,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -773,6 +792,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Glaci3r",
@@ -813,6 +833,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -853,6 +874,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -893,6 +915,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -933,6 +956,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Glaci3r",
@@ -973,6 +997,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "imReedy",
@@ -1013,6 +1038,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1053,6 +1079,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -1093,6 +1120,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1133,6 +1161,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -1173,6 +1202,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1213,6 +1243,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "flow",
@@ -1253,6 +1284,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Glaci3r",
@@ -1293,6 +1325,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1333,6 +1366,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1375,6 +1409,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -1415,6 +1450,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -1455,6 +1491,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Devyn",
@@ -1495,6 +1532,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1535,6 +1573,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1575,6 +1614,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1615,6 +1655,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Marxy",
@@ -1657,6 +1698,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Wormy",
@@ -1697,6 +1739,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "Ant-iwnl-",
@@ -1737,6 +1780,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "rî§К",
@@ -1777,6 +1821,7 @@
     "rotated": true,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "rî§К",
@@ -1817,6 +1862,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -1872,6 +1918,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -1902,6 +1949,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -1957,6 +2005,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -1983,6 +2032,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2038,6 +2088,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2064,6 +2115,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2119,6 +2171,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2149,6 +2202,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2204,6 +2258,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2234,6 +2289,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2289,6 +2345,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2319,6 +2376,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2374,6 +2432,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -2396,6 +2455,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2451,6 +2511,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2477,6 +2538,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2532,6 +2594,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -2554,6 +2617,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2609,6 +2673,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -2639,6 +2704,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2694,6 +2760,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -2724,6 +2791,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2779,6 +2847,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -2809,6 +2878,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2864,6 +2934,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -2894,6 +2965,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -2949,6 +3021,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -2979,6 +3052,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3034,6 +3108,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -3064,6 +3139,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3119,6 +3195,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -3149,6 +3226,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3204,6 +3282,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -3230,6 +3309,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3285,6 +3365,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2"
@@ -3307,6 +3388,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3362,6 +3444,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -3392,6 +3475,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3447,6 +3531,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2"
@@ -3469,6 +3554,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3524,6 +3610,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -3552,6 +3639,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3607,6 +3695,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cbble",
@@ -3637,6 +3726,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3692,6 +3782,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cbble",
@@ -3722,6 +3813,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3777,6 +3869,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -3799,6 +3892,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3854,6 +3948,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -3876,6 +3971,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -3931,6 +4027,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -3953,6 +4050,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4008,6 +4106,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -4030,6 +4129,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4085,6 +4185,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -4107,6 +4208,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4162,6 +4264,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_oldnuke",
@@ -4192,6 +4295,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4247,6 +4351,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_oldnuke",
@@ -4277,6 +4382,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4332,6 +4438,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -4360,6 +4467,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4415,6 +4523,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -4445,6 +4554,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4500,6 +4610,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2",
@@ -4526,6 +4637,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4581,6 +4693,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass"
@@ -4603,6 +4716,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4658,6 +4772,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass",
@@ -4688,6 +4803,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4743,6 +4859,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass",
@@ -4773,6 +4890,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4828,6 +4946,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass",
@@ -4858,6 +4977,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4913,6 +5033,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass",
@@ -4943,6 +5064,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -4998,6 +5120,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_inferno_old"
@@ -5020,6 +5143,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5075,6 +5199,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -5105,6 +5230,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5160,6 +5286,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cbble",
@@ -5186,6 +5313,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5241,6 +5369,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_inferno",
@@ -5269,6 +5398,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5324,6 +5454,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_inferno_old",
@@ -5350,6 +5481,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5405,6 +5537,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_inferno_old",
@@ -5429,6 +5562,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5484,6 +5618,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -5510,6 +5645,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5565,6 +5701,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_dust2"
@@ -5587,6 +5724,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5642,6 +5780,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cache"
@@ -5664,6 +5803,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5719,6 +5859,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass"
@@ -5741,6 +5882,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5796,6 +5938,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage",
@@ -5820,6 +5963,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5875,6 +6019,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_inferno_old"
@@ -5897,6 +6042,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -5952,6 +6098,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_season"
@@ -5974,6 +6121,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6029,6 +6177,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_season"
@@ -6051,6 +6200,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6106,6 +6256,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_season",
@@ -6130,6 +6281,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6185,6 +6337,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "cs_office"
@@ -6207,6 +6360,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6262,6 +6416,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cache",
@@ -6286,6 +6441,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6341,6 +6497,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cache"
@@ -6363,6 +6520,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6418,6 +6576,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_overpass"
@@ -6440,6 +6599,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6495,6 +6655,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_cache"
@@ -6517,6 +6678,7 @@
     "rotated": false,
     "hide_legend": false,
     "cap_decimal": false,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [],
     "series": [
@@ -6572,6 +6734,7 @@
     "rotated": false,
     "hide_legend": true,
     "cap_decimal": true,
+    "log_scaling": false,
     "secondy_name": "",
     "categories": [
       "de_mirage"
@@ -6595,7 +6758,8 @@
     },
     "rotated": false,
     "hide_legend": true,
-    "cap_decimal": false,
+    "cap_decimal": true,
+    "log_scaling": true,
     "secondy_name": "data2",
     "categories": [
       "AK47",
@@ -6629,62 +6793,62 @@
         "name": "Kills",
         "color": "green-light",
         "data": [
-          2827,
-          1174,
-          983,
-          458,
-          455,
-          393,
-          277,
-          222,
-          205,
-          205,
-          196,
-          195,
-          118,
-          100,
-          90,
-          87,
-          86,
-          69,
-          55,
-          54,
-          54,
-          53,
-          52,
-          50,
-          205
+          3.4513258084895195,
+          3.0696680969115957,
+          2.9925535178321354,
+          2.6608654780038692,
+          2.6580113966571126,
+          2.5943925503754266,
+          2.4424797690644486,
+          2.3463529744506388,
+          2.3117538610557542,
+          2.3117538610557542,
+          2.2922560713564759,
+          2.2900346113625178,
+          2.0718820073061255,
+          2.0,
+          1.954242509439325,
+          1.9395192526186185,
+          1.9344984512435677,
+          1.8388490907372552,
+          1.7403626894942439,
+          1.7323937598229686,
+          1.7323937598229686,
+          1.7242758696007889,
+          1.7160033436347992,
+          1.6989700043360188,
+          2.3117538610557542
         ]
       },
       {
         "name": "Accuracy",
         "color": "blue-light",
         "data": [
-          16.93,
-          30.02,
-          18.86,
-          24.3,
-          23.21,
-          19.69,
-          20.2,
-          18.43,
-          21.09,
-          17.56,
-          27.26,
-          19.83,
-          19.27,
-          16.03,
-          17.31,
-          26.36,
-          22.42,
-          23.17,
-          18.61,
-          18.77,
-          23.67,
-          40.97,
-          156.76,
-          19.3,
-          19.64
+          1.2286569581089353,
+          1.4774106879072515,
+          1.2755416884013096,
+          1.3856062735983121,
+          1.3656751404559178,
+          1.2942457161381182,
+          1.3053513694466237,
+          1.2655253352190738,
+          1.3240765797394865,
+          1.2445245115700838,
+          1.4355258514986549,
+          1.2973227142053025,
+          1.284881714655453,
+          1.2049335223541449,
+          1.2382970678753937,
+          1.4209454059219722,
+          1.3506356082589544,
+          1.3649260337899756,
+          1.269746373130767,
+          1.2734642726213463,
+          1.3741982579290828,
+          1.6124659639531422,
+          2.195235254806065,
+          1.2855573090077739,
+          1.2931414834509309
         ]
       }
     ]

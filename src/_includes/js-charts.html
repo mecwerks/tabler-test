@@ -3,6 +3,7 @@
 {% if data %}
 <script>
 require(['c3', 'jquery'], function(c3, $) {
+	
 	$(document).ready(function(){
 		var chart = c3.generate({
 			bindto: '#{{ include.id }}', // id of chart wrapper
@@ -82,6 +83,11 @@ require(['c3', 'jquery'], function(c3, $) {
 				{% if data.secondy_name == "" %}
 				{% else %}
 				y2: {
+					{% if data.cap_decimal %}
+					tick: {
+						format: d3.format('.2f')
+					},
+					{% endif %}
 					show: true
 				}
 				{% endif %}
@@ -99,17 +105,42 @@ require(['c3', 'jquery'], function(c3, $) {
 					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
 				},
 				{% endif %}
-				{% if data.cap_decimal %}
 				y: {
 					tick: {
-						format: d3.format('.2f')
+						{% if data.log_scaling %}
+							format: function (d) { 
+								{% if data.cap_decimal %}
+									return Math.pow(10,d).toFixed(2); 
+								{% else %}
+									return Math.pow(10,d).toFixed(0); 
+								{% endif %}
+							},
+						{% else %}
+							{% if data.cap_decimal %}
+								format: d3.format('.2f'),
+							{% endif %}
+						{% endif %}
 					}
 				},
-				{% endif %}
 				{% if data.secondy_name == "" %}
 				{% else %}
 				y2: {
-					show: true
+					show: true,
+					tick: {
+						{% if data.log_scaling %}
+							format: function (d) { 
+								{% if data.cap_decimal %}
+									return Math.pow(10,d).toFixed(2); 
+								{% else %}
+									return Math.pow(10,d); 
+								{% endif %}
+							},
+						{% else %}
+							{% if data.cap_decimal %}
+								format: d3.format('.2f'),
+							{% endif %}
+						{% endif %}
+					}
 				},
 				{% endif %}
 				{% if data.rotated %}
@@ -121,7 +152,11 @@ require(['c3', 'jquery'], function(c3, $) {
 
 			{% if data.type == 'bar' %}
 			bar: {
-				width: 24
+				{% if include.bar_width %}
+					width: {{include.bar_width}}
+				{% else %}
+					width: 18
+				{% endif %}
 			},{% endif %}
 
 
@@ -154,9 +189,23 @@ require(['c3', 'jquery'], function(c3, $) {
 			{% else %}
 			tooltip: {
 				format: {
-					value: function (value, ratio, id, index) { 
-						return value;
-					}
+					{% if data.log_scaling %}
+						value: function(d,id){
+							if (id == "data1") // hack
+								return Math.pow(10,d).toFixed(0);
+							else
+								return Math.pow(10,d).toFixed(2);
+						}
+					{% else %}
+						value: function (value, ratio, id, index) { 
+							{% if data.cap_decimal %}
+								if (d % 1 != 0) value.toFixed(2);
+								else return Math.pow(10,d);
+							{% else %}
+								return Math.pow(10,d); 
+							{% endif %}
+						}
+					{% endif %}
 				}
 			},
         	{% endif %}

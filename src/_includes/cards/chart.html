@@ -4,4 +4,10 @@
 	</div>
 	<div id="{{ include.id }}" style="height: {{ include.height | default: 15}}rem;"></div>
 </div>
-{% include js-charts.html id=include.id data=include.data %}
+{% if include.bar_width == "" %}
+	{% assign bar_width = 20 %}
+{% else %}
+	{% assign bar_width = include.bar_width %}
+{% endif %}
+
+{% include js-charts.html bar_width=bar_width id=include.id data=include.data %}

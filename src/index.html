@@ -31,7 +31,85 @@ menu: index
 		</div>
 
 		<div class="col-12">
-			{% include cards/chart.html height=20 title="Global Kill Distribution" id="kills_global" data="kills_global" %}
+			{% include cards/chart.html height=20 bar_width=20 title="Global Kill Distribution" id="kills_global" data="kills_global" %}
 		</div>
 	</div>
 </div>
+<script>
+{% assign data = site.data.charts["kills_global"] %}
+require(['c3', 'jquery'], function(c3, $) {
+	$(document).ready(function(){
+		var chart = c3.generate({
+			bindto: '#kills_global', // id of chart wrapper
+			data: {
+				columns: [
+				    {% for serie in data.series %}
+					['data{{ forloop.index }}', {{ serie.data | join: ', '}}]{% unless forloop.last %},{% endunless %}{% endfor %}
+				],
+				type: 'bar', // default type of chart
+				types: { 
+					'data2': "spline",
+				},
+				axes: {
+					data2: 'y2'
+				},
+				colors: { 
+					{% for serie in data.series %}
+					'data{{ forloop.index }}': tabler.colors["{{ serie.color | default: 'blue' }}"]{% unless forloop.last %},{% endunless %}{% endfor %}
+				},
+				names: {
+				    // name of each serie
+					{% for serie in data.series %}
+					'data{{ forloop.index }}': '{{ serie.name }}'{% unless forloop.last %},{% endunless %}{% endfor %}
+				}
+			},
+			axis: {
+				x: {
+					tick: {
+						rotate: 75,
+						multiline: false
+					},
+					type: 'category',
+					// name of each category
+					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
+				},
+				y: {
+					tick: {
+						format: function (d) { 
+								return Math.pow(10,d).toFixed(0);
+						},
+					}
+				},
+				y2: {
+					show: true,
+					tick: {
+							format: function (d) { 
+									return Math.pow(10,d).toFixed(0) + "%"; 
+							},
+					}
+				},
+			},
+			bar: {
+					width: 20
+			},
+			legend: {
+                show: false, //hide legend
+			},
+			tooltip: {
+				format: {
+						value: function(d,r,id){
+							if (id == "data1") // hack
+								return Math.pow(10,d).toFixed(0);
+							else
+								return Math.pow(10,d).toFixed(2) + "%";
+						}
+				}
+			},
+			padding: {
+				bottom: 16,
+				top: 0
+			},
+		});
+	});
+});
+</script>
