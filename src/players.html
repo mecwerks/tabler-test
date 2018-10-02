@@ -15,7 +15,7 @@ permalink: players
         <div class="card col-12">
         <div class="row row-cards row-deck no-gutters mb-0">
 		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-bottom border-right">
+            <ul class="list-unstyled border-right mb-0">
                 {% for player in site.data.players limit: cutoff %}
                     {% include userli.html player=player %}
                 {% endfor %}
@@ -23,7 +23,7 @@ permalink: players
 		</div>
 
 		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-bottom border-right">
+            <ul class="list-unstyled border-right mb-0">
                 {% for player in site.data.players limit: cutoff offset: cutoff %}
                     {% include userli.html player=player %}
                 {% endfor %}
@@ -32,7 +32,7 @@ permalink: players
 
         {% assign cutoff2 = cutoff | times: 2 %}
 		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-bottom border-right">
+            <ul class="list-unstyled border-right mb-0">
                 {% for player in site.data.players limit: cutoff offset: cutoff2 %}
                     {% include userli.html player=player %}
                 {% endfor %}
@@ -41,7 +41,7 @@ permalink: players
 
         {% assign cutoff3 = cutoff | times: 3 %}
 		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-bottom border-right">
+            <ul class="list-unstyled border-bottom mb-0">
                 {% for player in site.data.players offset: cutoff3 %}
                     {% include userli.html player=player %}
                 {% endfor %}

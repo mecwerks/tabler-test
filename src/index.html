@@ -24,92 +24,63 @@ menu: index
 			{% include cards/stats-1.html number=site.data.global.Player.Headshots title="Headshots" percentage=site.data.global.Player.HeadshotPercentage %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
-			{% include cards/stats-2.html number=site.data.global.Player.Damage title="Damage" %}
+			{% assign damage = site.data.global.Player.Damage | divided_by: 1000000.00 | round: 2 %}
+			{% include cards/stats-2.html number=damage suffix="M" title="Damage" %}
 		</div>
 		<div class="col-6 col-sm-4 col-lg-2">
 			{% include cards/stats-2.html number=site.data.global.Player.TeamKills title="Team Kills" %}
 		</div>
 
+		<div class="col-6">
+			{% include cards/chart.html height=20 title="Maps Played" id="maps_global" data="maps_global" %}
+		</div>
+
+		<div class="col-6">
+			{% include cards/chart.html height=20 title="Round Wins" id="wins_global" data="wins_global" %}
+		</div>
+
 		<div class="col-12">
-			{% include cards/chart.html height=20 bar_width=20 title="Global Kill Distribution" id="kills_global" data="kills_global" %}
+			<div class="card">
+				<div class="card-header">
+					<h3 class="card-title">Global Kills (Top 24)</h3>
+				</div>
+				<canvas id="kills_global" style="height: 20rem;"></canvas>
+			</div>
 		</div>
 	</div>
 </div>
 <script>
-{% assign data = site.data.charts["kills_global"] %}
-require(['c3', 'jquery'], function(c3, $) {
+require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js', 'jquery'], function(Chart, $) {
+	function numberWithCommas (x) {
+		var parts = x.toString().split(".");
+		parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+		return parts.join(".");
+	}
 	$(document).ready(function(){
-		var chart = c3.generate({
-			bindto: '#kills_global', // id of chart wrapper
-			data: {
-				columns: [
-				    {% for serie in data.series %}
-					['data{{ forloop.index }}', {{ serie.data | join: ', '}}]{% unless forloop.last %},{% endunless %}{% endfor %}
-				],
-				type: 'bar', // default type of chart
-				types: { 
-					'data2': "spline",
-				},
-				axes: {
-					data2: 'y2'
-				},
-				colors: { 
-					{% for serie in data.series %}
-					'data{{ forloop.index }}': tabler.colors["{{ serie.color | default: 'blue' }}"]{% unless forloop.last %},{% endunless %}{% endfor %}
-				},
-				names: {
-				    // name of each serie
-					{% for serie in data.series %}
-					'data{{ forloop.index }}': '{{ serie.name }}'{% unless forloop.last %},{% endunless %}{% endfor %}
-				}
-			},
-			axis: {
-				x: {
-					tick: {
-						rotate: 75,
-						multiline: false
-					},
-					type: 'category',
-					// name of each category
-					categories: [{% for category in data.categories %}'{{ category }}'{% unless forloop.last %}, {% endunless %}{% endfor %}]
-				},
-				y: {
-					tick: {
-						format: function (d) { 
-								return Math.pow(10,d).toFixed(0);
-						},
-					}
-				},
-				y2: {
-					show: true,
-					tick: {
-							format: function (d) { 
-									return Math.pow(10,d).toFixed(0) + "%"; 
-							},
-					}
-				},
-			},
-			bar: {
-					width: 20
-			},
-			legend: {
-                show: false, //hide legend
-			},
-			tooltip: {
-				format: {
-						value: function(d,r,id){
-							if (id == "data1") // hack
-								return Math.pow(10,d).toFixed(0);
-							else
-								return Math.pow(10,d).toFixed(2) + "%";
+		var ctx = $("#kills_global")[0].getContext('2d');
+		var chartData = {
+			type: '{{site.data.newCharts.kills_global.type}}',
+			data: {{site.data.newCharts.kills_global.data | jsonify}},
+			options: {
+				scales: {
+					yAxes: [{
+						type: 'logarithmic',
+						ticks: {
+							callback: function (value, index, values) {
+
+                                if (value == 1) {
+                                    return value;
+                                } else if (value == 1e+1 || value == 1e+2 || value == 1e+3 || value == 1e+4 || value == 1e+5 || value == 1e+6 || value == 1e+7 || value == 1e+8 || value == 1e+9 || value == 1e+10 || value == 1e+11 || value == 1e+12) {
+                                    return numberWithCommas(value);
+                                }
+                            }
 						}
+					}]
 				}
-			},
-			padding: {
-				bottom: 16,
-				top: 0
-			},
-		});
+			}
+		};
+		var myChart = new Chart(ctx, chartData);
+		//console.log(chartData);
 	});
 });
 </script>

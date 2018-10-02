@@ -6749,106 +6749,128 @@
       }
     ]
   },
-  "kills_global": {
-    "name": "Global Kill Distribution",
+  "maps_global": {
+    "name": "Maps Played",
     "display": true,
-    "type": "bar",
-    "types": {
-      "2": "spline"
-    },
+    "type": "donut",
+    "types": {},
     "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": true,
-    "secondy_name": "data2",
-    "categories": [
-      "AK47",
-      "AWP",
-      "M4A4",
-      "Deagle",
-      "M4A1",
-      "USP",
-      "Glock",
-      "Mac10",
-      "P250",
-      "MP9",
-      "CZ",
-      "UMP",
-      "Famas",
-      "P90",
-      "Gallil",
-      "Scout",
-      "FiveSeven",
-      "Scar20",
-      "P2000",
-      "MP7",
-      "AUG",
-      "HE",
-      "Swag7",
-      "SG556",
-      "Other"
-    ],
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
     "series": [
       {
-        "name": "Kills",
-        "color": "green-light",
+        "name": "de_mirage",
+        "color": "blue",
         "data": [
-          3.4513258084895195,
-          3.0696680969115957,
-          2.9925535178321354,
-          2.6608654780038692,
-          2.6580113966571126,
-          2.5943925503754266,
-          2.4424797690644486,
-          2.3463529744506388,
-          2.3117538610557542,
-          2.3117538610557542,
-          2.2922560713564759,
-          2.2900346113625178,
-          2.0718820073061255,
-          2.0,
-          1.954242509439325,
-          1.9395192526186185,
-          1.9344984512435677,
-          1.8388490907372552,
-          1.7403626894942439,
-          1.7323937598229686,
-          1.7323937598229686,
-          1.7242758696007889,
-          1.7160033436347992,
-          1.6989700043360188,
-          2.3117538610557542
+          9
         ]
       },
       {
-        "name": "Accuracy",
+        "name": "de_cache",
+        "color": "red",
+        "data": [
+          7
+        ]
+      },
+      {
+        "name": "de_dust2",
+        "color": "orange",
+        "data": [
+          5
+        ]
+      },
+      {
+        "name": "de_overpass",
+        "color": "purple",
+        "data": [
+          5
+        ]
+      },
+      {
+        "name": "de_inferno_old",
+        "color": "green",
+        "data": [
+          4
+        ]
+      },
+      {
+        "name": "de_nuke",
+        "color": "gray",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "de_train",
+        "color": "yellow",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "de_cbble",
+        "color": "pink",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "de_oldnuke",
+        "color": "brown",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "de_inferno",
         "color": "blue-light",
         "data": [
-          1.2286569581089353,
-          1.4774106879072515,
-          1.2755416884013096,
-          1.3856062735983121,
-          1.3656751404559178,
-          1.2942457161381182,
-          1.3053513694466237,
-          1.2655253352190738,
-          1.3240765797394865,
-          1.2445245115700838,
-          1.4355258514986549,
-          1.2973227142053025,
-          1.284881714655453,
-          1.2049335223541449,
-          1.2382970678753937,
-          1.4209454059219722,
-          1.3506356082589544,
-          1.3649260337899756,
-          1.269746373130767,
-          1.2734642726213463,
-          1.3741982579290828,
-          1.6124659639531422,
-          2.195235254806065,
-          1.2855573090077739,
-          1.2931414834509309
+          2
+        ]
+      },
+      {
+        "name": "cs_office",
+        "color": "purple-light",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "de_season",
+        "color": "red-light",
+        "data": [
+          1
+        ]
+      }
+    ]
+  },
+  "wins_global": {
+    "name": "Maps Played",
+    "display": true,
+    "type": "donut",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "Counter-Terrorists",
+        "color": "blue",
+        "data": [
+          628
+        ]
+      },
+      {
+        "name": "Terrorists",
+        "color": "orange",
+        "data": [
+          623
         ]
       }
     ]

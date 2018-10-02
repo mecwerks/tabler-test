@@ -1,3 +1,10 @@
+$body-bg: #22242F;//#1c1f2b;
+$body-color: #bdcadb;
+$body-content: rgb(50, 51, 69);
+$hover-color: #252737;
+// body content color #bcc1d2
+// borders rgba(255, 255, 255, 0.12)
+
 // Options
 $enable-rounded: true;
 $enable-shadows: false;
@@ -64,9 +71,6 @@ $cyan: #17a2b8;
 
 $text-muted: #9aa0ac;
 $text-muted-dark: #6e7687;
-
-$body-bg: #F4F3EF;
-$body-color: $gray-700;
 
 $white: #F4F3EF;
 
@@ -158,8 +162,8 @@ $custom-select-focus-border-color: #6FC2EF;
 // Borders
 $border-width: 1px;
 //$border-color: #dee3eb;
-$border-color: rgba(0, 40, 100, .12);
-$border-color-dark: rgba(0, 40, 100, .24);
+$border-color: rgba(255, 255, 255, 0.12);
+$border-color-dark: rgba(255, 255, 255, 0.24);
 
 // Inputs
 $input-bg: #fff;
@@ -195,7 +199,7 @@ $container-max-widths: (
 );
 
 // Header
-$header-bg: #212120;
+$header-bg: $body-content;//rgb(50, 51, 69);
 $header-color: #fff;
 $header-height: 4.5rem;
 
@@ -203,6 +207,7 @@ $header-height: 4.5rem;
 $card-border-color: $border-color;
 $card-spacer-y: 1.5rem;
 $card-spacer-x: 1.5rem;
+$card-background: $body-content;//rgb(50, 51, 69);
 
 // Alerts
 $alert-link-font-weight: 600;

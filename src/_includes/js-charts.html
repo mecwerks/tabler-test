@@ -190,12 +190,18 @@ require(['c3', 'jquery'], function(c3, $) {
 			tooltip: {
 				format: {
 					{% if data.log_scaling %}
-						value: function(d,id){
+						value: function(d,id) {
 							if (id == "data1") // hack
 								return Math.pow(10,d).toFixed(0);
 							else
 								return Math.pow(10,d).toFixed(2);
 						}
+					{% else %}
+						{% if data.cap_decimal %}
+							value: d3.format('.2f')
+						{% else %}
+							value: function(d) { return d; }
+						{% endif %}
 					{% endif %}
 				}
 			},
