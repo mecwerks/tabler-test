@@ -31,12 +31,23 @@ menu: index
 			{% include cards/stats-2.html number=site.data.global.Player.TeamKills title="Team Kills" %}
 		</div>
 
-		<div class="col-6">
-			{% include cards/chart.html height=20 title="Maps Played" id="maps_global" data="maps_global" %}
+		<div class="col-8">
+			<div class="card">
+				<div class="card-header">
+					<h3 class="card-title">Maps Played</h3>
+				</div>
+				<canvas id="maps_global" style="height: 25rem;"></canvas>
+			</div>
+			<!--{% include cards/chart.html height=20 title="Maps Played" id="maps_global" data="maps_global" %}-->
 		</div>
 
-		<div class="col-6">
-			{% include cards/chart.html height=20 title="Round Wins" id="wins_global" data="wins_global" %}
+		<div class="col-4">
+			<div class="card">
+				<div class="card-header">
+					<h3 class="card-title">Round Wins</h3>
+				</div>
+				<canvas id="wins_global" style="height: 25rem;"></canvas>
+			</div>
 		</div>
 
 		<div class="col-12">
@@ -44,13 +55,14 @@ menu: index
 				<div class="card-header">
 					<h3 class="card-title">Global Kills (Top 24)</h3>
 				</div>
-				<canvas id="kills_global" style="height: 20rem;"></canvas>
+				<canvas id="kills_global" style="height: 25rem;"></canvas>
 			</div>
 		</div>
 	</div>
 </div>
 <script>
 require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js', 'jquery'], function(Chart, $) {
+	require(['/assets/js/chartjs-plugin-labels.min.js'], function(ChartPie) {
 	function numberWithCommas (x) {
 		var parts = x.toString().split(".");
 		parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
@@ -62,6 +74,13 @@ require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min
 			type: '{{site.data.newCharts.kills_global.type}}',
 			data: {{site.data.newCharts.kills_global.data | jsonify}},
 			options: {
+				plugins: {
+					labels: [
+						{
+							render: function(args) {}
+						}
+					]
+				},
 				scales: {
 					yAxes: [{
 						type: 'logarithmic',
@@ -70,7 +89,10 @@ require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min
 
                                 if (value == 1) {
                                     return value;
-                                } else if (value == 1e+1 || value == 1e+2 || value == 1e+3 || value == 1e+4 || value == 1e+5 || value == 1e+6 || value == 1e+7 || value == 1e+8 || value == 1e+9 || value == 1e+10 || value == 1e+11 || value == 1e+12) {
+                                } else if (value == 1e+1 || value == 1e+2 || value == 1e+3 || value == 1e+4 || 
+											value == 1e+5 || value == 1e+6 || value == 1e+7 || value == 1e+8 || 
+											value == 1e+9 || value == 1e+10 || value == 1e+11 || value == 1e+12) 
+								{
                                     return numberWithCommas(value);
                                 }
                             }
@@ -80,7 +102,108 @@ require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min
 			}
 		};
 		var myChart = new Chart(ctx, chartData);
-		//console.log(chartData);
+
+		ctx = $("#maps_global")[0].getContext('2d');
+		chartData = {
+			type: '{{site.data.newCharts.maps_global.type}}',
+			data: {{site.data.newCharts.maps_global.data | jsonify}},
+			options: {
+				layout: {
+					padding: {
+						top: 35
+					}
+				},
+				legend: {
+					display: false
+				},
+				plugins: {
+					labels: [
+						{
+							render: function(args) 
+							{
+								return Math.round(((args.value * 1.0) / {{site.data.global.Matches}}) * 100) + "%"; 
+							}
+						}
+					]
+				}
+			}
+		};
+
+		myChart = new Chart(ctx, chartData);
+
+		Chart.pluginService.register({
+			beforeDraw: function (chart) {
+				if (chart.config.options.elements.center) {
+				//Get ctx from string
+				var ctx = chart.chart.ctx;
+
+				//Get options from the center object in options
+				var centerConfig = chart.config.options.elements.center;
+				var fontStyle = centerConfig.fontStyle || 'Arial';
+				var txt = centerConfig.text;
+				var color = centerConfig.color || '#000';
+				var sidePadding = centerConfig.sidePadding || 20;
+				var sidePaddingCalculated = (sidePadding/100) * (chart.innerRadius * 2)
+				//Start with a base font of 30px
+				ctx.font = "30px " + fontStyle;
+
+				//Get the width of the string and also the width of the element minus 10 to give it 5px side padding
+				var stringWidth = ctx.measureText(txt).width;
+				var elementWidth = (chart.innerRadius * 2) - sidePaddingCalculated;
+
+				// Find out how much the font can grow in width.
+				var widthRatio = elementWidth / stringWidth;
+				var newFontSize = Math.floor(30 * widthRatio);
+				var elementHeight = (chart.innerRadius * 2);
+
+				// Pick a new font size so it will not be larger than the height of label.
+				var fontSizeToUse = Math.min(newFontSize, elementHeight);
+
+				//Set font settings to draw it correctly.
+				ctx.textAlign = 'center';
+				ctx.textBaseline = 'middle';
+				var centerX = ((chart.chartArea.left + chart.chartArea.right) / 2);
+				var centerY = ((chart.chartArea.top + chart.chartArea.bottom) / 2);
+				ctx.font = fontSizeToUse+"px " + fontStyle;
+				ctx.fillStyle = color;
+
+				//Draw text in center
+				ctx.fillText(txt, centerX, centerY);
+				}
+			}
+		});
+		ctx = $("#wins_global")[0].getContext('2d');
+		chartData = {
+			type: '{{site.data.newCharts.wins_global.type}}',
+			data: {{site.data.newCharts.wins_global.data | jsonify}},
+			options: {
+				elements: {
+					center: {
+						text: numberWithCommas({{site.data.global.Rounds}}) + ' Rounds',
+						color: '#c0c0c0', //Default black
+						sidePadding: 5 //Default 20 (as a percentage)
+					}
+				},
+  				rotation: 0.5 * Math.PI,
+				layout: {
+					padding: {
+						top: 5,
+						bottom: 10
+					}
+				},
+				plugins: {
+					labels: [
+						{
+							fontColor: '#c0c0c0',
+							precision: 2
+						}
+					]
+				}
+			}
+		};
+		
+		myChart = new Chart(ctx, chartData);
+	});
 	});
 });
 </script>
