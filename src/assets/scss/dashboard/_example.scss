@@ -4,10 +4,15 @@
     width: 25%;
 	float: left;
 	border: 1px solid $border-color;
+	margin-top: -1px;
 }
 
 .mycontent {
-	background: $body-content;
+	background: $body-content !important;
+}
+
+.normalBackgroundColor {
+	background: $body-bg !important;
 }
 
 .row-clickable {
