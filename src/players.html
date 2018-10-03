@@ -4,52 +4,55 @@ layout: default
 menu: players
 permalink: players
 ---
-
 <div class="container">
 
 	{% include page-title.html title="Players" %}
+
+    <div class="row">
+    <div class="col-12 ml-auto">
+        <div class="input-icon my-3 my-lg-0">
+            <input type="search" class="form-control header-search" placeholder="Search&hellip;" tabindex="1" id="playerSearch" onkeyup="searchPlayer()">
+            <div class="input-icon-addon">
+                <i class="fe fe-search"></i>
+            </div>
+        </div>
+    </div>
+    </div>
 
     {% assign cutoff = site.data.players | size | divided_by: 4.0 | ceil %}
 
 	<div class="row row-cards row-deck no-gutters">
         <div class="card col-12">
-        <div class="row row-cards row-deck no-gutters mb-0">
-		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-right mb-0">
-                {% for player in site.data.players limit: cutoff %}
-                    {% include userli.html player=player %}
-                {% endfor %}
-            </ul>
-		</div>
 
-		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-right mb-0">
-                {% for player in site.data.players limit: cutoff offset: cutoff %}
+            <ul class="list-unstyled mb-0" id="playerList1">
+                {% for player in site.data.players %}
                     {% include userli.html player=player %}
                 {% endfor %}
             </ul>
 		</div>
-
-        {% assign cutoff2 = cutoff | times: 2 %}
-		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-right mb-0">
-                {% for player in site.data.players limit: cutoff offset: cutoff2 %}
-                    {% include userli.html player=player %}
-                {% endfor %}
-            </ul>
-		</div>
-
-        {% assign cutoff3 = cutoff | times: 3 %}
-		<div class="col-sm-6 col-lg-3">
-            <ul class="list-unstyled border-bottom mb-0">
-                {% for player in site.data.players offset: cutoff3 %}
-                    {% include userli.html player=player %}
-                {% endfor %}
-            </ul>
-		</div>
-	</div>
-    </div>
     </div>
 </div>
+
+<script>
+function searchPlayer() {
+    var input, filter, ul, li, a, i, j;
+    input = document.getElementById("playerSearch");
+    filter = input.value.toUpperCase();
+
+    for(j = 1; j <= 4; j++)
+    {
+        ul = document.getElementById("playerList" + j);
+        li = ul.getElementsByTagName("li");
+        for (i = 0; i < li.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    }
+}
+</script>
 
 {% include clickable-row.html %}

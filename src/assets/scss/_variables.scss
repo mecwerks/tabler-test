@@ -166,7 +166,7 @@ $border-color: rgba(255, 255, 255, 0.12);
 $border-color-dark: rgba(255, 255, 255, 0.24);
 
 // Inputs
-$input-bg: #fff;
+$input-bg: $body-content;
 $input-height: 2.375rem;
 
 $input-color: $gray-700;
