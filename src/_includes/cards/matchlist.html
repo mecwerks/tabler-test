@@ -2,8 +2,8 @@
 
 	<ul class="list-unstyled list-separated col-12">
 		{% for match in include.matches %}
-		<li class="">
-					{% include matchscorecolors.html AWins=match.TeamAWins BWins=match.TeamBWins %}
+		{% include matchscorecolors.html AWins=match.TeamAWins BWins=match.TeamBWins %}
+		<li class="d-none d-lg-block">
 				<div class="row row-clickable h-7 border" data-url="matches/{{match.UID}}">
 					<div class="col-2 align-self-center">
 						{{match.Time}}
@@ -19,6 +19,22 @@
 					</div>
 					<div class="col-2 text-right align-self-center">
 						{{match.Map}}
+					</div>
+				</div>
+		</li>
+		<li class="d-block d-md-none">
+			<div class="row row-clickable h-8 border" data-url="matches/{{match.UID}}">
+					<div class="col-5 align-self-center row">
+						<div class="col-12 text-center">{{match.Map}}</div>
+						<div class="col-12 text-center">{{match.Time}}</div>
+					</div>
+					<div class="col row align-self-center pr-0">
+						<div class="col-12 text-center pr-0">
+							{{match.TeamAName}} (<span class="{{aclass}}">{{match.TeamAWins}}</span>)
+						</div>
+						<div class="col-12 text-center pr-0">
+							{{match.TeamBName}} (<span class="{{bclass}}">{{match.TeamBWins}}</span>)
+						</div>
 					</div>
 				</div>
 		</li>

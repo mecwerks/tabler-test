@@ -15,39 +15,6 @@ permalink: matches
         {% assign gtitle = group[0] %}
         {% assign gmatches = group[1].Matches %}
         {% include cards/matchlist.html title=gtitle matches=gmatches %}
-
-        {% comment %}
-        <div class="row">
-            <div class="col-12 text-center">
-                <h3>{{group[0]}}</h3>
-            </div>
-        </div>
-        {% for match in group[1].Matches %}
-            {% include matchscorecolors.html AWins=match.TeamAWins BWins=match.TeamBWins %}
-            <div class="row row-clickable h-7 border" data-url="matches/{{match.UID}}">
-                <div class="col-2 align-self-center">
-                    {{match.Time}}
-                </div>
-                <div class="col text-right align-self-center">
-                    {{match.TeamAName}}
-                </div>
-                <div class="col-1 text-center align-self-center">
-                    <span class="{{aclass}}">{{match.TeamAWins}}</span> - <span class="{{bclass}}">{{match.TeamBWins}}</span>
-                </div>
-                <div class="col text-left align-self-center">
-                    {{match.TeamBName}}
-                </div>
-                <div class="col-2 text-right align-self-center">
-                    {{match.Map}}
-                </div>
-            </div>
-        {% endfor %}
-        <div class="row">
-            <div class="col-12 center-text">
-                &nbsp;
-            </div>
-        </div>
-    {% endcomment %}
 	</div>
     {% endfor %}
 </div>

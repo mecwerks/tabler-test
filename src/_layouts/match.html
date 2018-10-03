@@ -42,7 +42,7 @@ type: Match
 			</div>
 		</div>
 
-		<div class="col-8">
+		<div class="col-12 col-lg-8">
 			<div class="row mb-1">
 					{% assign chart_key = "hltv_" | append: page.UID %}
 					<div class="card col-12">
@@ -50,22 +50,51 @@ type: Match
 							<h3 class="card-title">HLTV Ratings</h3>
 						</div>
 						<div class="card-body row no-gutters">
-							<div class="col-12" id="{{chart_key}}" style="height: 20rem"></div>
+							<canvas id="{{chart_key}}" style="height: 20rem;"></canvas>
 						</div>
 					</div>
-					{% include js-charts.html id=chart_key data=chart_key %}
 			</div>
 			<div class="row pl-3 pr-3 pt-4 pb-4 border mycontent">
-    			<div class="col-5">
+    			<div class="col-12 col-lg-5">
 					{% include miniscoreboard.html team=page.TeamA players=page.Players %}
 				</div>
-				<div class="col-2 text-center align-self-center">
+				<div class="col-12 col-lg-2 text-center align-self-center">
 					<h2>VS.</h2>
 				</div>
-    			<div class="col-5">
+    			<div class="col-12 col-lg-5">
 					{% include miniscoreboard.html team=page.TeamB players=page.Players %}
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+{% assign matchData = site.data.newCharts[chart_key] %}
+<script>
+require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js', 'jquery'], function(Chart, $) {
+	require(['/assets/js/chartjs-plugin-labels.min.js'], function(ChartPie) {
+	function numberWithCommas (x) {
+		var parts = x.toString().split(".");
+		parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+		return parts.join(".");
+	}
+	$(document).ready(function(){
+		var ctx = $("#{{chart_key}}")[0].getContext('2d');
+		var chartData = {
+			type: '{{matchData.type}}',
+			data: {{matchData.data | jsonify}},
+			options: {
+				legend: { display: false },
+				plugins: {
+					labels: [
+						{
+							render: function(args) {}
+						}
+					]
+				}
+			}
+		};
+		var myChart = new Chart(ctx, chartData);
+	});
+	});
+});
+</script>
