@@ -1,4 +1,45 @@
 {
+  "October, 2018": {
+    "Date": "October, 2018",
+    "Matches": [
+      {
+        "UID": "2018-10-06_22_de_mirage_pug",
+        "Time": "6th @ 22:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "15",
+        "TeamBWins": "19",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "2018-10-04_21_de_train_pug",
+        "Time": "4th @ 21:00",
+        "TeamAName": "Team A",
+        "TeamBName": "PSU HBG > UP",
+        "TeamAWins": "7",
+        "TeamBWins": "16",
+        "Map": "de_train"
+      },
+      {
+        "UID": "2018-10-04_20_de_mirage_pug",
+        "Time": "4th @ 20:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "16",
+        "TeamBWins": "9",
+        "Map": "de_mirage"
+      },
+      {
+        "UID": "2018-10-04_18_de_inferno_old_pug",
+        "Time": "4th @ 18:00",
+        "TeamAName": "Team A",
+        "TeamBName": "Team B",
+        "TeamAWins": "7",
+        "TeamBWins": "16",
+        "Map": "de_inferno_old"
+      }
+    ]
+  },
   "June, 2018": {
     "Date": "June, 2018",
     "Matches": [

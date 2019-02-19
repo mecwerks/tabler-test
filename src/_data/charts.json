@@ -1,4 +1,423 @@
 {
+  "kills_76561198101797086": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          13
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          9
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "orange",
+        "data": [
+          7
+        ]
+      },
+      {
+        "name": "Famas",
+        "color": "purple",
+        "data": [
+          4
+        ]
+      },
+      {
+        "name": "MP7",
+        "color": "green",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          7
+        ]
+      }
+    ]
+  },
+  "hltv_76561198101797086": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_train",
+      "de_mirage",
+      "de_inferno_old"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.673,
+          0.494,
+          0.634,
+          0.459
+        ]
+      }
+    ]
+  },
+  "kills_76561197961466249": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          19
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "red",
+        "data": [
+          12
+        ]
+      },
+      {
+        "name": "Deagle",
+        "color": "orange",
+        "data": [
+          9
+        ]
+      },
+      {
+        "name": "Scar20",
+        "color": "purple",
+        "data": [
+          8
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "green",
+        "data": [
+          5
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          16
+        ]
+      }
+    ]
+  },
+  "hltv_76561197961466249": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_train"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.318,
+          2.516
+        ]
+      }
+    ]
+  },
+  "kills_76561198117966816": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          68
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "red",
+        "data": [
+          44
+        ]
+      },
+      {
+        "name": "Mac10",
+        "color": "orange",
+        "data": [
+          30
+        ]
+      },
+      {
+        "name": "MP9",
+        "color": "purple",
+        "data": [
+          29
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "green",
+        "data": [
+          28
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          83
+        ]
+      }
+    ]
+  },
+  "hltv_76561198117966816": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_overpass",
+      "de_nuke",
+      "de_mirage",
+      "de_cache"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.664,
+          1.262,
+          0.889,
+          1.132,
+          0.665
+        ]
+      }
+    ]
+  },
+  "kills_76561198137565812": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          60
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "red",
+        "data": [
+          54
+        ]
+      },
+      {
+        "name": "Mac10",
+        "color": "orange",
+        "data": [
+          53
+        ]
+      },
+      {
+        "name": "M4A1",
+        "color": "purple",
+        "data": [
+          36
+        ]
+      },
+      {
+        "name": "MP9",
+        "color": "green",
+        "data": [
+          23
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          128
+        ]
+      }
+    ]
+  },
+  "hltv_76561198137565812": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_dust2",
+      "de_cbble",
+      "de_oldnuke",
+      "de_dust2"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.905,
+          1.077,
+          0.857,
+          0.645,
+          1.16
+        ]
+      }
+    ]
+  },
+  "kills_76561198138335791": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          17
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "red",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "orange",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "Gallil",
+        "color": "purple",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "Glock",
+        "color": "green",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          2
+        ]
+      }
+    ]
+  },
+  "hltv_76561198138335791": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.15
+        ]
+      }
+    ]
+  },
   "kills_Ant-iwnl-": {
     "name": "Kill Overview",
     "display": true,
@@ -15,21 +434,21 @@
         "name": "AK47",
         "color": "blue",
         "data": [
-          392
+          419
         ]
       },
       {
         "name": "AWP",
         "color": "red",
         "data": [
-          240
+          257
         ]
       },
       {
         "name": "M4A4",
         "color": "orange",
         "data": [
-          139
+          148
         ]
       },
       {
@@ -43,14 +462,14 @@
         "name": "Deagle",
         "color": "green",
         "data": [
-          57
+          59
         ]
       },
       {
         "name": "Other",
         "color": "gray",
         "data": [
-          305
+          328
         ]
       }
     ]
@@ -67,9 +486,600 @@
     "secondy_name": "",
     "categories": [
       "de_mirage",
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.19,
+          1.254,
+          0.855,
+          1.233,
+          1.211
+        ]
+      }
+    ]
+  },
+  "kills_76561198135874549": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "MP9",
+        "color": "blue",
+        "data": [
+          13
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "red",
+        "data": [
+          13
+        ]
+      },
+      {
+        "name": "CZ",
+        "color": "orange",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "purple",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "HE",
+        "color": "green",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          2
+        ]
+      }
+    ]
+  },
+  "hltv_76561198135874549": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.31
+        ]
+      }
+    ]
+  },
+  "kills_76561198301074257": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          45
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "red",
+        "data": [
+          43
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "orange",
+        "data": [
+          24
+        ]
+      },
+      {
+        "name": "Glock",
+        "color": "purple",
+        "data": [
+          12
+        ]
+      },
+      {
+        "name": "MP7",
+        "color": "green",
+        "data": [
+          12
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          54
+        ]
+      }
+    ]
+  },
+  "hltv_76561198301074257": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.365,
+          1.701,
+          1.108,
+          1.367,
+          1.53
+        ]
+      }
+    ]
+  },
+  "kills_76561198088978405": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          7
+        ]
+      },
+      {
+        "name": "P250",
+        "color": "red",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "FiveSeven",
+        "color": "orange",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "purple",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "green",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          2
+        ]
+      }
+    ]
+  },
+  "hltv_76561198088978405": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.629
+        ]
+      }
+    ]
+  },
+  "kills_76561198344040839": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          21
+        ]
+      },
+      {
+        "name": "M4A1",
+        "color": "red",
+        "data": [
+          19
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "orange",
+        "data": [
+          13
+        ]
+      },
+      {
+        "name": "MP9",
+        "color": "purple",
+        "data": [
+          9
+        ]
+      },
+      {
+        "name": "CZ",
+        "color": "green",
+        "data": [
+          6
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          22
+        ]
+      }
+    ]
+  },
+  "hltv_76561198344040839": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_inferno_old",
+      "de_train",
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.087,
+          0.741,
+          1.039,
+          1.23
+        ]
+      }
+    ]
+  },
+  "kills_marxy": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          375
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "red",
+        "data": [
+          175
+        ]
+      },
+      {
+        "name": "Deagle",
+        "color": "orange",
+        "data": [
+          124
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "purple",
+        "data": [
+          81
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "green",
+        "data": [
+          41
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          230
+        ]
+      }
+    ]
+  },
+  "hltv_marxy": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
+      "de_mirage",
+      "de_dust2"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.546,
+          0.681,
+          0.884,
+          1.506,
+          1.376
+        ]
+      }
+    ]
+  },
+  "kills_76561198084911409": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          154
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          45
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "orange",
+        "data": [
+          25
+        ]
+      },
+      {
+        "name": "CZ",
+        "color": "purple",
+        "data": [
+          18
+        ]
+      },
+      {
+        "name": "M4A1",
+        "color": "green",
+        "data": [
+          15
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          108
+        ]
+      }
+    ]
+  },
+  "hltv_76561198084911409": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
       "de_dust2",
-      "de_nuke",
-      "de_dust2",
+      "de_nuke"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.884,
+          0.649,
+          0.543,
+          0.715,
+          0.606
+        ]
+      }
+    ]
+  },
+  "kills_Devyn": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          233
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          75
+        ]
+      },
+      {
+        "name": "Deagle",
+        "color": "orange",
+        "data": [
+          74
+        ]
+      },
+      {
+        "name": "M4A1",
+        "color": "purple",
+        "data": [
+          51
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "green",
+        "data": [
+          45
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          189
+        ]
+      }
+    ]
+  },
+  "hltv_Devyn": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
+      "de_mirage",
       "de_cbble"
     ],
     "series": [
@@ -77,11 +1087,596 @@
         "name": "Rating",
         "color": "blue",
         "data": [
-          1.211,
-          1.31,
-          1.506,
-          1.07,
-          1.316
+          0.874,
+          0.942,
+          1.452,
+          0.983,
+          1.429
+        ]
+      }
+    ]
+  },
+  "kills_76561198091680633": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "UMP",
+        "color": "blue",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "orange",
+        "data": [
+          3
+        ]
+      },
+      {
+        "name": "MP7",
+        "color": "purple",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "CZ",
+        "color": "green",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          -1
+        ]
+      }
+    ]
+  },
+  "hltv_76561198091680633": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.7
+        ]
+      }
+    ]
+  },
+  "kills_76561198256748178": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          185
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          71
+        ]
+      },
+      {
+        "name": "Deagle",
+        "color": "orange",
+        "data": [
+          41
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "purple",
+        "data": [
+          31
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "green",
+        "data": [
+          28
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          86
+        ]
+      }
+    ]
+  },
+  "hltv_76561198256748178": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train",
+      "de_mirage",
+      "de_inferno_old",
+      "de_dust2",
+      "de_overpass"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.303,
+          1.384,
+          1.007,
+          0.755,
+          1.288
+        ]
+      }
+    ]
+  },
+  "kills_76561198025626073": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "Glock",
+        "color": "red",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "orange",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "CZ",
+        "color": "purple",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Knife",
+        "color": "green",
+        "data": [
+          0
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          0
+        ]
+      }
+    ]
+  },
+  "hltv_76561198025626073": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_train"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.314
+        ]
+      }
+    ]
+  },
+  "kills_skyline": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          112
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "red",
+        "data": [
+          20
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "orange",
+        "data": [
+          20
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "purple",
+        "data": [
+          18
+        ]
+      },
+      {
+        "name": "P250",
+        "color": "green",
+        "data": [
+          14
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          56
+        ]
+      }
+    ]
+  },
+  "hltv_skyline": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_inferno_old",
+      "de_cbble",
+      "de_overpass",
+      "de_inferno_old"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.12,
+          1.215,
+          1.083,
+          1.378,
+          1.545
+        ]
+      }
+    ]
+  },
+  "kills_76561198195505826": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          15
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "red",
+        "data": [
+          11
+        ]
+      },
+      {
+        "name": "Nova",
+        "color": "orange",
+        "data": [
+          2
+        ]
+      },
+      {
+        "name": "Knife",
+        "color": "purple",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "green",
+        "data": [
+          1
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          1
+        ]
+      }
+    ]
+  },
+  "hltv_76561198195505826": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          1.99
+        ]
+      }
+    ]
+  },
+  "kills_76561198257100849": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AK47",
+        "color": "blue",
+        "data": [
+          91
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "red",
+        "data": [
+          72
+        ]
+      },
+      {
+        "name": "Mac10",
+        "color": "orange",
+        "data": [
+          10
+        ]
+      },
+      {
+        "name": "AWP",
+        "color": "purple",
+        "data": [
+          10
+        ]
+      },
+      {
+        "name": "MP9",
+        "color": "green",
+        "data": [
+          10
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          72
+        ]
+      }
+    ]
+  },
+  "hltv_76561198257100849": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_mirage",
+      "de_inferno_old",
+      "de_oldnuke",
+      "de_overpass",
+      "de_nuke"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.647,
+          0.846,
+          1.387,
+          0.969,
+          0.68
+        ]
+      }
+    ]
+  },
+  "kills_ism": {
+    "name": "Kill Overview",
+    "display": true,
+    "type": "pie",
+    "types": {},
+    "rotated": false,
+    "hide_legend": false,
+    "cap_decimal": false,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [],
+    "series": [
+      {
+        "name": "AWP",
+        "color": "blue",
+        "data": [
+          121
+        ]
+      },
+      {
+        "name": "AK47",
+        "color": "red",
+        "data": [
+          97
+        ]
+      },
+      {
+        "name": "USP",
+        "color": "orange",
+        "data": [
+          18
+        ]
+      },
+      {
+        "name": "MP9",
+        "color": "purple",
+        "data": [
+          18
+        ]
+      },
+      {
+        "name": "M4A4",
+        "color": "green",
+        "data": [
+          18
+        ]
+      },
+      {
+        "name": "Other",
+        "color": "gray",
+        "data": [
+          145
+        ]
+      }
+    ]
+  },
+  "hltv_ism": {
+    "name": "Hltv Ratings (Past 5 Matches)",
+    "display": true,
+    "type": "line",
+    "types": {},
+    "rotated": false,
+    "hide_legend": true,
+    "cap_decimal": true,
+    "log_scaling": false,
+    "secondy_name": "",
+    "categories": [
+      "de_inferno_old",
+      "de_dust2",
+      "de_nuke",
+      "de_cbble",
+      "de_mirage"
+    ],
+    "series": [
+      {
+        "name": "Rating",
+        "color": "blue",
+        "data": [
+          0.624,
+          0.901,
+          0.859,
+          0.508,
+          0.917
         ]
       }
     ]
@@ -165,263 +1760,6 @@
           1.198,
           1.442,
           2.941
-        ]
-      }
-    ]
-  },
-  "kills_76561198301074257": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          24
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "red",
-        "data": [
-          22
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "orange",
-        "data": [
-          10
-        ]
-      },
-      {
-        "name": "P250",
-        "color": "purple",
-        "data": [
-          6
-        ]
-      },
-      {
-        "name": "Glock",
-        "color": "green",
-        "data": [
-          5
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          23
-        ]
-      }
-    ]
-  },
-  "hltv_76561198301074257": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_mirage",
-      "de_dust2",
-      "de_nuke"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.53,
-          1.336,
-          1.567
-        ]
-      }
-    ]
-  },
-  "kills_marxy": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          359
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "red",
-        "data": [
-          169
-        ]
-      },
-      {
-        "name": "Deagle",
-        "color": "orange",
-        "data": [
-          121
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "purple",
-        "data": [
-          79
-        ]
-      },
-      {
-        "name": "USP",
-        "color": "green",
-        "data": [
-          40
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          221
-        ]
-      }
-    ]
-  },
-  "hltv_marxy": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_mirage",
-      "de_dust2",
-      "de_nuke",
-      "de_dust2",
-      "de_cbble"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.506,
-          1.376,
-          0.449,
-          1.328,
-          0.78
-        ]
-      }
-    ]
-  },
-  "kills_Devyn": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          227
-        ]
-      },
-      {
-        "name": "Deagle",
-        "color": "red",
-        "data": [
-          72
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "orange",
-        "data": [
-          66
-        ]
-      },
-      {
-        "name": "M4A1",
-        "color": "purple",
-        "data": [
-          48
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "green",
-        "data": [
-          45
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          159
-        ]
-      }
-    ]
-  },
-  "hltv_Devyn": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_mirage",
-      "de_cbble",
-      "de_mirage",
-      "de_oldnuke",
-      "de_dust2"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          0.983,
-          1.429,
-          0.971,
-          0.794,
-          1.261
         ]
       }
     ]
@@ -841,93 +2179,6 @@
       }
     ]
   },
-  "kills_76561198084911409": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          143
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "red",
-        "data": [
-          42
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "orange",
-        "data": [
-          21
-        ]
-      },
-      {
-        "name": "CZ",
-        "color": "purple",
-        "data": [
-          17
-        ]
-      },
-      {
-        "name": "Deagle",
-        "color": "green",
-        "data": [
-          12
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          92
-        ]
-      }
-    ]
-  },
-  "hltv_76561198084911409": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_dust2",
-      "de_nuke",
-      "de_dust2",
-      "de_cbble",
-      "de_oldnuke"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          0.715,
-          0.606,
-          0.792,
-          0.958,
-          1.085
-        ]
-      }
-    ]
-  },
   "kills_Glaci3r": {
     "name": "Kill Overview",
     "display": true,
@@ -1011,93 +2262,6 @@
           1.256,
           1.254,
           1.03
-        ]
-      }
-    ]
-  },
-  "kills_ism": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AWP",
-        "color": "blue",
-        "data": [
-          118
-        ]
-      },
-      {
-        "name": "AK47",
-        "color": "red",
-        "data": [
-          97
-        ]
-      },
-      {
-        "name": "USP",
-        "color": "orange",
-        "data": [
-          18
-        ]
-      },
-      {
-        "name": "MP9",
-        "color": "purple",
-        "data": [
-          18
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "green",
-        "data": [
-          17
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          143
-        ]
-      }
-    ]
-  },
-  "hltv_ism": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_dust2",
-      "de_nuke",
-      "de_cbble",
-      "de_mirage",
-      "de_cbble"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          0.901,
-          0.859,
-          0.508,
-          0.917,
-          0.923
         ]
       }
     ]
@@ -1525,93 +2689,6 @@
       }
     ]
   },
-  "kills_76561198137565812": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AWP",
-        "color": "blue",
-        "data": [
-          54
-        ]
-      },
-      {
-        "name": "Mac10",
-        "color": "red",
-        "data": [
-          53
-        ]
-      },
-      {
-        "name": "AK47",
-        "color": "orange",
-        "data": [
-          52
-        ]
-      },
-      {
-        "name": "M4A1",
-        "color": "purple",
-        "data": [
-          36
-        ]
-      },
-      {
-        "name": "MP9",
-        "color": "green",
-        "data": [
-          23
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          112
-        ]
-      }
-    ]
-  },
-  "hltv_76561198137565812": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_dust2",
-      "de_cbble",
-      "de_oldnuke",
-      "de_dust2",
-      "de_overpass"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.077,
-          0.857,
-          0.645,
-          1.16,
-          0.9
-        ]
-      }
-    ]
-  },
   "kills_76561198116741748": {
     "name": "Kill Overview",
     "display": true,
@@ -1772,93 +2849,6 @@
           1.163,
           0.941,
           0.847
-        ]
-      }
-    ]
-  },
-  "kills_skyline": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          91
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "red",
-        "data": [
-          20
-        ]
-      },
-      {
-        "name": "USP",
-        "color": "orange",
-        "data": [
-          19
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "purple",
-        "data": [
-          18
-        ]
-      },
-      {
-        "name": "P250",
-        "color": "green",
-        "data": [
-          12
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          39
-        ]
-      }
-    ]
-  },
-  "hltv_skyline": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_cbble",
-      "de_overpass",
-      "de_inferno_old",
-      "de_nuke",
-      "de_cache"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.083,
-          1.378,
-          1.545,
-          1.293,
-          1.452
         ]
       }
     ]
@@ -2345,93 +3335,6 @@
       }
     ]
   },
-  "kills_76561198257100849": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          91
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "red",
-        "data": [
-          65
-        ]
-      },
-      {
-        "name": "Deagle",
-        "color": "orange",
-        "data": [
-          8
-        ]
-      },
-      {
-        "name": "UMP",
-        "color": "purple",
-        "data": [
-          8
-        ]
-      },
-      {
-        "name": "Glock",
-        "color": "green",
-        "data": [
-          8
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          60
-        ]
-      }
-    ]
-  },
-  "hltv_76561198257100849": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_oldnuke",
-      "de_overpass",
-      "de_nuke",
-      "de_cache",
-      "de_mirage"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.387,
-          0.969,
-          0.68,
-          0.786,
-          0.758
-        ]
-      }
-    ]
-  },
   "kills_Zaggle": {
     "name": "Kill Overview",
     "display": true,
@@ -2600,93 +3503,6 @@
           1.323,
           0.815,
           1.106
-        ]
-      }
-    ]
-  },
-  "kills_76561198256748178": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          169
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "red",
-        "data": [
-          63
-        ]
-      },
-      {
-        "name": "Deagle",
-        "color": "orange",
-        "data": [
-          31
-        ]
-      },
-      {
-        "name": "USP",
-        "color": "purple",
-        "data": [
-          24
-        ]
-      },
-      {
-        "name": "AWP",
-        "color": "green",
-        "data": [
-          19
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          71
-        ]
-      }
-    ]
-  },
-  "hltv_76561198256748178": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_dust2",
-      "de_overpass",
-      "de_overpass",
-      "de_inferno_old",
-      "de_cache"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          0.755,
-          1.288,
-          1.316,
-          0.912,
-          1.32
         ]
       }
     ]
@@ -3114,93 +3930,6 @@
       }
     ]
   },
-  "kills_76561198117966816": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AWP",
-        "color": "blue",
-        "data": [
-          60
-        ]
-      },
-      {
-        "name": "AK47",
-        "color": "red",
-        "data": [
-          42
-        ]
-      },
-      {
-        "name": "Mac10",
-        "color": "orange",
-        "data": [
-          30
-        ]
-      },
-      {
-        "name": "MP9",
-        "color": "purple",
-        "data": [
-          29
-        ]
-      },
-      {
-        "name": "M4A4",
-        "color": "green",
-        "data": [
-          26
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          79
-        ]
-      }
-    ]
-  },
-  "hltv_76561198117966816": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_overpass",
-      "de_nuke",
-      "de_mirage",
-      "de_cache",
-      "de_train"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          1.262,
-          0.889,
-          1.132,
-          0.665,
-          1.294
-        ]
-      }
-    ]
-  },
   "kills_76561198078797803": {
     "name": "Kill Overview",
     "display": true,
@@ -3531,89 +4260,6 @@
           0.777,
           1.21,
           1.153
-        ]
-      }
-    ]
-  },
-  "kills_76561198344040839": {
-    "name": "Kill Overview",
-    "display": true,
-    "type": "pie",
-    "types": {},
-    "rotated": false,
-    "hide_legend": false,
-    "cap_decimal": false,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [],
-    "series": [
-      {
-        "name": "AK47",
-        "color": "blue",
-        "data": [
-          19
-        ]
-      },
-      {
-        "name": "M4A1",
-        "color": "red",
-        "data": [
-          19
-        ]
-      },
-      {
-        "name": "MP9",
-        "color": "orange",
-        "data": [
-          7
-        ]
-      },
-      {
-        "name": "Mac10",
-        "color": "purple",
-        "data": [
-          5
-        ]
-      },
-      {
-        "name": "P250",
-        "color": "green",
-        "data": [
-          3
-        ]
-      },
-      {
-        "name": "Other",
-        "color": "gray",
-        "data": [
-          9
-        ]
-      }
-    ]
-  },
-  "hltv_76561198344040839": {
-    "name": "Hltv Ratings (Past 5 Matches)",
-    "display": true,
-    "type": "line",
-    "types": {},
-    "rotated": false,
-    "hide_legend": true,
-    "cap_decimal": true,
-    "log_scaling": false,
-    "secondy_name": "",
-    "categories": [
-      "de_inferno_old",
-      "de_train",
-      "de_mirage"
-    ],
-    "series": [
-      {
-        "name": "Rating",
-        "color": "blue",
-        "data": [
-          0.741,
-          1.039,
-          1.23
         ]
       }
     ]

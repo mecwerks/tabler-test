@@ -2,107 +2,306 @@
 layout: default
 type: Player
 ---
+{% assign chart_key1 = "kills_" | append: page.UID %}
+{% assign chart_key2 = "hltv_" | append: page.UID %}
+
 
 <div class="container">
 	<div class="row row-cards">
-		<div class="col-lg-4 order-lg-1 mb-4">
+		<div class="col-12 col-lg-4">
 			{% assign pic = site.data.playerAvatars[page.UID] %}
-			{% include cards/profile-2.html picture=pic name=page.Name %}
-			{% for group in site.player-menu %}
-			<!-- {{ group.title }} -->
-			<div class="list-group list-group-transparent mb-0">
-				{% for p in group.pages %}
-				{% assign doctitle = p %}
-				{% assign docurl = p %}
-				{% assign docicon = "fe fe-alert-triangle" %}
-				<a href="{{ page.url }}/{{ docurl }}" class="list-group-item list-group-item-action{% if page.url == docurl %} active{% endif %}"><span class="icon mr-3"><i class="{{ docicon }}"></i></span>{{ doctitle }}</a>
-				{% endfor %}
+			<div class="card">
+				<div class="card-body">
+					<div class="media align-self-center">
+						<span class="avatar avatar-xxl mr-5" style="background-image: url( {{pic}} )"></span>
+						<div class="media-body">
+							<h2 class="" style="margin-top: 1.4rem !important;">{{page.Name}}</h2>
+						</div>
+					</div>
+				</div>
 			</div>
-			{% endfor %}
+			<div class="card">
+				<div class="card-body row">
+					<div class="col align-self-center text-center pt-5 pb-5">
+						100<br/>
+						Kills
+					</div>
+					<div class="col align-self-center text-center">
+						50<br/>
+						Assists
+					</div>
+					<div class="col align-self-center text-center">
+						500<br/>
+						Deaths
+					</div>
+				</div>
+			</div>
 		</div>
-
-		<div class="col-sm-9 col-lg-4">
-			{% assign chart_key = "kills_" | append: page.UID %}
-			{% include cards/chart.html height=20 title="Weapon Overview (Top 5)" id=chart_key data=chart_key %}
+		<div class="col-12 col-lg-8">
+			<div class="card">
+				<div class="card-header">
+					Player Overview
+				</div>
+				<div class="card-body row">
+					<div class="col-12 col-lg-4 mb-5">
+						<canvas class="align-self-center" id="{{chart_key1}}" style="height: 10rem;"></canvas>
+					</div>			
+					<div class="col-12 col-lg-4 mb-5">
+						<canvas class="align-self-center" id="{{chart_key2}}" style="height: 10rem;"></canvas>
+					</div>
+					<div class="col-12 col-lg-4 mb-5">
+						<canvas class="align-self-center" id="{{chart_key}}2" style="height: 10rem;"></canvas>
+					</div>
+				</div>
+			</div>
 		</div>
-		
-		<div class="col-sm-9 col-lg-4">
-			{% assign chart_key = "hltv_" | append: page.UID %}
-			{% include cards/chart.html height=20 title="Hltv Rating (Past 5 Matches)" id=chart_key data=chart_key %}
-		</div>
-		
-		<div class="col-sm-9 col-lg-4 order-lg-2 mycontent border-top border-left border-bottom">
-			<table>
-				<tr>
-					<td>Kills</td>
-					<td class="text-right"><span class="text-muted">{{page.Kills}}</span></td>
-				</tr>
-				<tr>
-					<td>Deaths</td>
-					<td class="text-right"><span class="text-muted">{{page.Deaths}}</span></td>
-				</tr>
-				<tr>
-					<td>Headshot %</td>
-					<td class="text-right"><span class="text-muted">{{page.HeadshotPercentage}}</span></td>
-				</tr>
-				<tr>
-					<td>K/D</td>
-					<td class="text-right"><span class="text-muted">{{page.KillDeathDifference}}</span></td>
-				</tr>
-				<tr>
-					<td>Damage</td>
-					<td class="text-right"><span class="text-muted">{{page.Damage}}</span></td>
-				</tr>
-				<tr>
-					<td>Matches</td>
-					<td class="text-right"><span class="text-muted">{{page.Matches | size}}</span></td>
-				</tr>
-				<tr>
-					<td>Rounds</td>
-					<td class="text-right"><span class="text-muted">{{page.Rounds}}</span></td>
-				</tr>
-				<tr>
-					<td>Abandoned Matches</td>
-					<td class="text-right"><span class="text-muted">{{page.Disconnects}}</span></td>
-				</tr>
-			</table>
-		</div>
-
-		<div class="col-sm-9 col-lg-4 order-lg-3 mycontent border-top border-right border-bottom">
-			<table>
-				<tr>
-					<td>Hltv Rating</td>
-					<td class="text-right"><span class="text-muted">{{page.HltvRating}}</span></td>
-				</tr>
-				<tr>
-					<td>Kills/Round</td>
-					<td class="text-right"><span class="text-muted">{{page.KillsPerRound}}</span></td>
-				</tr>
-				<tr>
-					<td>Assists/Round</td>
-					<td class="text-right"><span class="text-muted">{{page.AssistsPerRound}}</span></td>
-				</tr>
-				<tr>
-					<td>Deaths/Round</td>
-					<td class="text-right"><span class="text-muted">{{page.DeathsPerRound}}</span></td>
-				</tr>
-				<tr>
-					<td>Damage/Round</td>
-					<td class="text-right"><span class="text-muted">{{page.DamagePerRound}}</span></td>
-				</tr>
-				<tr>
-					<td>Trade Kills</td>
-					<td class="text-right"><span class="text-muted">{{page.TradeKills}}</span></td>
-				</tr>
-				<tr>
-					<td>Times Traded</td>
-					<td class="text-right"><span class="text-muted">{{page.TimesTraded}}</span></td>
-				</tr>
-				<tr>
-					<td>Stand-in Matches</td>
-					<td class="text-right"><span class="text-muted">{{page.Rings}}</span></td>
-				</tr>
-			</table>
+		<div class="col-12">
+			<div class="card">
+				<div class="card-header">
+					Stat Overview
+				</div>
+				<div class="card-body row">
+					<div class="col-12 row mb-5">
+						<div class="col">
+							<div class="dropdown">
+								<button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" id="dropdown-button">
+									Hltv Rating
+								</button>
+								<div class="dropdown-menu pt-0 pb-0">
+									<button class="dropdown-item btn btn-secondary mt-0 mb-0 border-0 shadow-none chartButton" type="button" data-option="type" data-chart="hltv">Hltv Rating</button>
+									<button class="dropdown-item btn btn-secondary mt-0 mb-0 border-0 shadow-none chartButton" type="button" data-option="type" data-chart="kda">K-D-A/Round</button>
+									<div class="dropdown-divider pb-0 pt-0 mt-0 mb-0"></div>
+									<button class="dropdown-item btn btn-secondary mt-0 mb-0 border-0 shadow-none chartButton" type="button" data-option="type" data-chart="adr">ADR</button>
+								</div>
+						</div>
+						</div>
+						<div class="col">
+							<div class="dropdown pull-right">
+								<button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" id="dropdown-button2">
+									Last 5 Matches
+								</button>
+								<div class="dropdown-menu pt-0 pb-0">
+									<button class="dropdown-item btn btn-secondary mt-0 mb-0 border-0 shadow-none chartButton" type="button" data-option="time" data-chart="last5">Last 5 Matches</button>
+									<button class="dropdown-item btn btn-secondary mt-0 mb-0 border-0 shadow-none chartButton" type="button" data-option="time" data-chart="month">Monthly</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-12">
+						<canvas id="{{chart_key}}3" style="height: 10rem;"></canvas>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
+
+<script>
+require(['https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js', 'jquery'], function(Chart, $) {
+	require(['/assets/js/chartjs-plugin-labels.min.js'], function(ChartPie) {
+		var myChangingChart = [];
+		var myDataSets = [[{
+							label: "Hltv",
+							//lineTension: 0,
+							pointHitRadius: 30,
+							fill: false,
+							data: [1.2, 1.3, 1.6, 1.1, 1.3],
+							borderColor: "rgba(75, 192, 192, 0.5)"
+						}],
+						[{
+							label: "ADR",
+							//lineTension: 0,
+							pointHitRadius: 30,
+							fill: false,
+							data: [108, 93, 111.1, 51, 103.1],
+							borderColor: "rgba(5, 4, 192, 0.5)"
+						}]
+					];
+		var myLabelSets = [[ "de_mirage", "de_mirage", "de_mirage", "de_mirage", "de_dust2" ], [ "de_mirage2", "de_mirage2", "de_mirage2", "de_mirage2", "de_dust22" ]];
+		var currentType = 'hltv';
+		function changeChartData(element, type)
+		{
+			if (type == currentType)
+				return;
+			
+			var labels;
+			var datasets;
+
+			if (type == 'hltv')
+			{
+				labels = myLabelSets[0];
+				datasets = myDataSets[0];
+			}
+			else if (type == 'adr')
+			{
+				labels = myLabelSets[1];
+				datasets = myDataSets[1];
+			}
+
+			$("#dropdown-button")[0].innerHTML  = element.innerHTML;
+			$(".chartButton").each(function() { $(this).removeClass("active"); });
+			$(element).addClass("active");
+			myChangingChart.data.labels = labels;
+			myChangingChart.data.datasets = datasets;
+			myChangingChart.update();
+
+			currentType = type;
+		}
+
+		function numberWithCommas (x) {
+			var parts = x.toString().split(".");
+			parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+			return parts.join(".");
+		}
+		$(document).ready(function(){
+			$(".chartButton").each(function(index){
+				$(this).click(function(){
+					changeChartData(this, $(this).data("chart"));
+				});
+			});
+			Chart.pluginService.register({
+				beforeDraw: function (chart) {
+					if (chart.config.options.elements.center) {
+					//Get ctx from string
+					var ctx = chart.chart.ctx;
+
+					//Get options from the center object in options
+					var centerConfig = chart.config.options.elements.center;
+					var fontStyle = centerConfig.fontStyle || 'Arial';
+					var txt = centerConfig.text;
+					var color = centerConfig.color || '#000';
+					var sidePadding = centerConfig.sidePadding || 20;
+					var sidePaddingCalculated = (sidePadding/100) * (chart.innerRadius * 2)
+					//Start with a base font of 30px
+					ctx.font = "30px " + fontStyle;
+
+					//Get the width of the string and also the width of the element minus 10 to give it 5px side padding
+					var stringWidth = ctx.measureText(txt).width;
+					var elementWidth = (chart.innerRadius * 2) - sidePaddingCalculated;
+
+					// Find out how much the font can grow in width.
+					var widthRatio = elementWidth / stringWidth;
+					var newFontSize = Math.floor(30 * widthRatio);
+					var elementHeight = (chart.innerRadius * 2);
+
+					// Pick a new font size so it will not be larger than the height of label.
+					var fontSizeToUse = Math.min(newFontSize, elementHeight);
+
+					//Set font settings to draw it correctly.
+					ctx.textAlign = 'center';
+					ctx.textBaseline = 'middle';
+					var centerX = ((chart.chartArea.left + chart.chartArea.right) / 2);
+					var centerY = ((chart.chartArea.top + chart.chartArea.bottom));
+					
+					if (centerConfig.halfSize)
+						centerY *= 0.9;
+					else 
+						centerY /= 2;
+					
+					ctx.font = fontSizeToUse+"px " + fontStyle;
+					ctx.fillStyle = color;
+
+					//Draw text in center
+					ctx.fillText(txt, centerX, centerY);
+					}
+				}
+			});
+			var ctx = $("#{{chart_key1}}")[0].getContext('2d');
+			var chartData = {
+				type: 'doughnut',
+				data: {
+					datasets: [
+						{
+							label: "Testing",
+							data: [500, 233],
+							backgroundColor: [ "#4455ff22", "#44ff5522" ],
+							borderColor: [ "#4455ff", "#44ff55" ]
+						}
+					],
+					labels: [ "Armor", "Health" ],
+				},
+				options: {
+					rotation: -1 * Math.PI,
+					circumference: 1 * Math.PI,
+					elements: {
+						center: {
+							halfSize: true,
+							text: numberWithCommas({{page.Damage}}) + ' Damage',
+							color: '#c0c0c0', //Default black
+							sidePadding: 10 //Default 20 (as a percentage)
+						}
+					},
+					legend: { display: false },
+					plugins: {
+						labels: [
+							{
+								fontColor: '#c0c0c0',
+								render: 'label'
+							}
+						]
+					}
+				}
+			};
+			var myChart = new Chart(ctx, chartData);
+
+			myChart = new Chart($("#{{chart_key2}}")[0].getContext('2d'), {
+				type: 'doughnut',
+				data: {
+					datasets: [
+						{
+							label: "Testing",
+							data: [20, 5, 13],
+							backgroundColor: [ "#44ff4422", "#4444ff22", "#ff444422" ],
+							borderColor: [ "#44ff44", "#4444ff", "#ff4444" ],
+							borderWidth: 1
+						}
+					],
+					labels: [ "Won", "Tied", "Lost" ],
+				},
+				options: {
+					rotation: -1 * Math.PI,
+					circumference: 1 * Math.PI,
+					elements: {
+						center: {
+							halfSize: true,
+							text: numberWithCommas({{page.Matches | size}}) + ' Matches',
+							color: '#c0c0c0', //Default black
+							sidePadding: 10 //Default 20 (as a percentage)
+						}
+					},
+					legend: { display: false },
+					plugins: {
+						labels: [
+							{
+								fontColor: '#c0c0c0',
+								render: 'label'
+							}
+						]
+					}
+				}
+			});
+			myChangingChart = new Chart($("#{{chart_key}}3")[0].getContext('2d'), {
+				type: 'line',
+				data: {
+					datasets: myDataSets[0],
+					labels: myLabelSets[0],
+				},
+				options: {
+					tooltips: {
+            			mode: 'index'
+        			},
+					scales: {
+						xAxes: [{
+							offset: true,
+							ticks: {
+								autoSkip: false
+							}
+						}]
+					},
+					legend: { display: false },
+				}
+			});
+		});
+	});
+});
+</script>
