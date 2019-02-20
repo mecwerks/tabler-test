@@ -1,5 +1,5 @@
 title: Marcus Collins
-description: marxy.net - private 10man statistics
+description: osrs.marxy.net
 
 source: src
 host: 0.0.0.0
@@ -8,18 +8,6 @@ plugins:
   - jekyll-tidy
   - jekyll-toc
   - jekyll-random
-
-page_gen:
-  - data: 'players'
-    template: 'player'
-    name: 'UID'
-    dir: 'players'
-    index_files: true
-  - data: 'matches'
-    template: 'match'
-    name: 'UID'
-    dir: 'matches'
-    index_files: true
 
 exclude:
   - regenerate-images.sh
