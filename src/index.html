@@ -136,8 +136,9 @@ require(['jquery', 'datatables'], function($) {
 			if (playersLoaded >= numPlayers)
 				$('#maintable').DataTable({
 					paging: false,
-					"order": [ 1, 'desc' ],
-					"info": false
+					order: [ 1, 'desc' ],
+					info: false,
+					responsive: true,
 				});
 		});
 	}
