@@ -249,6 +249,21 @@ require(['jquery', '/assets/js/jquery.dataTables.min.js'], function($, dataTable
 		});
 	}
 
+	function LoadStats2(user, classname) {
+		lookup(user, "osrs", function(err, stats) { 
+			skills["osrs"].forEach(function(stat, index) {
+				$('.' + classname + ' .' + stat)[0].innerText = stats[stat].level;
+			});
+
+			var base = 0.25 * (stats.defence.level + stats.hitpoints.level + Math.floor(stats.prayer.level/2));
+			var melee = 0.325 * (stats.attack.level + stats.strength.level);
+			var range = 0.325 * (Math.floor(stats.ranged.level/2) + stats.ranged.level);
+			var mage = 0.325 * (Math.floor(stats.magic.level/2) + stats.magic.level);
+			var combatlvl = Math.floor(base + Math.max(melee, range, mage));
+			
+			$('.' + classname + ' .combat')[0].innerText = combatlvl;
+		});
+	}
 	$( document ).ready(function() {
 		if (0) {
 		$('#maintable').DataTable({
@@ -289,7 +304,7 @@ require(['jquery', '/assets/js/jquery.dataTables.min.js'], function($, dataTable
 		LoadStats('dyliciousdux');
 		LoadStats('dadzera');
 		LoadStats('fentonlm');
-		LoadStats('moron tv');
+		LoadStats2('moron tv', 'morontv');
 	});
 });
 </script>
