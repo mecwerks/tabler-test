@@ -1,4 +1,27 @@
 {
+  "June, 2019": {
+    "Date": "June, 2019",
+    "Matches": [
+      {
+        "UID": "2019-06-12_22_de_cbble_pro-mod_pug",
+        "Time": "12th @ 22:00",
+        "TeamAName": "Spell-ICUP",
+        "TeamBName": "smallpp",
+        "TeamAWins": "16",
+        "TeamBWins": "11",
+        "Map": "de_cbble_pro-mod"
+      },
+      {
+        "UID": "2019-06-12_21_de_oldnuke_pug",
+        "Time": "12th @ 21:00",
+        "TeamAName": "PSU HBG > UP",
+        "TeamBName": "Team â™• Luck áƒ¦",
+        "TeamAWins": "16",
+        "TeamBWins": "5",
+        "Map": "de_oldnuke"
+      }
+    ]
+  },
   "May, 2019": {
     "Date": "May, 2019",
     "Matches": [
