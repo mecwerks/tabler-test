@@ -5,19 +5,18 @@ menu: index
 ---
 
 <style>
+	iframe {
+		border: 0;
+	}
 </style>
 <div class="container">
-	<div class="row align-center">
-		<div class="col align-self-center">
-			<iframe title="Marxy's player frame" i18n-title="channel#ShareDialog:playerEmbedFrame|Embed player Frame copied from share dialog" 
-				allowfullscreen="true" src="https://mixer.com/embed/player/Marxy?disableLowLatency=1" height="540" width="960"> 
+		<div class="row justify-content-center">
+			<iframe class="col-10" title="Marxy's player frame" i18n-title="channel#ShareDialog:playerEmbedFrame|Embed player Frame copied from share dialog" allowfullscreen="true" src="https://mixer.com/embed/player/Marxy?disableLowLatency=1" height="550">
 			</iframe>
-			<iframe title="Marxy's chat frame" i18n-title="channel#ShareDialog:chatEmbedFrame|eEmbedmbed chat frame copied from share dialog" 
-				allowfullscreen="true" src="https://mixer.com/embed/chat/Marxy" width="960" height="260"> 
+			<iframe class="col-10" title="Marxy's chat frame" i18n-title="channel#ShareDialog:chatEmbedFrame|eEmbedmbed chat frame copied from share dialog" allowfullscreen="true" src="https://mixer.com/embed/chat/Marxy" height="300">
 			</iframe>
 		</div>
-	</div>
-</div>
+	  </div>
 <script>
 
 require(['jquery', 'datatables'], function($) {
