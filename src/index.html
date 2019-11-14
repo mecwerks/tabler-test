@@ -7,154 +7,19 @@ menu: index
 <style>
 </style>
 <div class="container">
-	<div class="row border">
-		<table class="table table-responsive-xl table-hover" id="maintable">
-			<thead>
-				<tr>
-					<th scope="col" class="text-center">Name</th>
-					<th scope="col" class="text-center"><img src="/assets/combat.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/attack.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/defence.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/strength.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/hitpoints.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/ranged.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/prayer.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/magic.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/cooking.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/woodcutting.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/fletching.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/fishing.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/firemaking.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/crafting.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/smithing.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/mining.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/herblore.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/agility.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/thieving.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/slayer.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/farming.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/runecraft.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/hunter.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/construction.png"/></th>
-					<th scope="col" class="text-center"><img src="/assets/overall.png"/></th>
-				</tr>
-			</thead>
-			<tbody>
-			</tbody>
-		</table>
+	<div class="row border align-center">
+		<iframe title="Marxy's player frame" i18n-title="channel#ShareDialog:playerEmbedFrame|Embed player Frame copied from share dialog" 
+			allowfullscreen="true" src="https://mixer.com/embed/player/Marxy?disableLowLatency=1" height="540" width="960"> 
+		</iframe>
+		<iframe title="Marxy's chat frame" i18n-title="channel#ShareDialog:chatEmbedFrame|eEmbedmbed chat frame copied from share dialog" 
+			allowfullscreen="true" src="https://mixer.com/embed/chat/Marxy" width="960" height="260"> 
+		</iframe>
 	</div>
 </div>
 <script>
 
 require(['jquery', 'datatables'], function($) {
-	var numPlayers = 0;
-	var playersLoaded = 0;
-
-	var BASE_SKILLS = [ 
-		'overall', 'attack', 'defence', 'strength', 'hitpoints', 'ranged',
-		'prayer', 'magic', 'cooking', 'woodcutting', 'fletching', 'fishing',
-		'firemaking', 'crafting', 'smithing', 'mining', 'herblore', 'agility', 
-		'thieving', 'slayer', 'farming', 'runecraft', 'hunter', 'construction'
-	];
-
-	var urls = {
-		'osrs': 'http://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player=',
-		'rs3': 'http://hiscore.runescape.com/index_lite.ws?player='
-	};
-
-	var skills = {
-		'osrs': BASE_SKILLS,
-		'rs3': BASE_SKILLS.concat('summoning', 'dungeoneering', 'divination')
-	};
-
-	function parseStats(raw, skillsList) {
-		var stats = raw.split('\n').slice(0, skillsList.length);
-		var statsObj = { };
-		stats.forEach(function(stat, index) {
-			var chunk = stat.split(',');
-			statsObj[skillsList[index]] = {
-				rank: parseInt(+chunk[0]),
-				level: parseInt(+chunk[1]),
-				xp: parseInt(+chunk[2])
-			};
-		});
-		return statsObj;
-	}
-
-	function lookup(player, game, callback) {
-		if (!urls.hasOwnProperty(game)) {
-			game = 'rs3';
-		}
-		var url = 'https://cors-anywhere.herokuapp.com/';
-		
-		url = url.concat(urls[game].concat(encodeURIComponent(player)));
-
-		$.ajax({
-			url:url,
-			success: function(data) { callback(null, parseStats(data,skills[game])); },
-			error: function(jqXHR, textStatus, ex) { }
-		});
-	};
-
-	function LoadStats(user, row) {
-		$('<td/>').attr({ class: "text-center", scope: "row" }).text(user).appendTo(row);
-		lookup(user, "osrs", function(err, stats) { 
-			var base = 0.25 * (stats.defence.level + stats.hitpoints.level + Math.floor(stats.prayer.level/2));
-			var melee = 0.325 * (stats.attack.level + stats.strength.level);
-			var range = 0.325 * (Math.floor(stats.ranged.level/2) + stats.ranged.level);
-			var mage = 0.325 * (Math.floor(stats.magic.level/2) + stats.magic.level);
-			var combatlvl = Math.floor(base + Math.max(melee, range, mage));
-			
-			$('<td/>').attr({ class: "text-center"}).text(combatlvl).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.attack.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.defence.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.strength.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.hitpoints.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.ranged.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.prayer.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.magic.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.cooking.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.woodcutting.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.fletching.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.fishing.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.firemaking.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.crafting.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.smithing.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.mining.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.herblore.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.agility.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.thieving.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.slayer.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.farming.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.runecraft.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.hunter.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.construction.level).appendTo(row);
-			$('<td/>').attr({ class: "text-center"}).text(stats.overall.level).appendTo(row);
-
-			playersLoaded++;
-
-			if (playersLoaded >= numPlayers)
-				$('#maintable').DataTable({
-					paging: false,
-					order: [ 1, 'desc' ],
-					info: false,
-					responsive: true,
-				});
-		});
-	}
-
 	$( document ).ready(function() {
-		var usrs = [ 'Mecwerks', 'DyliciousDux', 'Dadzera', 'FentonLM', 
-					'Moron Tv', 'Dambluck', 'Astronutter', 'FroztyNips',
-					'NotDadzera', 'Smugxy' ];
-		
-		numPlayers = usrs.length;
-
-		usrs.forEach(function(name) {
-			var row = $('<tr/>');
-			$('#maintable').append(row);
-			LoadStats(name, row);
-		});
 	});
 });
 </script>
